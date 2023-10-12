@@ -1,0 +1,104 @@
+@font-face {
+    font-family: "Amaranth";
+    font-weight: unset;
+    src: url("fonts/Amaranth-Regular.ttf");
+}
+
+@font-face {
+    font-family: "EBGaramond";
+    src: url("fonts/EBGaramond-VariableFont_wght.ttf");
+}
+
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+
+    font-family: 'EBGaramond', 'serif';
+}
+
+h1, h2, h3, h4, h5, h6, ul {
+    font-family: 'Amaranth', 'sans-serif';
+}
+
+h1 {
+    font-size: pt;
+}
+
+.navbar-brand {
+    font-family: 'Amaranth';
+    font-size: 24pt;
+    font-weight: bold;
+}
+
+.fullscreen {
+    width: 100%;
+    height: calc(100vh - 72.4px);
+}
+
+
+#primary {
+    background-image: url('images/background.jpg');
+    background-size: cover;
+    background-position: 60% 0%;
+}
+
+
+#about {
+    display: block;
+    height: 100%;
+}
+
+#about p {
+    background-color: rgba(255, 255, 255, 0.9);
+    width: 100%;
+
+    margin-bottom: 2em;
+
+    padding: 30px 50px 30px 50px;
+    display: inline;
+
+    font-size: 12pt;
+    border-radius: 10px;
+
+    animation: fadeIn 2s;
+}
+
+@media (min-width: 992px) {
+    #about {
+        padding-left: 10em;
+        padding-right: 10em;
+        padding-bottom: 5em;
+    }
+    
+    #about p {
+        font-size: 14pt;
+        max-width: 900px;
+        animation: fadeIn 2s;
+    }
+}
+
+.reference {
+    font-size: 10pt;
+    font-weight: lighter;
+}
+
+.icon {
+    width: 35px;
+    height: 35px;
+    padding: 2px;
+}
+
+.anchor:before {
+    display: block;
+    content: "";
+    height: 3em;
+    width: 0;
+    position: relative;
+    margin-top: -3em;
+}
