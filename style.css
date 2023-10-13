@@ -40,9 +40,17 @@ h1 {
 
 
 #primary {
-    background-image: url('images/background.webp');
+    background-image: url('images/portrait.webp');
     background-size: cover;
     background-position: 60% 0%;
+}
+
+@media (min-width: 500px) {
+    #primary {
+        background-image: url('images/background.webp');
+        background-size: cover;
+        background-position: 60% 0%;
+    }
 }
 
 
