@@ -1,11 +1,13 @@
 @font-face {
     font-family: "Amaranth";
     font-weight: unset;
+    font-display: swap;
     src: url("fonts/Amaranth-Regular.ttf");
 }
 
 @font-face {
     font-family: "EBGaramond";
+    font-display: swap;
     src: url("fonts/EBGaramond-VariableFont_wght.ttf");
 }
 
