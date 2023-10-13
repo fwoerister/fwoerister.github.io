@@ -21,6 +21,7 @@ body {
 
 h1, h2, h3, h4, h5, h6, ul {
     font-family: 'Amaranth', 'sans-serif';
+    scroll-margin-top: 72.4px;
 }
 
 h1 {
@@ -35,7 +36,7 @@ h1 {
 
 .fullscreen {
     width: 100%;
-    height: calc(100vh - 72.4px);
+    height: calc(100vh);
 }
 
 
@@ -95,13 +96,4 @@ h1 {
     width: 35px;
     height: 35px;
     padding: 2px;
-}
-
-.anchor:before {
-    display: block;
-    content: "";
-    height: 3em;
-    width: 0;
-    position: relative;
-    margin-top: -3em;
 }
