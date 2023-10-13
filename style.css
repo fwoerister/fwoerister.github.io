@@ -42,7 +42,8 @@ h1 {
 
 .fullscreen {
     width: 100%;
-    height: calc(100vh);
+    height: calc(100vh-50px);
+    margin-top: 50px;
 }
 
 
