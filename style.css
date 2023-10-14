@@ -34,6 +34,10 @@ h1 {
     font-size: pt;
 }
 
+.navbar {
+    height: 80px;
+}
+
 .navbar-brand {
     font-family: 'Amaranth';
     font-size: 24pt;
@@ -42,8 +46,7 @@ h1 {
 
 .fullscreen {
     width: 100%;
-    height: calc(100vh-50px);
-    margin-top: 50px;
+    height: calc(100vh - 80px);
 }
 
 
@@ -95,4 +98,8 @@ h1 {
     width: 35px;
     height: 35px;
     padding: 2px;
+}
+
+.offcanvas {
+    width: 70vw !important;
 }
