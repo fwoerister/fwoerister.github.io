@@ -1,0 +1,1790 @@
+{
+  "league": "Demo League 2026/27",
+  "pointsForWin": 3,
+  "pointsForDraw": 1,
+  "teams": [
+    {
+      "id": "T01",
+      "name": "FC Riverside",
+      "founded": 1975,
+      "stadium": {
+        "name": "FC Arena",
+        "capacity": 23000
+      }
+    },
+    {
+      "id": "T02",
+      "name": "Alpine United",
+      "founded": 1910,
+      "stadium": {
+        "name": "United Park",
+        "capacity": 33000
+      }
+    },
+    {
+      "id": "T03",
+      "name": "SV Northport",
+      "founded": 1963,
+      "stadium": {
+        "name": "SV Arena",
+        "capacity": 41000
+      }
+    },
+    {
+      "id": "T04",
+      "name": "Castle Hill Rovers",
+      "founded": 1893,
+      "stadium": {
+        "name": "Rovers Park",
+        "capacity": 33000
+      }
+    },
+    {
+      "id": "T05",
+      "name": "Lakeside Athletic",
+      "founded": 1949,
+      "stadium": {
+        "name": "Lakeside Arena",
+        "capacity": 12000
+      }
+    },
+    {
+      "id": "T06",
+      "name": "Union Westgate",
+      "founded": 1980,
+      "stadium": {
+        "name": "Westgate Park",
+        "capacity": 29000
+      }
+    },
+    {
+      "id": "T07",
+      "name": "Harbour City FC",
+      "founded": 1913,
+      "stadium": {
+        "name": "Harbour Arena",
+        "capacity": 27000
+      }
+    },
+    {
+      "id": "T08",
+      "name": "Eastgate Wanderers",
+      "founded": 1970,
+      "stadium": {
+        "name": "Wanderers Park",
+        "capacity": 33000
+      }
+    },
+    {
+      "id": "T09",
+      "name": "Old Town SC",
+      "founded": 1980,
+      "stadium": {
+        "name": "Old Arena",
+        "capacity": 44000
+      }
+    },
+    {
+      "id": "T10",
+      "name": "Tech Campus FC",
+      "founded": 1890,
+      "stadium": {
+        "name": "FC Park",
+        "capacity": 44000
+      }
+    }
+  ],
+  "matches": [
+    {
+      "id": 1,
+      "round": 1,
+      "date": "2026-08-01T15:30",
+      "homeTeamId": "T01",
+      "awayTeamId": "T10",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "goals": [],
+      "attendance": 3796
+    },
+    {
+      "id": 2,
+      "round": 1,
+      "date": "2026-08-02T15:30",
+      "homeTeamId": "T02",
+      "awayTeamId": "T09",
+      "status": "finished",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "goals": [
+        {
+          "minute": 7,
+          "teamId": "T02"
+        },
+        {
+          "minute": 15,
+          "teamId": "T02"
+        },
+        {
+          "minute": 47,
+          "teamId": "T02"
+        },
+        {
+          "minute": 50,
+          "teamId": "T02"
+        },
+        {
+          "minute": 60,
+          "teamId": "T09"
+        }
+      ],
+      "attendance": 22287
+    },
+    {
+      "id": 3,
+      "round": 1,
+      "date": "2026-08-01T15:30",
+      "homeTeamId": "T03",
+      "awayTeamId": "T08",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "goals": [],
+      "attendance": 38620
+    },
+    {
+      "id": 4,
+      "round": 1,
+      "date": "2026-08-02T15:30",
+      "homeTeamId": "T04",
+      "awayTeamId": "T07",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "goals": [
+        {
+          "minute": 27,
+          "teamId": "T07"
+        }
+      ],
+      "attendance": 6535
+    },
+    {
+      "id": 5,
+      "round": 1,
+      "date": "2026-08-01T15:30",
+      "homeTeamId": "T05",
+      "awayTeamId": "T06",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "goals": [],
+      "attendance": 9839
+    },
+    {
+      "id": 6,
+      "round": 2,
+      "date": "2026-08-09T15:30",
+      "homeTeamId": "T09",
+      "awayTeamId": "T01",
+      "status": "finished",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "goals": [
+        {
+          "minute": 27,
+          "teamId": "T09"
+        },
+        {
+          "minute": 29,
+          "teamId": "T09"
+        },
+        {
+          "minute": 42,
+          "teamId": "T09"
+        },
+        {
+          "minute": 90,
+          "teamId": "T09"
+        }
+      ],
+      "attendance": 25115
+    },
+    {
+      "id": 7,
+      "round": 2,
+      "date": "2026-08-08T15:30",
+      "homeTeamId": "T08",
+      "awayTeamId": "T10",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "goals": [],
+      "attendance": 3784
+    },
+    {
+      "id": 8,
+      "round": 2,
+      "date": "2026-08-08T15:30",
+      "homeTeamId": "T07",
+      "awayTeamId": "T02",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "goals": [],
+      "attendance": 18431
+    },
+    {
+      "id": 9,
+      "round": 2,
+      "date": "2026-08-09T15:30",
+      "homeTeamId": "T06",
+      "awayTeamId": "T03",
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "goals": [
+        {
+          "minute": 69,
+          "teamId": "T06"
+        }
+      ],
+      "attendance": 24226
+    },
+    {
+      "id": 10,
+      "round": 2,
+      "date": "2026-08-09T15:30",
+      "homeTeamId": "T05",
+      "awayTeamId": "T04",
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "goals": [
+        {
+          "minute": 48,
+          "teamId": "T05"
+        },
+        {
+          "minute": 87,
+          "teamId": "T05"
+        }
+      ],
+      "attendance": 3075
+    },
+    {
+      "id": 11,
+      "round": 3,
+      "date": "2026-08-15T15:30",
+      "homeTeamId": "T01",
+      "awayTeamId": "T08",
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "goals": [
+        {
+          "minute": 11,
+          "teamId": "T01"
+        }
+      ],
+      "attendance": 14801
+    },
+    {
+      "id": 12,
+      "round": 3,
+      "date": "2026-08-15T15:30",
+      "homeTeamId": "T09",
+      "awayTeamId": "T07",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 4
+      },
+      "goals": [
+        {
+          "minute": 14,
+          "teamId": "T07"
+        },
+        {
+          "minute": 15,
+          "teamId": "T07"
+        },
+        {
+          "minute": 22,
+          "teamId": "T07"
+        },
+        {
+          "minute": 36,
+          "teamId": "T07"
+        }
+      ],
+      "attendance": 11696
+    },
+    {
+      "id": 13,
+      "round": 3,
+      "date": "2026-08-15T15:30",
+      "homeTeamId": "T10",
+      "awayTeamId": "T06",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "goals": [],
+      "attendance": 43109
+    },
+    {
+      "id": 14,
+      "round": 3,
+      "date": "2026-08-15T15:30",
+      "homeTeamId": "T02",
+      "awayTeamId": "T05",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "goals": [
+        {
+          "minute": 17,
+          "teamId": "T05"
+        },
+        {
+          "minute": 61,
+          "teamId": "T05"
+        },
+        {
+          "minute": 70,
+          "teamId": "T05"
+        }
+      ],
+      "attendance": 13360
+    },
+    {
+      "id": 15,
+      "round": 3,
+      "date": "2026-08-15T15:30",
+      "homeTeamId": "T03",
+      "awayTeamId": "T04",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "goals": [],
+      "attendance": 21104
+    },
+    {
+      "id": 16,
+      "round": 4,
+      "date": "2026-08-22T15:30",
+      "homeTeamId": "T07",
+      "awayTeamId": "T01",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "goals": [
+        {
+          "minute": 30,
+          "teamId": "T01"
+        }
+      ],
+      "attendance": 19026
+    },
+    {
+      "id": 17,
+      "round": 4,
+      "date": "2026-08-23T15:30",
+      "homeTeamId": "T06",
+      "awayTeamId": "T08",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "goals": [],
+      "attendance": 23487
+    },
+    {
+      "id": 18,
+      "round": 4,
+      "date": "2026-08-23T15:30",
+      "homeTeamId": "T05",
+      "awayTeamId": "T09",
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "goals": [
+        {
+          "minute": 86,
+          "teamId": "T05"
+        }
+      ],
+      "attendance": 10686
+    },
+    {
+      "id": 19,
+      "round": 4,
+      "date": "2026-08-23T15:30",
+      "homeTeamId": "T04",
+      "awayTeamId": "T10",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "goals": [],
+      "attendance": 6323
+    },
+    {
+      "id": 20,
+      "round": 4,
+      "date": "2026-08-22T15:30",
+      "homeTeamId": "T03",
+      "awayTeamId": "T02",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "goals": [],
+      "attendance": 33735
+    },
+    {
+      "id": 21,
+      "round": 5,
+      "date": "2026-08-29T15:30",
+      "homeTeamId": "T01",
+      "awayTeamId": "T06",
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "goals": [
+        {
+          "minute": 7,
+          "teamId": "T01"
+        },
+        {
+          "minute": 19,
+          "teamId": "T01"
+        },
+        {
+          "minute": 46,
+          "teamId": "T06"
+        }
+      ],
+      "attendance": 11318
+    },
+    {
+      "id": 22,
+      "round": 5,
+      "date": "2026-08-29T15:30",
+      "homeTeamId": "T07",
+      "awayTeamId": "T05",
+      "status": "finished",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "goals": [
+        {
+          "minute": 21,
+          "teamId": "T07"
+        },
+        {
+          "minute": 23,
+          "teamId": "T07"
+        },
+        {
+          "minute": 24,
+          "teamId": "T07"
+        },
+        {
+          "minute": 37,
+          "teamId": "T07"
+        },
+        {
+          "minute": 69,
+          "teamId": "T07"
+        }
+      ],
+      "attendance": 25203
+    },
+    {
+      "id": 23,
+      "round": 5,
+      "date": "2026-08-30T15:30",
+      "homeTeamId": "T08",
+      "awayTeamId": "T04",
+      "status": "finished",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "goals": [
+        {
+          "minute": 6,
+          "teamId": "T04"
+        },
+        {
+          "minute": 15,
+          "teamId": "T08"
+        },
+        {
+          "minute": 21,
+          "teamId": "T08"
+        },
+        {
+          "minute": 31,
+          "teamId": "T08"
+        }
+      ],
+      "attendance": 12375
+    },
+    {
+      "id": 24,
+      "round": 5,
+      "date": "2026-08-30T15:30",
+      "homeTeamId": "T09",
+      "awayTeamId": "T03",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "goals": [],
+      "attendance": 14091
+    },
+    {
+      "id": 25,
+      "round": 5,
+      "date": "2026-08-29T15:30",
+      "homeTeamId": "T10",
+      "awayTeamId": "T02",
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "goals": [
+        {
+          "minute": 41,
+          "teamId": "T10"
+        }
+      ],
+      "attendance": 24534
+    },
+    {
+      "id": 26,
+      "round": 6,
+      "date": "2026-09-05T15:30",
+      "homeTeamId": "T05",
+      "awayTeamId": "T01",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "goals": [],
+      "attendance": 4663
+    },
+    {
+      "id": 27,
+      "round": 6,
+      "date": "2026-09-06T15:30",
+      "homeTeamId": "T04",
+      "awayTeamId": "T06",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "goals": [
+        {
+          "minute": 52,
+          "teamId": "T06"
+        },
+        {
+          "minute": 64,
+          "teamId": "T06"
+        }
+      ],
+      "attendance": 27182
+    },
+    {
+      "id": 28,
+      "round": 6,
+      "date": "2026-09-05T15:30",
+      "homeTeamId": "T03",
+      "awayTeamId": "T07",
+      "status": "finished",
+      "score": {
+        "home": 3,
+        "away": 4
+      },
+      "goals": [
+        {
+          "minute": 1,
+          "teamId": "T03"
+        },
+        {
+          "minute": 20,
+          "teamId": "T03"
+        },
+        {
+          "minute": 38,
+          "teamId": "T07"
+        },
+        {
+          "minute": 43,
+          "teamId": "T07"
+        },
+        {
+          "minute": 65,
+          "teamId": "T07"
+        },
+        {
+          "minute": 70,
+          "teamId": "T03"
+        },
+        {
+          "minute": 83,
+          "teamId": "T07"
+        }
+      ],
+      "attendance": 33058
+    },
+    {
+      "id": 29,
+      "round": 6,
+      "date": "2026-09-05T15:30",
+      "homeTeamId": "T02",
+      "awayTeamId": "T08",
+      "status": "finished",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "goals": [
+        {
+          "minute": 19,
+          "teamId": "T02"
+        },
+        {
+          "minute": 44,
+          "teamId": "T08"
+        },
+        {
+          "minute": 57,
+          "teamId": "T02"
+        },
+        {
+          "minute": 73,
+          "teamId": "T02"
+        },
+        {
+          "minute": 74,
+          "teamId": "T02"
+        },
+        {
+          "minute": 86,
+          "teamId": "T02"
+        }
+      ],
+      "attendance": 24581
+    },
+    {
+      "id": 30,
+      "round": 6,
+      "date": "2026-09-05T15:30",
+      "homeTeamId": "T10",
+      "awayTeamId": "T09",
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "goals": [
+        {
+          "minute": 15,
+          "teamId": "T09"
+        },
+        {
+          "minute": 18,
+          "teamId": "T10"
+        },
+        {
+          "minute": 40,
+          "teamId": "T09"
+        },
+        {
+          "minute": 71,
+          "teamId": "T09"
+        },
+        {
+          "minute": 87,
+          "teamId": "T10"
+        }
+      ],
+      "attendance": 3625
+    },
+    {
+      "id": 31,
+      "round": 7,
+      "date": "2026-09-12T15:30",
+      "homeTeamId": "T01",
+      "awayTeamId": "T04",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "goals": [],
+      "attendance": 13711
+    },
+    {
+      "id": 32,
+      "round": 7,
+      "date": "2026-09-12T15:30",
+      "homeTeamId": "T05",
+      "awayTeamId": "T03",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "goals": [],
+      "attendance": 5197
+    },
+    {
+      "id": 33,
+      "round": 7,
+      "date": "2026-09-13T15:30",
+      "homeTeamId": "T06",
+      "awayTeamId": "T02",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "goals": [
+        {
+          "minute": 26,
+          "teamId": "T02"
+        },
+        {
+          "minute": 36,
+          "teamId": "T02"
+        }
+      ],
+      "attendance": 2738
+    },
+    {
+      "id": 34,
+      "round": 7,
+      "date": "2026-09-12T15:30",
+      "homeTeamId": "T07",
+      "awayTeamId": "T10",
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "goals": [
+        {
+          "minute": 86,
+          "teamId": "T07"
+        }
+      ],
+      "attendance": 4863
+    },
+    {
+      "id": 35,
+      "round": 7,
+      "date": "2026-09-13T15:30",
+      "homeTeamId": "T08",
+      "awayTeamId": "T09",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "goals": [],
+      "attendance": 21764
+    },
+    {
+      "id": 36,
+      "round": 8,
+      "date": "2026-09-20T15:30",
+      "homeTeamId": "T03",
+      "awayTeamId": "T01",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "goals": [],
+      "attendance": 25662
+    },
+    {
+      "id": 37,
+      "round": 8,
+      "date": "2026-09-19T15:30",
+      "homeTeamId": "T02",
+      "awayTeamId": "T04",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "goals": [
+        {
+          "minute": 48,
+          "teamId": "T04"
+        }
+      ],
+      "attendance": 14652
+    },
+    {
+      "id": 38,
+      "round": 8,
+      "date": "2026-09-19T15:30",
+      "homeTeamId": "T10",
+      "awayTeamId": "T05",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "goals": [],
+      "attendance": 22190
+    },
+    {
+      "id": 39,
+      "round": 8,
+      "date": "2026-09-19T15:30",
+      "homeTeamId": "T09",
+      "awayTeamId": "T06",
+      "status": "finished",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "goals": [
+        {
+          "minute": 54,
+          "teamId": "T09"
+        },
+        {
+          "minute": 57,
+          "teamId": "T09"
+        },
+        {
+          "minute": 57,
+          "teamId": "T09"
+        }
+      ],
+      "attendance": 20915
+    },
+    {
+      "id": 40,
+      "round": 8,
+      "date": "2026-09-19T15:30",
+      "homeTeamId": "T08",
+      "awayTeamId": "T07",
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 5
+      },
+      "goals": [
+        {
+          "minute": 12,
+          "teamId": "T07"
+        },
+        {
+          "minute": 18,
+          "teamId": "T07"
+        },
+        {
+          "minute": 19,
+          "teamId": "T07"
+        },
+        {
+          "minute": 54,
+          "teamId": "T08"
+        },
+        {
+          "minute": 55,
+          "teamId": "T08"
+        },
+        {
+          "minute": 76,
+          "teamId": "T07"
+        },
+        {
+          "minute": 77,
+          "teamId": "T07"
+        }
+      ],
+      "attendance": 8808
+    },
+    {
+      "id": 41,
+      "round": 9,
+      "date": "2026-09-26T15:30",
+      "homeTeamId": "T01",
+      "awayTeamId": "T02",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "goals": [
+        {
+          "minute": 9,
+          "teamId": "T02"
+        },
+        {
+          "minute": 43,
+          "teamId": "T02"
+        },
+        {
+          "minute": 76,
+          "teamId": "T02"
+        }
+      ],
+      "attendance": 14313
+    },
+    {
+      "id": 42,
+      "round": 9,
+      "date": "2026-09-26T15:30",
+      "homeTeamId": "T03",
+      "awayTeamId": "T10",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "goals": [
+        {
+          "minute": 35,
+          "teamId": "T10"
+        }
+      ],
+      "attendance": 29165
+    },
+    {
+      "id": 43,
+      "round": 9,
+      "date": "2026-09-26T15:30",
+      "homeTeamId": "T04",
+      "awayTeamId": "T09",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "goals": [
+        {
+          "minute": 18,
+          "teamId": "T09"
+        }
+      ],
+      "attendance": 8529
+    },
+    {
+      "id": 44,
+      "round": 9,
+      "date": "2026-09-26T15:30",
+      "homeTeamId": "T05",
+      "awayTeamId": "T08",
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "goals": [
+        {
+          "minute": 6,
+          "teamId": "T05"
+        },
+        {
+          "minute": 63,
+          "teamId": "T05"
+        }
+      ],
+      "attendance": 6947
+    },
+    {
+      "id": 45,
+      "round": 9,
+      "date": "2026-09-27T15:30",
+      "homeTeamId": "T06",
+      "awayTeamId": "T07",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "goals": [
+        {
+          "minute": 60,
+          "teamId": "T07"
+        }
+      ],
+      "attendance": 9357
+    },
+    {
+      "id": 46,
+      "round": 10,
+      "date": "2026-10-03T15:30",
+      "homeTeamId": "T10",
+      "awayTeamId": "T01",
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "goals": [
+        {
+          "minute": 39,
+          "teamId": "T10"
+        },
+        {
+          "minute": 82,
+          "teamId": "T10"
+        }
+      ],
+      "attendance": 43717
+    },
+    {
+      "id": 47,
+      "round": 10,
+      "date": "2026-10-03T15:30",
+      "homeTeamId": "T09",
+      "awayTeamId": "T02",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "goals": [
+        {
+          "minute": 37,
+          "teamId": "T02"
+        }
+      ],
+      "attendance": 29338
+    },
+    {
+      "id": 48,
+      "round": 10,
+      "date": "2026-10-03T15:30",
+      "homeTeamId": "T08",
+      "awayTeamId": "T03",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "goals": [
+        {
+          "minute": 32,
+          "teamId": "T03"
+        }
+      ],
+      "attendance": 2932
+    },
+    {
+      "id": 49,
+      "round": 10,
+      "date": "2026-10-03T15:30",
+      "homeTeamId": "T07",
+      "awayTeamId": "T04",
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "goals": [
+        {
+          "minute": 9,
+          "teamId": "T07"
+        },
+        {
+          "minute": 77,
+          "teamId": "T07"
+        }
+      ],
+      "attendance": 26430
+    },
+    {
+      "id": 50,
+      "round": 10,
+      "date": "2026-10-03T15:30",
+      "homeTeamId": "T06",
+      "awayTeamId": "T05",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "goals": [],
+      "attendance": 10451
+    },
+    {
+      "id": 51,
+      "round": 11,
+      "date": "2026-10-11T15:30",
+      "homeTeamId": "T01",
+      "awayTeamId": "T09",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 5
+      },
+      "goals": [
+        {
+          "minute": 3,
+          "teamId": "T09"
+        },
+        {
+          "minute": 16,
+          "teamId": "T09"
+        },
+        {
+          "minute": 48,
+          "teamId": "T09"
+        },
+        {
+          "minute": 66,
+          "teamId": "T09"
+        },
+        {
+          "minute": 74,
+          "teamId": "T09"
+        }
+      ],
+      "attendance": 10504
+    },
+    {
+      "id": 52,
+      "round": 11,
+      "date": "2026-10-10T15:30",
+      "homeTeamId": "T10",
+      "awayTeamId": "T08",
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "goals": [
+        {
+          "minute": 60,
+          "teamId": "T10"
+        }
+      ],
+      "attendance": 10879
+    },
+    {
+      "id": 53,
+      "round": 11,
+      "date": "2026-10-10T15:30",
+      "homeTeamId": "T02",
+      "awayTeamId": "T07",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "goals": [],
+      "attendance": 15746
+    },
+    {
+      "id": 54,
+      "round": 11,
+      "date": "2026-10-11T15:30",
+      "homeTeamId": "T03",
+      "awayTeamId": "T06",
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "goals": [
+        {
+          "minute": 38,
+          "teamId": "T03"
+        },
+        {
+          "minute": 38,
+          "teamId": "T03"
+        }
+      ],
+      "attendance": 36708
+    },
+    {
+      "id": 55,
+      "round": 11,
+      "date": "2026-10-11T15:30",
+      "homeTeamId": "T04",
+      "awayTeamId": "T05",
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "goals": [
+        {
+          "minute": 24,
+          "teamId": "T04"
+        },
+        {
+          "minute": 81,
+          "teamId": "T04"
+        }
+      ],
+      "attendance": 27057
+    },
+    {
+      "id": 56,
+      "round": 12,
+      "date": "2026-10-17T15:30",
+      "homeTeamId": "T08",
+      "awayTeamId": "T01",
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "goals": [
+        {
+          "minute": 42,
+          "teamId": "T08"
+        }
+      ],
+      "attendance": 30588
+    },
+    {
+      "id": 57,
+      "round": 12,
+      "date": "2026-10-17T15:30",
+      "homeTeamId": "T07",
+      "awayTeamId": "T09",
+      "status": "finished",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "goals": [
+        {
+          "minute": 35,
+          "teamId": "T07"
+        },
+        {
+          "minute": 39,
+          "teamId": "T07"
+        },
+        {
+          "minute": 88,
+          "teamId": "T07"
+        },
+        {
+          "minute": 90,
+          "teamId": "T09"
+        }
+      ],
+      "attendance": 24555
+    },
+    {
+      "id": 58,
+      "round": 12,
+      "date": "2026-10-17T15:30",
+      "homeTeamId": "T06",
+      "awayTeamId": "T10",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "goals": [
+        {
+          "minute": 19,
+          "teamId": "T10"
+        }
+      ],
+      "attendance": 2422
+    },
+    {
+      "id": 59,
+      "round": 12,
+      "date": "2026-10-17T15:30",
+      "homeTeamId": "T05",
+      "awayTeamId": "T02",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "goals": [],
+      "attendance": 9944
+    },
+    {
+      "id": 60,
+      "round": 12,
+      "date": "2026-10-17T15:30",
+      "homeTeamId": "T04",
+      "awayTeamId": "T03",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "goals": [
+        {
+          "minute": 14,
+          "teamId": "T03"
+        },
+        {
+          "minute": 28,
+          "teamId": "T03"
+        }
+      ],
+      "attendance": 7064
+    },
+    {
+      "id": 61,
+      "round": 13,
+      "date": "2026-10-25T15:30",
+      "homeTeamId": "T01",
+      "awayTeamId": "T07",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "goals": [],
+      "attendance": 20306
+    },
+    {
+      "id": 62,
+      "round": 13,
+      "date": "2026-10-25T15:30",
+      "homeTeamId": "T08",
+      "awayTeamId": "T06",
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "goals": [
+        {
+          "minute": 69,
+          "teamId": "T08"
+        },
+        {
+          "minute": 71,
+          "teamId": "T06"
+        },
+        {
+          "minute": 90,
+          "teamId": "T06"
+        }
+      ],
+      "attendance": 26782
+    },
+    {
+      "id": 63,
+      "round": 13,
+      "date": "2026-10-24T15:30",
+      "homeTeamId": "T09",
+      "awayTeamId": "T05",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "goals": [
+        {
+          "minute": 15,
+          "teamId": "T05"
+        },
+        {
+          "minute": 17,
+          "teamId": "T05"
+        }
+      ],
+      "attendance": 3138
+    },
+    {
+      "id": 64,
+      "round": 13,
+      "date": "2026-10-24T15:30",
+      "homeTeamId": "T10",
+      "awayTeamId": "T04",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "goals": [],
+      "attendance": 11110
+    },
+    {
+      "id": 65,
+      "round": 13,
+      "date": "2026-10-24T15:30",
+      "homeTeamId": "T02",
+      "awayTeamId": "T03",
+      "status": "finished",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "goals": [
+        {
+          "minute": 23,
+          "teamId": "T02"
+        },
+        {
+          "minute": 39,
+          "teamId": "T02"
+        },
+        {
+          "minute": 44,
+          "teamId": "T02"
+        }
+      ],
+      "attendance": 2942
+    },
+    {
+      "id": 66,
+      "round": 14,
+      "date": "2026-11-01T15:30",
+      "homeTeamId": "T06",
+      "awayTeamId": "T01",
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "goals": [
+        {
+          "minute": 89,
+          "teamId": "T06"
+        }
+      ],
+      "attendance": 6664
+    },
+    {
+      "id": 67,
+      "round": 14,
+      "date": "2026-11-01T15:30",
+      "homeTeamId": "T05",
+      "awayTeamId": "T07",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "goals": [],
+      "attendance": 4133
+    },
+    {
+      "id": 68,
+      "round": 14,
+      "date": "2026-10-31T15:30",
+      "homeTeamId": "T04",
+      "awayTeamId": "T08",
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "goals": [
+        {
+          "minute": 15,
+          "teamId": "T08"
+        }
+      ],
+      "attendance": 4547
+    },
+    {
+      "id": 69,
+      "round": 14,
+      "date": "2026-10-31T15:30",
+      "homeTeamId": "T03",
+      "awayTeamId": "T09",
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "goals": [
+        {
+          "minute": 6,
+          "teamId": "T03"
+        },
+        {
+          "minute": 26,
+          "teamId": "T09"
+        }
+      ],
+      "attendance": 9065
+    },
+    {
+      "id": 70,
+      "round": 14,
+      "date": "2026-10-31T15:30",
+      "homeTeamId": "T02",
+      "awayTeamId": "T10",
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "goals": [
+        {
+          "minute": 8,
+          "teamId": "T02"
+        },
+        {
+          "minute": 61,
+          "teamId": "T02"
+        }
+      ],
+      "attendance": 5896
+    },
+    {
+      "id": 71,
+      "round": 15,
+      "date": "2026-11-07T15:30",
+      "homeTeamId": "T01",
+      "awayTeamId": "T05",
+      "status": "scheduled",
+      "score": null,
+      "goals": []
+    },
+    {
+      "id": 72,
+      "round": 15,
+      "date": "2026-11-07T15:30",
+      "homeTeamId": "T06",
+      "awayTeamId": "T04",
+      "status": "scheduled",
+      "score": null,
+      "goals": []
+    },
+    {
+      "id": 73,
+      "round": 15,
+      "date": "2026-11-07T15:30",
+      "homeTeamId": "T07",
+      "awayTeamId": "T03",
+      "status": "scheduled",
+      "score": null,
+      "goals": []
+    },
+    {
+      "id": 74,
+      "round": 15,
+      "date": "2026-11-07T15:30",
+      "homeTeamId": "T08",
+      "awayTeamId": "T02",
+      "status": "scheduled",
+      "score": null,
+      "goals": []
+    },
+    {
+      "id": 75,
+      "round": 15,
+      "date": "2026-11-08T15:30",
+      "homeTeamId": "T09",
+      "awayTeamId": "T10",
+      "status": "scheduled",
+      "score": null,
+      "goals": []
+    },
+    {
+      "id": 76,
+      "round": 16,
+      "date": "2026-11-14T15:30",
+      "homeTeamId": "T04",
+      "awayTeamId": "T01",
+      "status": "scheduled",
+      "score": null,
+      "goals": []
+    },
+    {
+      "id": 77,
+      "round": 16,
+      "date": "2026-11-14T15:30",
+      "homeTeamId": "T03",
+      "awayTeamId": "T05",
+      "status": "scheduled",
+      "score": null,
+      "goals": []
+    },
+    {
+      "id": 78,
+      "round": 16,
+      "date": "2026-11-14T15:30",
+      "homeTeamId": "T02",
+      "awayTeamId": "T06",
+      "status": "scheduled",
+      "score": null,
+      "goals": []
+    },
+    {
+      "id": 79,
+      "round": 16,
+      "date": "2026-11-15T15:30",
+      "homeTeamId": "T10",
+      "awayTeamId": "T07",
+      "status": "scheduled",
+      "score": null,
+      "goals": []
+    },
+    {
+      "id": 80,
+      "round": 16,
+      "date": "2026-11-14T15:30",
+      "homeTeamId": "T09",
+      "awayTeamId": "T08",
+      "status": "scheduled",
+      "score": null,
+      "goals": []
+    },
+    {
+      "id": 81,
+      "round": 17,
+      "date": "2026-11-22T15:30",
+      "homeTeamId": "T01",
+      "awayTeamId": "T03",
+      "status": "scheduled",
+      "score": null,
+      "goals": []
+    },
+    {
+      "id": 82,
+      "round": 17,
+      "date": "2026-11-21T15:30",
+      "homeTeamId": "T04",
+      "awayTeamId": "T02",
+      "status": "scheduled",
+      "score": null,
+      "goals": []
+    },
+    {
+      "id": 83,
+      "round": 17,
+      "date": "2026-11-21T15:30",
+      "homeTeamId": "T05",
+      "awayTeamId": "T10",
+      "status": "scheduled",
+      "score": null,
+      "goals": []
+    },
+    {
+      "id": 84,
+      "round": 17,
+      "date": "2026-11-22T15:30",
+      "homeTeamId": "T06",
+      "awayTeamId": "T09",
+      "status": "scheduled",
+      "score": null,
+      "goals": []
+    },
+    {
+      "id": 85,
+      "round": 17,
+      "date": "2026-11-21T15:30",
+      "homeTeamId": "T07",
+      "awayTeamId": "T08",
+      "status": "scheduled",
+      "score": null,
+      "goals": []
+    },
+    {
+      "id": 86,
+      "round": 18,
+      "date": "2026-11-28T15:30",
+      "homeTeamId": "T02",
+      "awayTeamId": "T01",
+      "status": "scheduled",
+      "score": null,
+      "goals": []
+    },
+    {
+      "id": 87,
+      "round": 18,
+      "date": "2026-11-28T15:30",
+      "homeTeamId": "T10",
+      "awayTeamId": "T03",
+      "status": "scheduled",
+      "score": null,
+      "goals": []
+    },
+    {
+      "id": 88,
+      "round": 18,
+      "date": "2026-11-28T15:30",
+      "homeTeamId": "T09",
+      "awayTeamId": "T04",
+      "status": "scheduled",
+      "score": null,
+      "goals": []
+    },
+    {
+      "id": 89,
+      "round": 18,
+      "date": "2026-11-29T15:30",
+      "homeTeamId": "T08",
+      "awayTeamId": "T05",
+      "status": "scheduled",
+      "score": null,
+      "goals": []
+    },
+    {
+      "id": 90,
+      "round": 18,
+      "date": "2026-11-28T15:30",
+      "homeTeamId": "T07",
+      "awayTeamId": "T06",
+      "status": "scheduled",
+      "score": null,
+      "goals": []
+    }
+  ]
+}

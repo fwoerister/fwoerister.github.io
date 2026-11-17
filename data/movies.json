@@ -1,0 +1,1077 @@
+{
+  "description": "Well-known films with basic metadata. userRating, votes, watched and tags are fictional demo values.",
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "directors": [
+        "Frank Darabont"
+      ],
+      "genres": [
+        "Drama"
+      ],
+      "runtimeMinutes": 142,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Tim Robbins",
+        "Morgan Freeman"
+      ],
+      "userRating": 8.5,
+      "votes": 124902,
+      "watched": false,
+      "tags": [
+        "family-friendly"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "year": 1972,
+      "directors": [
+        "Francis Ford Coppola"
+      ],
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeMinutes": 175,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Marlon Brando",
+        "Al Pacino"
+      ],
+      "userRating": 7.2,
+      "votes": 449895,
+      "watched": false,
+      "tags": []
+    },
+    {
+      "id": 3,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeMinutes": 152,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Christian Bale",
+        "Heath Ledger"
+      ],
+      "userRating": 8.3,
+      "votes": 153306,
+      "watched": true,
+      "tags": [
+        "family-friendly"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "directors": [
+        "Quentin Tarantino"
+      ],
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeMinutes": 154,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "John Travolta",
+        "Uma Thurman",
+        "Samuel L. Jackson"
+      ],
+      "userRating": 8.1,
+      "votes": 131299,
+      "watched": true,
+      "tags": [
+        "family-friendly",
+        "cult",
+        "dark"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Schindler's List",
+      "year": 1993,
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeMinutes": 195,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Liam Neeson",
+        "Ben Kingsley"
+      ],
+      "userRating": 7.5,
+      "votes": 47257,
+      "watched": false,
+      "tags": [
+        "oscar-winner"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Inception",
+      "year": 2010,
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "runtimeMinutes": 148,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt"
+      ],
+      "userRating": 7.7,
+      "votes": 672128,
+      "watched": true,
+      "tags": [
+        "must-see",
+        "visually-stunning"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Fight Club",
+      "year": 1999,
+      "directors": [
+        "David Fincher"
+      ],
+      "genres": [
+        "Drama"
+      ],
+      "runtimeMinutes": 139,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Brad Pitt",
+        "Edward Norton"
+      ],
+      "userRating": 7.8,
+      "votes": 1525668,
+      "watched": false,
+      "tags": [
+        "classic",
+        "cult"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeMinutes": 142,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Tom Hanks",
+        "Robin Wright"
+      ],
+      "userRating": 8.2,
+      "votes": 1607688,
+      "watched": true,
+      "tags": [
+        "feel-good",
+        "family-friendly"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "The Matrix",
+      "year": 1999,
+      "directors": [
+        "Lana Wachowski",
+        "Lilly Wachowski"
+      ],
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "runtimeMinutes": 136,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss"
+      ],
+      "userRating": 8.6,
+      "votes": 212201,
+      "watched": false,
+      "tags": [
+        "must-see",
+        "family-friendly"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Goodfellas",
+      "year": 1990,
+      "directors": [
+        "Martin Scorsese"
+      ],
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeMinutes": 146,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Robert De Niro",
+        "Ray Liotta",
+        "Joe Pesci"
+      ],
+      "userRating": 9.1,
+      "votes": 1614364,
+      "watched": true,
+      "tags": [
+        "mind-bending",
+        "feel-good"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Interstellar",
+      "year": 2014,
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "runtimeMinutes": 169,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Matthew McConaughey",
+        "Anne Hathaway"
+      ],
+      "userRating": 7.7,
+      "votes": 1139786,
+      "watched": false,
+      "tags": []
+    },
+    {
+      "id": 12,
+      "title": "Spirited Away",
+      "year": 2001,
+      "directors": [
+        "Hayao Miyazaki"
+      ],
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "runtimeMinutes": 125,
+      "languages": [
+        "Japanese"
+      ],
+      "cast": [
+        "Rumi Hiiragi",
+        "Miyu Irino"
+      ],
+      "userRating": 8.4,
+      "votes": 737807,
+      "watched": true,
+      "tags": [
+        "mind-bending"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Parasite",
+      "year": 2019,
+      "directors": [
+        "Bong Joon Ho"
+      ],
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeMinutes": 132,
+      "languages": [
+        "Korean"
+      ],
+      "cast": [
+        "Song Kang-ho",
+        "Choi Woo-shik"
+      ],
+      "userRating": 8.0,
+      "votes": 1152243,
+      "watched": false,
+      "tags": [
+        "feel-good"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "The Silence of the Lambs",
+      "year": 1991,
+      "directors": [
+        "Jonathan Demme"
+      ],
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeMinutes": 118,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Jodie Foster",
+        "Anthony Hopkins"
+      ],
+      "userRating": 9.0,
+      "votes": 254620,
+      "watched": true,
+      "tags": []
+    },
+    {
+      "id": 15,
+      "title": "Gladiator",
+      "year": 2000,
+      "directors": [
+        "Ridley Scott"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeMinutes": 155,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Russell Crowe",
+        "Joaquin Phoenix"
+      ],
+      "userRating": 8.9,
+      "votes": 1702607,
+      "watched": true,
+      "tags": [
+        "feel-good"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "The Lion King",
+      "year": 1994,
+      "directors": [
+        "Roger Allers",
+        "Rob Minkoff"
+      ],
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeMinutes": 88,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Matthew Broderick",
+        "Jeremy Irons"
+      ],
+      "userRating": 7.4,
+      "votes": 2113927,
+      "watched": true,
+      "tags": [
+        "mind-bending",
+        "dark",
+        "must-see"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Back to the Future",
+      "year": 1985,
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "runtimeMinutes": 116,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Michael J. Fox",
+        "Christopher Lloyd"
+      ],
+      "userRating": 7.4,
+      "votes": 2374548,
+      "watched": true,
+      "tags": [
+        "oscar-winner",
+        "feel-good",
+        "must-see"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Alien",
+      "year": 1979,
+      "directors": [
+        "Ridley Scott"
+      ],
+      "genres": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "runtimeMinutes": 117,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Sigourney Weaver",
+        "Tom Skerritt"
+      ],
+      "userRating": 9.4,
+      "votes": 600205,
+      "watched": true,
+      "tags": []
+    },
+    {
+      "id": 19,
+      "title": "Toy Story",
+      "year": 1995,
+      "directors": [
+        "John Lasseter"
+      ],
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeMinutes": 81,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Tom Hanks",
+        "Tim Allen"
+      ],
+      "userRating": 8.8,
+      "votes": 479901,
+      "watched": true,
+      "tags": [
+        "oscar-winner"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Amélie",
+      "year": 2001,
+      "directors": [
+        "Jean-Pierre Jeunet"
+      ],
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeMinutes": 122,
+      "languages": [
+        "French"
+      ],
+      "cast": [
+        "Audrey Tautou",
+        "Mathieu Kassovitz"
+      ],
+      "userRating": 8.4,
+      "votes": 1633831,
+      "watched": true,
+      "tags": [
+        "visually-stunning",
+        "dark",
+        "cult"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Casablanca",
+      "year": 1942,
+      "directors": [
+        "Michael Curtiz"
+      ],
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "runtimeMinutes": 102,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Humphrey Bogart",
+        "Ingrid Bergman"
+      ],
+      "userRating": 9.0,
+      "votes": 68154,
+      "watched": false,
+      "tags": []
+    },
+    {
+      "id": 22,
+      "title": "Jurassic Park",
+      "year": 1993,
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "genres": [
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "runtimeMinutes": 127,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Sam Neill",
+        "Laura Dern",
+        "Jeff Goldblum"
+      ],
+      "userRating": 8.6,
+      "votes": 2272216,
+      "watched": false,
+      "tags": [
+        "must-see",
+        "dark"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Titanic",
+      "year": 1997,
+      "directors": [
+        "James Cameron"
+      ],
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeMinutes": 194,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Leonardo DiCaprio",
+        "Kate Winslet"
+      ],
+      "userRating": 7.9,
+      "votes": 1923055,
+      "watched": true,
+      "tags": [
+        "visually-stunning",
+        "mind-bending"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "The Grand Budapest Hotel",
+      "year": 2014,
+      "directors": [
+        "Wes Anderson"
+      ],
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeMinutes": 99,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Ralph Fiennes",
+        "Tony Revolori"
+      ],
+      "userRating": 8.1,
+      "votes": 466319,
+      "watched": false,
+      "tags": [
+        "visually-stunning",
+        "family-friendly"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Mad Max: Fury Road",
+      "year": 2015,
+      "directors": [
+        "George Miller"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeMinutes": 120,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Tom Hardy",
+        "Charlize Theron"
+      ],
+      "userRating": 7.2,
+      "votes": 697585,
+      "watched": true,
+      "tags": []
+    },
+    {
+      "id": 26,
+      "title": "Whiplash",
+      "year": 2014,
+      "directors": [
+        "Damien Chazelle"
+      ],
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "runtimeMinutes": 106,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Miles Teller",
+        "J.K. Simmons"
+      ],
+      "userRating": 8.4,
+      "votes": 2069360,
+      "watched": true,
+      "tags": [
+        "dark",
+        "family-friendly"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Get Out",
+      "year": 2017,
+      "directors": [
+        "Jordan Peele"
+      ],
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeMinutes": 104,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Daniel Kaluuya",
+        "Allison Williams"
+      ],
+      "userRating": 7.0,
+      "votes": 2399667,
+      "watched": false,
+      "tags": []
+    },
+    {
+      "id": 28,
+      "title": "Up",
+      "year": 2009,
+      "directors": [
+        "Pete Docter"
+      ],
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeMinutes": 96,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Ed Asner",
+        "Jordan Nagai"
+      ],
+      "userRating": 8.7,
+      "votes": 310298,
+      "watched": false,
+      "tags": [
+        "mind-bending"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "The Truman Show",
+      "year": 1998,
+      "directors": [
+        "Peter Weir"
+      ],
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeMinutes": 103,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Jim Carrey",
+        "Laura Linney"
+      ],
+      "userRating": 8.5,
+      "votes": 2326043,
+      "watched": true,
+      "tags": [
+        "family-friendly",
+        "visually-stunning",
+        "feel-good"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Pan's Labyrinth",
+      "year": 2006,
+      "directors": [
+        "Guillermo del Toro"
+      ],
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "War"
+      ],
+      "runtimeMinutes": 118,
+      "languages": [
+        "Spanish"
+      ],
+      "cast": [
+        "Ivana Baquero",
+        "Sergi López"
+      ],
+      "userRating": 7.6,
+      "votes": 2745786,
+      "watched": true,
+      "tags": [
+        "must-see",
+        "family-friendly",
+        "visually-stunning"
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Jaws",
+      "year": 1975,
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeMinutes": 124,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Roy Scheider",
+        "Robert Shaw"
+      ],
+      "userRating": 7.0,
+      "votes": 108224,
+      "watched": true,
+      "tags": [
+        "family-friendly"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Everything Everywhere All at Once",
+      "year": 2022,
+      "directors": [
+        "Daniel Kwan",
+        "Daniel Scheinert"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeMinutes": 139,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Michelle Yeoh",
+        "Ke Huy Quan"
+      ],
+      "userRating": 6.8,
+      "votes": 2667037,
+      "watched": true,
+      "tags": []
+    },
+    {
+      "id": 33,
+      "title": "Dune",
+      "year": 2021,
+      "directors": [
+        "Denis Villeneuve"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeMinutes": 155,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Timothée Chalamet",
+        "Rebecca Ferguson"
+      ],
+      "userRating": 9.2,
+      "votes": 1405917,
+      "watched": true,
+      "tags": [
+        "dark"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "The Social Network",
+      "year": 2010,
+      "directors": [
+        "David Fincher"
+      ],
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "runtimeMinutes": 120,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Jesse Eisenberg",
+        "Andrew Garfield"
+      ],
+      "userRating": 8.5,
+      "votes": 918574,
+      "watched": true,
+      "tags": [
+        "family-friendly",
+        "cult",
+        "oscar-winner"
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Finding Nemo",
+      "year": 2003,
+      "directors": [
+        "Andrew Stanton"
+      ],
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeMinutes": 100,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Albert Brooks",
+        "Ellen DeGeneres"
+      ],
+      "userRating": 7.9,
+      "votes": 415631,
+      "watched": true,
+      "tags": [
+        "feel-good",
+        "oscar-winner",
+        "family-friendly"
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Psycho",
+      "year": 1960,
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeMinutes": 109,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Anthony Perkins",
+        "Janet Leigh"
+      ],
+      "userRating": 8.0,
+      "votes": 247210,
+      "watched": false,
+      "tags": []
+    },
+    {
+      "id": 37,
+      "title": "La La Land",
+      "year": 2016,
+      "directors": [
+        "Damien Chazelle"
+      ],
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music"
+      ],
+      "runtimeMinutes": 128,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Ryan Gosling",
+        "Emma Stone"
+      ],
+      "userRating": 7.0,
+      "votes": 1443138,
+      "watched": false,
+      "tags": []
+    },
+    {
+      "id": 38,
+      "title": "The Lives of Others",
+      "year": 2006,
+      "directors": [
+        "Florian Henckel von Donnersmarck"
+      ],
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeMinutes": 137,
+      "languages": [
+        "German"
+      ],
+      "cast": [
+        "Ulrich Mühe",
+        "Sebastian Koch"
+      ],
+      "userRating": 7.4,
+      "votes": 817793,
+      "watched": true,
+      "tags": [
+        "oscar-winner"
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Oppenheimer",
+      "year": 2023,
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeMinutes": 180,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Cillian Murphy",
+        "Emily Blunt"
+      ],
+      "userRating": 7.3,
+      "votes": 1960402,
+      "watched": true,
+      "tags": []
+    },
+    {
+      "id": 40,
+      "title": "WALL·E",
+      "year": 2008,
+      "directors": [
+        "Andrew Stanton"
+      ],
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "runtimeMinutes": 98,
+      "languages": [
+        "English"
+      ],
+      "cast": [
+        "Ben Burtt",
+        "Elissa Knight"
+      ],
+      "userRating": 8.0,
+      "votes": 2328231,
+      "watched": true,
+      "tags": []
+    }
+  ]
+}

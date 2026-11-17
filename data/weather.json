@@ -1,0 +1,3695 @@
+{
+  "description": "Synthetic daily weather observations (Oct–Nov 2026).",
+  "stations": [
+    {
+      "id": "VIE",
+      "name": "Vienna Inner City",
+      "elevationM": 177,
+      "lat": 48.198,
+      "lon": 16.367
+    },
+    {
+      "id": "SZG",
+      "name": "Salzburg Airport",
+      "elevationM": 430,
+      "lat": 47.793,
+      "lon": 13.004
+    },
+    {
+      "id": "INN",
+      "name": "Innsbruck University",
+      "elevationM": 578,
+      "lat": 47.26,
+      "lon": 11.385
+    },
+    {
+      "id": "SON",
+      "name": "Sonnblick Summit",
+      "elevationM": 3106,
+      "lat": 47.054,
+      "lon": 12.958
+    }
+  ],
+  "observations": [
+    {
+      "stationId": "VIE",
+      "date": "2026-10-01",
+      "tempMinC": 8.4,
+      "tempMaxC": 14.3,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": null,
+      "windKmh": {
+        "avg": 4.5,
+        "gust": 6.9
+      },
+      "sunshineHours": null,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-02",
+      "tempMinC": 4.1,
+      "tempMaxC": 15.9,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 71,
+      "windKmh": {
+        "avg": 13.8,
+        "gust": 28.4
+      },
+      "sunshineHours": 3.4,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-03",
+      "tempMinC": 5.1,
+      "tempMaxC": 11.1,
+      "precipitationMm": 7.0,
+      "snowCm": 0.0,
+      "humidityPercent": 47,
+      "windKmh": {
+        "avg": 9.5,
+        "gust": 24.1
+      },
+      "sunshineHours": 0.5,
+      "condition": "rain"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-04",
+      "tempMinC": 8.7,
+      "tempMaxC": 18.1,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 80,
+      "windKmh": {
+        "avg": 23.7,
+        "gust": 42.8
+      },
+      "sunshineHours": 8.8,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-05",
+      "tempMinC": 9.4,
+      "tempMaxC": 19.4,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 72,
+      "windKmh": {
+        "avg": 6.5,
+        "gust": 10.7
+      },
+      "sunshineHours": 0.9,
+      "condition": "cloudy"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-06",
+      "tempMinC": 4.5,
+      "tempMaxC": 13.5,
+      "precipitationMm": 7.7,
+      "snowCm": 0.0,
+      "humidityPercent": 63,
+      "windKmh": {
+        "avg": 9.5,
+        "gust": 17.8
+      },
+      "sunshineHours": 0.0,
+      "condition": "rain"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-07",
+      "tempMinC": 8.3,
+      "tempMaxC": 16.9,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 85,
+      "windKmh": {
+        "avg": 16.2,
+        "gust": 23.2
+      },
+      "sunshineHours": 1.8,
+      "condition": "cloudy"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-08",
+      "tempMinC": 8.9,
+      "tempMaxC": 17.6,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 64,
+      "windKmh": {
+        "avg": 20.3,
+        "gust": 50.2
+      },
+      "sunshineHours": 4.2,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-09",
+      "tempMinC": 6.3,
+      "tempMaxC": 13.5,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 47,
+      "windKmh": {
+        "avg": 8.8,
+        "gust": 14.7
+      },
+      "sunshineHours": 4.2,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-10",
+      "tempMinC": 4.4,
+      "tempMaxC": 15.0,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 50,
+      "windKmh": {
+        "avg": 17.7,
+        "gust": 33.6
+      },
+      "sunshineHours": 7.3,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-11",
+      "tempMinC": 6.8,
+      "tempMaxC": 17.8,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 88,
+      "windKmh": {
+        "avg": 22.1,
+        "gust": 54.3
+      },
+      "sunshineHours": 4.3,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-12",
+      "tempMinC": 5.8,
+      "tempMaxC": 17.2,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 77,
+      "windKmh": {
+        "avg": 15.6,
+        "gust": 32.5
+      },
+      "sunshineHours": 4.7,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-13",
+      "tempMinC": 7.7,
+      "tempMaxC": 17.2,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 58,
+      "windKmh": {
+        "avg": 20.8,
+        "gust": 39.7
+      },
+      "sunshineHours": 1.1,
+      "condition": "cloudy"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-14",
+      "tempMinC": 8.4,
+      "tempMaxC": 19.9,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 98,
+      "windKmh": {
+        "avg": 16.1,
+        "gust": 36.6
+      },
+      "sunshineHours": 2.9,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-15",
+      "tempMinC": 8.4,
+      "tempMaxC": 19.2,
+      "precipitationMm": 11.7,
+      "snowCm": 0.0,
+      "humidityPercent": 45,
+      "windKmh": {
+        "avg": 20.3,
+        "gust": 41.1
+      },
+      "sunshineHours": 1.7,
+      "condition": "rain"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-16",
+      "tempMinC": 8.9,
+      "tempMaxC": 16.9,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 93,
+      "windKmh": {
+        "avg": 24.2,
+        "gust": 36.9
+      },
+      "sunshineHours": 0.9,
+      "condition": "cloudy"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-17",
+      "tempMinC": 7.9,
+      "tempMaxC": 16.6,
+      "precipitationMm": 12.6,
+      "snowCm": 0.0,
+      "humidityPercent": 81,
+      "windKmh": {
+        "avg": 16.4,
+        "gust": 28.4
+      },
+      "sunshineHours": 0.0,
+      "condition": "rain"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-18",
+      "tempMinC": 3.9,
+      "tempMaxC": 12.6,
+      "precipitationMm": 7.1,
+      "snowCm": 0.0,
+      "humidityPercent": 66,
+      "windKmh": {
+        "avg": 18.2,
+        "gust": 35.9
+      },
+      "sunshineHours": 0.0,
+      "condition": "rain"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-19",
+      "tempMinC": 3.2,
+      "tempMaxC": 15.0,
+      "precipitationMm": 2.2,
+      "snowCm": 0.0,
+      "humidityPercent": 88,
+      "windKmh": {
+        "avg": 5.2,
+        "gust": 8.1
+      },
+      "sunshineHours": 7.1,
+      "condition": "rain"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-20",
+      "tempMinC": 5.7,
+      "tempMaxC": 15.1,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 71,
+      "windKmh": {
+        "avg": 16.3,
+        "gust": 31.5
+      },
+      "sunshineHours": 0.8,
+      "condition": "cloudy"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-21",
+      "tempMinC": 4.2,
+      "tempMaxC": 10.9,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 95,
+      "windKmh": {
+        "avg": 6.5,
+        "gust": 13.1
+      },
+      "sunshineHours": 2.8,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-22",
+      "tempMinC": 8.6,
+      "tempMaxC": 14.5,
+      "precipitationMm": 12.7,
+      "snowCm": 0.0,
+      "humidityPercent": 98,
+      "windKmh": {
+        "avg": 7.4,
+        "gust": 10.7
+      },
+      "sunshineHours": 0.0,
+      "condition": "rain"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-23",
+      "tempMinC": 4.7,
+      "tempMaxC": 13.1,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 52,
+      "windKmh": {
+        "avg": 18.0,
+        "gust": 35.8
+      },
+      "sunshineHours": 2.2,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-24",
+      "tempMinC": 6.1,
+      "tempMaxC": 14.6,
+      "precipitationMm": 3.9,
+      "snowCm": 0.0,
+      "humidityPercent": 98,
+      "windKmh": {
+        "avg": 22.7,
+        "gust": 50.5
+      },
+      "sunshineHours": 5.4,
+      "condition": "rain"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-25",
+      "tempMinC": 2.8,
+      "tempMaxC": 13.8,
+      "precipitationMm": 20.1,
+      "snowCm": 0.0,
+      "humidityPercent": 88,
+      "windKmh": {
+        "avg": 7.5,
+        "gust": 15.1
+      },
+      "sunshineHours": 0.0,
+      "condition": "rain"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-26",
+      "tempMinC": 5.9,
+      "tempMaxC": 13.3,
+      "precipitationMm": 6.9,
+      "snowCm": 0.0,
+      "humidityPercent": 56,
+      "windKmh": {
+        "avg": 16.2,
+        "gust": 27.6
+      },
+      "sunshineHours": 0.0,
+      "condition": "rain"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-27",
+      "tempMinC": 3.6,
+      "tempMaxC": 11.5,
+      "precipitationMm": 3.3,
+      "snowCm": 0.0,
+      "humidityPercent": 61,
+      "windKmh": {
+        "avg": 7.8,
+        "gust": 15.8
+      },
+      "sunshineHours": 1.6,
+      "condition": "rain"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-28",
+      "tempMinC": 7.7,
+      "tempMaxC": 20.5,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 98,
+      "windKmh": {
+        "avg": 11.2,
+        "gust": 23.9
+      },
+      "sunshineHours": 5.8,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-29",
+      "tempMinC": 3.8,
+      "tempMaxC": 13.2,
+      "precipitationMm": 6.1,
+      "snowCm": 0.0,
+      "humidityPercent": 90,
+      "windKmh": {
+        "avg": 23.9,
+        "gust": 38.9
+      },
+      "sunshineHours": 3.8,
+      "condition": "rain"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-30",
+      "tempMinC": 6.7,
+      "tempMaxC": 15.4,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 96,
+      "windKmh": {
+        "avg": 16.2,
+        "gust": 35.9
+      },
+      "sunshineHours": 5.9,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-10-31",
+      "tempMinC": 0.9,
+      "tempMaxC": 9.1,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 47,
+      "windKmh": {
+        "avg": 15.8,
+        "gust": 37.6
+      },
+      "sunshineHours": 9.0,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-01",
+      "tempMinC": -2.0,
+      "tempMaxC": 7.5,
+      "precipitationMm": 7.0,
+      "snowCm": 8.1,
+      "humidityPercent": 67,
+      "windKmh": {
+        "avg": 14.2,
+        "gust": 34.2
+      },
+      "sunshineHours": 5.3,
+      "condition": "snow"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-02",
+      "tempMinC": 5.5,
+      "tempMaxC": 14.8,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 93,
+      "windKmh": {
+        "avg": 23.1,
+        "gust": 57.3
+      },
+      "sunshineHours": 8.5,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-03",
+      "tempMinC": 6.0,
+      "tempMaxC": 15.3,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 71,
+      "windKmh": {
+        "avg": 20.3,
+        "gust": 34.8
+      },
+      "sunshineHours": 3.0,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-04",
+      "tempMinC": 3.5,
+      "tempMaxC": 12.5,
+      "precipitationMm": 5.3,
+      "snowCm": 0.0,
+      "humidityPercent": 57,
+      "windKmh": {
+        "avg": 14.0,
+        "gust": 26.0
+      },
+      "sunshineHours": 6.0,
+      "condition": "rain"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-05",
+      "tempMinC": 0.6,
+      "tempMaxC": 9.5,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 57,
+      "windKmh": {
+        "avg": 10.5,
+        "gust": 25.9
+      },
+      "sunshineHours": 8.9,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-06",
+      "tempMinC": 7.8,
+      "tempMaxC": 14.5,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 56,
+      "windKmh": {
+        "avg": 9.9,
+        "gust": 19.2
+      },
+      "sunshineHours": 0.5,
+      "condition": "cloudy"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-07",
+      "tempMinC": 8.0,
+      "tempMaxC": 16.8,
+      "precipitationMm": 5.2,
+      "snowCm": 0.0,
+      "humidityPercent": 94,
+      "windKmh": {
+        "avg": 4.9,
+        "gust": 10.6
+      },
+      "sunshineHours": 3.8,
+      "condition": "rain"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-08",
+      "tempMinC": 6.6,
+      "tempMaxC": 13.9,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": null,
+      "windKmh": {
+        "avg": 22.6,
+        "gust": 46.0
+      },
+      "sunshineHours": null,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-09",
+      "tempMinC": 2.0,
+      "tempMaxC": 10.8,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 67,
+      "windKmh": {
+        "avg": 9.9,
+        "gust": 19.8
+      },
+      "sunshineHours": 0.9,
+      "condition": "cloudy"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-10",
+      "tempMinC": 3.7,
+      "tempMaxC": 12.9,
+      "precipitationMm": 3.7,
+      "snowCm": 0.0,
+      "humidityPercent": 72,
+      "windKmh": {
+        "avg": 22.5,
+        "gust": 40.8
+      },
+      "sunshineHours": 7.7,
+      "condition": "rain"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-11",
+      "tempMinC": 4.6,
+      "tempMaxC": 14.1,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 96,
+      "windKmh": {
+        "avg": 11.9,
+        "gust": 27.0
+      },
+      "sunshineHours": 2.1,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-12",
+      "tempMinC": 3.2,
+      "tempMaxC": 12.3,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 47,
+      "windKmh": {
+        "avg": 11.3,
+        "gust": 26.3
+      },
+      "sunshineHours": 5.8,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-13",
+      "tempMinC": 1.8,
+      "tempMaxC": 10.5,
+      "precipitationMm": 0.3,
+      "snowCm": 0.0,
+      "humidityPercent": 48,
+      "windKmh": {
+        "avg": 18.2,
+        "gust": 33.8
+      },
+      "sunshineHours": 3.7,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-14",
+      "tempMinC": 2.4,
+      "tempMaxC": 11.2,
+      "precipitationMm": 6.0,
+      "snowCm": 0.0,
+      "humidityPercent": 87,
+      "windKmh": {
+        "avg": 14.4,
+        "gust": 32.3
+      },
+      "sunshineHours": 3.6,
+      "condition": "rain"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-15",
+      "tempMinC": 2.3,
+      "tempMaxC": 10.9,
+      "precipitationMm": 4.3,
+      "snowCm": 0.0,
+      "humidityPercent": 95,
+      "windKmh": {
+        "avg": 5.3,
+        "gust": 8.7
+      },
+      "sunshineHours": 0.4,
+      "condition": "rain"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-16",
+      "tempMinC": 3.0,
+      "tempMaxC": 10.1,
+      "precipitationMm": 2.1,
+      "snowCm": 0.0,
+      "humidityPercent": null,
+      "windKmh": {
+        "avg": 18.1,
+        "gust": 30.4
+      },
+      "sunshineHours": null,
+      "condition": "rain"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-17",
+      "tempMinC": 3.7,
+      "tempMaxC": 11.5,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 76,
+      "windKmh": {
+        "avg": 6.3,
+        "gust": 12.7
+      },
+      "sunshineHours": 0.8,
+      "condition": "cloudy"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-18",
+      "tempMinC": 1.5,
+      "tempMaxC": 11.7,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 74,
+      "windKmh": {
+        "avg": 4.1,
+        "gust": 10.0
+      },
+      "sunshineHours": 7.3,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-19",
+      "tempMinC": 2.3,
+      "tempMaxC": 11.7,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 52,
+      "windKmh": {
+        "avg": 5.1,
+        "gust": 7.4
+      },
+      "sunshineHours": 6.8,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-20",
+      "tempMinC": 1.6,
+      "tempMaxC": 10.9,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 91,
+      "windKmh": {
+        "avg": 5.0,
+        "gust": 8.1
+      },
+      "sunshineHours": 7.3,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-21",
+      "tempMinC": 1.3,
+      "tempMaxC": 11.2,
+      "precipitationMm": 1.9,
+      "snowCm": 0.0,
+      "humidityPercent": 96,
+      "windKmh": {
+        "avg": 12.3,
+        "gust": 19.7
+      },
+      "sunshineHours": 7.3,
+      "condition": "rain"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-22",
+      "tempMinC": -0.7,
+      "tempMaxC": 9.9,
+      "precipitationMm": 0.7,
+      "snowCm": 0.6,
+      "humidityPercent": 73,
+      "windKmh": {
+        "avg": 7.0,
+        "gust": 12.8
+      },
+      "sunshineHours": 3.2,
+      "condition": "snow"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-23",
+      "tempMinC": -5.8,
+      "tempMaxC": 3.6,
+      "precipitationMm": 10.9,
+      "snowCm": 12.5,
+      "humidityPercent": 52,
+      "windKmh": {
+        "avg": 22.5,
+        "gust": 33.2
+      },
+      "sunshineHours": 0.3,
+      "condition": "snow"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-24",
+      "tempMinC": 4.6,
+      "tempMaxC": 15.4,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 59,
+      "windKmh": {
+        "avg": 24.5,
+        "gust": 44.2
+      },
+      "sunshineHours": 6.0,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-25",
+      "tempMinC": 1.1,
+      "tempMaxC": 9.7,
+      "precipitationMm": 0.6,
+      "snowCm": 0.0,
+      "humidityPercent": 67,
+      "windKmh": {
+        "avg": 17.6,
+        "gust": 27.8
+      },
+      "sunshineHours": 5.6,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-26",
+      "tempMinC": 1.7,
+      "tempMaxC": 12.4,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 75,
+      "windKmh": {
+        "avg": 21.7,
+        "gust": 32.3
+      },
+      "sunshineHours": 7.8,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-27",
+      "tempMinC": -2.4,
+      "tempMaxC": 6.6,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 59,
+      "windKmh": {
+        "avg": 15.1,
+        "gust": 35.9
+      },
+      "sunshineHours": 3.4,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-28",
+      "tempMinC": -1.4,
+      "tempMaxC": 6.9,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 76,
+      "windKmh": {
+        "avg": 19.4,
+        "gust": 36.6
+      },
+      "sunshineHours": 0.2,
+      "condition": "cloudy"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-29",
+      "tempMinC": 0.5,
+      "tempMaxC": 12.0,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 84,
+      "windKmh": {
+        "avg": 17.0,
+        "gust": 35.3
+      },
+      "sunshineHours": 8.0,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "VIE",
+      "date": "2026-11-30",
+      "tempMinC": -2.3,
+      "tempMaxC": 7.4,
+      "precipitationMm": 10.2,
+      "snowCm": 10.6,
+      "humidityPercent": 83,
+      "windKmh": {
+        "avg": 13.4,
+        "gust": 30.3
+      },
+      "sunshineHours": 2.5,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-01",
+      "tempMinC": 7.1,
+      "tempMaxC": 16.8,
+      "precipitationMm": 1.5,
+      "snowCm": 0.0,
+      "humidityPercent": 96,
+      "windKmh": {
+        "avg": 9.4,
+        "gust": 21.1
+      },
+      "sunshineHours": 4.2,
+      "condition": "rain"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-02",
+      "tempMinC": 8.0,
+      "tempMaxC": 15.9,
+      "precipitationMm": 7.7,
+      "snowCm": 0.0,
+      "humidityPercent": 57,
+      "windKmh": {
+        "avg": 5.7,
+        "gust": 9.5
+      },
+      "sunshineHours": 5.1,
+      "condition": "rain"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-03",
+      "tempMinC": 7.4,
+      "tempMaxC": 16.7,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 47,
+      "windKmh": {
+        "avg": 23.4,
+        "gust": 49.3
+      },
+      "sunshineHours": 7.5,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-04",
+      "tempMinC": 2.9,
+      "tempMaxC": 12.0,
+      "precipitationMm": 0.9,
+      "snowCm": 0.0,
+      "humidityPercent": 48,
+      "windKmh": {
+        "avg": 15.2,
+        "gust": 32.0
+      },
+      "sunshineHours": 3.6,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-05",
+      "tempMinC": 5.6,
+      "tempMaxC": 14.1,
+      "precipitationMm": 14.5,
+      "snowCm": 0.0,
+      "humidityPercent": 97,
+      "windKmh": {
+        "avg": 5.8,
+        "gust": 12.3
+      },
+      "sunshineHours": 0.0,
+      "condition": "rain"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-06",
+      "tempMinC": 2.4,
+      "tempMaxC": 11.5,
+      "precipitationMm": 14.9,
+      "snowCm": 0.0,
+      "humidityPercent": 66,
+      "windKmh": {
+        "avg": 24.4,
+        "gust": 38.1
+      },
+      "sunshineHours": 0.0,
+      "condition": "rain"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-07",
+      "tempMinC": 6.0,
+      "tempMaxC": 15.0,
+      "precipitationMm": 8.3,
+      "snowCm": 0.0,
+      "humidityPercent": 65,
+      "windKmh": {
+        "avg": 18.7,
+        "gust": 40.4
+      },
+      "sunshineHours": 5.7,
+      "condition": "rain"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-08",
+      "tempMinC": 3.3,
+      "tempMaxC": 14.9,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 86,
+      "windKmh": {
+        "avg": 24.5,
+        "gust": 50.2
+      },
+      "sunshineHours": 1.6,
+      "condition": "cloudy"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-09",
+      "tempMinC": 3.6,
+      "tempMaxC": 13.2,
+      "precipitationMm": 8.6,
+      "snowCm": 0.0,
+      "humidityPercent": 87,
+      "windKmh": {
+        "avg": 18.6,
+        "gust": 46.0
+      },
+      "sunshineHours": 3.2,
+      "condition": "rain"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-10",
+      "tempMinC": 8.0,
+      "tempMaxC": 14.9,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 48,
+      "windKmh": {
+        "avg": 17.7,
+        "gust": 40.7
+      },
+      "sunshineHours": 1.8,
+      "condition": "cloudy"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-11",
+      "tempMinC": 4.3,
+      "tempMaxC": 13.7,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 89,
+      "windKmh": {
+        "avg": 20.3,
+        "gust": 41.6
+      },
+      "sunshineHours": 1.8,
+      "condition": "cloudy"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-12",
+      "tempMinC": 3.1,
+      "tempMaxC": 11.6,
+      "precipitationMm": 5.0,
+      "snowCm": 0.0,
+      "humidityPercent": 69,
+      "windKmh": {
+        "avg": 8.2,
+        "gust": 19.3
+      },
+      "sunshineHours": 5.4,
+      "condition": "rain"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-13",
+      "tempMinC": 5.8,
+      "tempMaxC": 16.2,
+      "precipitationMm": 15.7,
+      "snowCm": 0.0,
+      "humidityPercent": 88,
+      "windKmh": {
+        "avg": 9.9,
+        "gust": 14.0
+      },
+      "sunshineHours": 0.0,
+      "condition": "rain"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-14",
+      "tempMinC": 0.3,
+      "tempMaxC": 11.7,
+      "precipitationMm": 10.6,
+      "snowCm": 0.0,
+      "humidityPercent": 86,
+      "windKmh": {
+        "avg": 11.1,
+        "gust": 25.4
+      },
+      "sunshineHours": 1.8,
+      "condition": "rain"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-15",
+      "tempMinC": 2.1,
+      "tempMaxC": 12.9,
+      "precipitationMm": 1.3,
+      "snowCm": 0.0,
+      "humidityPercent": 49,
+      "windKmh": {
+        "avg": 7.1,
+        "gust": 14.3
+      },
+      "sunshineHours": 1.1,
+      "condition": "rain"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-16",
+      "tempMinC": 1.6,
+      "tempMaxC": 9.9,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 66,
+      "windKmh": {
+        "avg": 13.3,
+        "gust": 19.3
+      },
+      "sunshineHours": 8.4,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-17",
+      "tempMinC": 4.7,
+      "tempMaxC": 15.6,
+      "precipitationMm": 8.9,
+      "snowCm": 0.0,
+      "humidityPercent": 64,
+      "windKmh": {
+        "avg": 13.8,
+        "gust": 25.2
+      },
+      "sunshineHours": 2.2,
+      "condition": "rain"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-18",
+      "tempMinC": 5.1,
+      "tempMaxC": 12.4,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 71,
+      "windKmh": {
+        "avg": 14.9,
+        "gust": 27.1
+      },
+      "sunshineHours": 3.6,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-19",
+      "tempMinC": 5.9,
+      "tempMaxC": 15.9,
+      "precipitationMm": 2.4,
+      "snowCm": 0.0,
+      "humidityPercent": 84,
+      "windKmh": {
+        "avg": 14.7,
+        "gust": 35.1
+      },
+      "sunshineHours": 8.2,
+      "condition": "rain"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-20",
+      "tempMinC": 5.1,
+      "tempMaxC": 16.1,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 84,
+      "windKmh": {
+        "avg": 8.4,
+        "gust": 20.7
+      },
+      "sunshineHours": 0.4,
+      "condition": "cloudy"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-21",
+      "tempMinC": 4.7,
+      "tempMaxC": 13.7,
+      "precipitationMm": 0.7,
+      "snowCm": 0.0,
+      "humidityPercent": 46,
+      "windKmh": {
+        "avg": 23.0,
+        "gust": 42.5
+      },
+      "sunshineHours": 7.2,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-22",
+      "tempMinC": 2.9,
+      "tempMaxC": 13.7,
+      "precipitationMm": 1.3,
+      "snowCm": 0.0,
+      "humidityPercent": 55,
+      "windKmh": {
+        "avg": 24.4,
+        "gust": 49.8
+      },
+      "sunshineHours": 6.5,
+      "condition": "rain"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-23",
+      "tempMinC": 3.0,
+      "tempMaxC": 11.4,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 88,
+      "windKmh": {
+        "avg": 12.3,
+        "gust": 25.2
+      },
+      "sunshineHours": 0.9,
+      "condition": "cloudy"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-24",
+      "tempMinC": 5.7,
+      "tempMaxC": 14.3,
+      "precipitationMm": 16.9,
+      "snowCm": 0.0,
+      "humidityPercent": 74,
+      "windKmh": {
+        "avg": 18.8,
+        "gust": 28.0
+      },
+      "sunshineHours": 0.0,
+      "condition": "rain"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-25",
+      "tempMinC": 4.3,
+      "tempMaxC": 12.9,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 61,
+      "windKmh": {
+        "avg": 12.0,
+        "gust": 22.6
+      },
+      "sunshineHours": 4.1,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-26",
+      "tempMinC": 1.3,
+      "tempMaxC": 9.5,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 92,
+      "windKmh": {
+        "avg": 15.9,
+        "gust": 23.6
+      },
+      "sunshineHours": 6.3,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-27",
+      "tempMinC": 2.4,
+      "tempMaxC": 11.7,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 50,
+      "windKmh": {
+        "avg": 9.2,
+        "gust": 17.1
+      },
+      "sunshineHours": 8.3,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-28",
+      "tempMinC": 2.9,
+      "tempMaxC": 14.1,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 79,
+      "windKmh": {
+        "avg": 9.5,
+        "gust": 16.7
+      },
+      "sunshineHours": 5.7,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-29",
+      "tempMinC": 2.3,
+      "tempMaxC": 13.7,
+      "precipitationMm": 12.1,
+      "snowCm": 0.0,
+      "humidityPercent": null,
+      "windKmh": {
+        "avg": 15.2,
+        "gust": 23.5
+      },
+      "sunshineHours": null,
+      "condition": "rain"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-30",
+      "tempMinC": -0.5,
+      "tempMaxC": 11.1,
+      "precipitationMm": 2.2,
+      "snowCm": 1.6,
+      "humidityPercent": 71,
+      "windKmh": {
+        "avg": 22.9,
+        "gust": 36.0
+      },
+      "sunshineHours": 6.9,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-10-31",
+      "tempMinC": 2.5,
+      "tempMaxC": 10.7,
+      "precipitationMm": 1.7,
+      "snowCm": 0.0,
+      "humidityPercent": 81,
+      "windKmh": {
+        "avg": 21.7,
+        "gust": 54.7
+      },
+      "sunshineHours": 7.1,
+      "condition": "rain"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-01",
+      "tempMinC": 1.6,
+      "tempMaxC": 7.2,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 91,
+      "windKmh": {
+        "avg": 15.8,
+        "gust": 28.9
+      },
+      "sunshineHours": 8.6,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-02",
+      "tempMinC": 3.6,
+      "tempMaxC": 10.0,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 57,
+      "windKmh": {
+        "avg": 10.0,
+        "gust": 21.4
+      },
+      "sunshineHours": 4.1,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-03",
+      "tempMinC": 0.5,
+      "tempMaxC": 8.5,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 45,
+      "windKmh": {
+        "avg": 9.9,
+        "gust": 22.3
+      },
+      "sunshineHours": 7.1,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-04",
+      "tempMinC": 1.2,
+      "tempMaxC": 10.3,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 66,
+      "windKmh": {
+        "avg": 22.3,
+        "gust": 40.8
+      },
+      "sunshineHours": 4.2,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-05",
+      "tempMinC": -0.8,
+      "tempMaxC": 8.2,
+      "precipitationMm": 11.1,
+      "snowCm": 9.7,
+      "humidityPercent": 61,
+      "windKmh": {
+        "avg": 19.1,
+        "gust": 43.4
+      },
+      "sunshineHours": 1.9,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-06",
+      "tempMinC": 0.0,
+      "tempMaxC": 10.6,
+      "precipitationMm": 6.0,
+      "snowCm": 0.0,
+      "humidityPercent": 94,
+      "windKmh": {
+        "avg": 16.0,
+        "gust": 33.0
+      },
+      "sunshineHours": 6.2,
+      "condition": "rain"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-07",
+      "tempMinC": 4.9,
+      "tempMaxC": 13.9,
+      "precipitationMm": 2.7,
+      "snowCm": 0.0,
+      "humidityPercent": 91,
+      "windKmh": {
+        "avg": 21.9,
+        "gust": 43.8
+      },
+      "sunshineHours": 0.3,
+      "condition": "rain"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-08",
+      "tempMinC": 3.4,
+      "tempMaxC": 9.4,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 96,
+      "windKmh": {
+        "avg": 24.6,
+        "gust": 56.8
+      },
+      "sunshineHours": 6.2,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-09",
+      "tempMinC": 4.1,
+      "tempMaxC": 12.6,
+      "precipitationMm": 12.3,
+      "snowCm": 0.0,
+      "humidityPercent": 67,
+      "windKmh": {
+        "avg": 3.9,
+        "gust": 6.5
+      },
+      "sunshineHours": 2.8,
+      "condition": "rain"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-10",
+      "tempMinC": 2.7,
+      "tempMaxC": 12.4,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 95,
+      "windKmh": {
+        "avg": 10.9,
+        "gust": 21.2
+      },
+      "sunshineHours": 4.2,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-11",
+      "tempMinC": 1.5,
+      "tempMaxC": 13.2,
+      "precipitationMm": 4.4,
+      "snowCm": 0.0,
+      "humidityPercent": 61,
+      "windKmh": {
+        "avg": 15.7,
+        "gust": 29.1
+      },
+      "sunshineHours": 3.7,
+      "condition": "rain"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-12",
+      "tempMinC": 2.4,
+      "tempMaxC": 8.8,
+      "precipitationMm": 13.7,
+      "snowCm": 0.0,
+      "humidityPercent": 59,
+      "windKmh": {
+        "avg": 14.4,
+        "gust": 35.2
+      },
+      "sunshineHours": 0.0,
+      "condition": "rain"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-13",
+      "tempMinC": -0.4,
+      "tempMaxC": 5.8,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 49,
+      "windKmh": {
+        "avg": 14.3,
+        "gust": 22.6
+      },
+      "sunshineHours": 2.5,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-14",
+      "tempMinC": 0.4,
+      "tempMaxC": 9.7,
+      "precipitationMm": 10.2,
+      "snowCm": 0.0,
+      "humidityPercent": 66,
+      "windKmh": {
+        "avg": 18.8,
+        "gust": 37.1
+      },
+      "sunshineHours": 0.9,
+      "condition": "rain"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-15",
+      "tempMinC": 4.4,
+      "tempMaxC": 11.9,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 55,
+      "windKmh": {
+        "avg": 6.0,
+        "gust": 14.8
+      },
+      "sunshineHours": 4.6,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-16",
+      "tempMinC": 2.0,
+      "tempMaxC": 12.8,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 70,
+      "windKmh": {
+        "avg": 16.2,
+        "gust": 23.0
+      },
+      "sunshineHours": 5.1,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-17",
+      "tempMinC": -0.3,
+      "tempMaxC": 10.5,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 75,
+      "windKmh": {
+        "avg": 6.8,
+        "gust": 14.4
+      },
+      "sunshineHours": 7.5,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-18",
+      "tempMinC": -1.8,
+      "tempMaxC": 6.9,
+      "precipitationMm": 1.2,
+      "snowCm": 1.2,
+      "humidityPercent": 66,
+      "windKmh": {
+        "avg": 23.3,
+        "gust": 34.5
+      },
+      "sunshineHours": 5.0,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-19",
+      "tempMinC": -1.3,
+      "tempMaxC": 10.1,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 97,
+      "windKmh": {
+        "avg": 6.3,
+        "gust": 12.4
+      },
+      "sunshineHours": 0.9,
+      "condition": "cloudy"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-20",
+      "tempMinC": -0.9,
+      "tempMaxC": 9.3,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 52,
+      "windKmh": {
+        "avg": 5.1,
+        "gust": 12.7
+      },
+      "sunshineHours": 5.9,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-21",
+      "tempMinC": 4.9,
+      "tempMaxC": 15.1,
+      "precipitationMm": 3.4,
+      "snowCm": 0.0,
+      "humidityPercent": 89,
+      "windKmh": {
+        "avg": 14.7,
+        "gust": 34.7
+      },
+      "sunshineHours": 0.9,
+      "condition": "rain"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-22",
+      "tempMinC": -0.6,
+      "tempMaxC": 9.8,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 93,
+      "windKmh": {
+        "avg": 21.4,
+        "gust": 40.9
+      },
+      "sunshineHours": 5.2,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-23",
+      "tempMinC": -0.3,
+      "tempMaxC": 9.3,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 61,
+      "windKmh": {
+        "avg": 7.2,
+        "gust": 16.9
+      },
+      "sunshineHours": 6.4,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-24",
+      "tempMinC": -2.9,
+      "tempMaxC": 4.8,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 89,
+      "windKmh": {
+        "avg": 20.7,
+        "gust": 31.6
+      },
+      "sunshineHours": 3.7,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-25",
+      "tempMinC": -2.2,
+      "tempMaxC": 7.5,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 88,
+      "windKmh": {
+        "avg": 11.7,
+        "gust": 24.1
+      },
+      "sunshineHours": 1.8,
+      "condition": "cloudy"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-26",
+      "tempMinC": -1.8,
+      "tempMaxC": 7.4,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 64,
+      "windKmh": {
+        "avg": 15.7,
+        "gust": 29.5
+      },
+      "sunshineHours": 7.0,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-27",
+      "tempMinC": -1.3,
+      "tempMaxC": 10.6,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 51,
+      "windKmh": {
+        "avg": 7.7,
+        "gust": 13.9
+      },
+      "sunshineHours": 3.6,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-28",
+      "tempMinC": -0.4,
+      "tempMaxC": 9.1,
+      "precipitationMm": 7.4,
+      "snowCm": 3.7,
+      "humidityPercent": 50,
+      "windKmh": {
+        "avg": 21.1,
+        "gust": 44.7
+      },
+      "sunshineHours": 1.8,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-29",
+      "tempMinC": -3.0,
+      "tempMaxC": 7.4,
+      "precipitationMm": 7.7,
+      "snowCm": 7.4,
+      "humidityPercent": 63,
+      "windKmh": {
+        "avg": 18.7,
+        "gust": 47.4
+      },
+      "sunshineHours": 2.8,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SZG",
+      "date": "2026-11-30",
+      "tempMinC": 1.9,
+      "tempMaxC": 10.3,
+      "precipitationMm": 3.5,
+      "snowCm": 0.0,
+      "humidityPercent": 96,
+      "windKmh": {
+        "avg": 14.4,
+        "gust": 33.7
+      },
+      "sunshineHours": 0.6,
+      "condition": "rain"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-01",
+      "tempMinC": 4.0,
+      "tempMaxC": 15.5,
+      "precipitationMm": 2.7,
+      "snowCm": 0.0,
+      "humidityPercent": 50,
+      "windKmh": {
+        "avg": 24.9,
+        "gust": 45.4
+      },
+      "sunshineHours": 6.1,
+      "condition": "rain"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-02",
+      "tempMinC": 1.8,
+      "tempMaxC": 10.0,
+      "precipitationMm": 4.4,
+      "snowCm": 0.0,
+      "humidityPercent": 50,
+      "windKmh": {
+        "avg": 15.1,
+        "gust": 31.3
+      },
+      "sunshineHours": 5.1,
+      "condition": "rain"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-03",
+      "tempMinC": 1.3,
+      "tempMaxC": 12.0,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 70,
+      "windKmh": {
+        "avg": 15.6,
+        "gust": 29.5
+      },
+      "sunshineHours": 2.3,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-04",
+      "tempMinC": 9.0,
+      "tempMaxC": 18.9,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 96,
+      "windKmh": {
+        "avg": 14.3,
+        "gust": 29.3
+      },
+      "sunshineHours": 2.3,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-05",
+      "tempMinC": 5.1,
+      "tempMaxC": 13.0,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 66,
+      "windKmh": {
+        "avg": 24.1,
+        "gust": 47.1
+      },
+      "sunshineHours": 4.1,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-06",
+      "tempMinC": 8.6,
+      "tempMaxC": 14.3,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 85,
+      "windKmh": {
+        "avg": 20.4,
+        "gust": 45.7
+      },
+      "sunshineHours": 2.0,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-07",
+      "tempMinC": 2.4,
+      "tempMaxC": 11.2,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 63,
+      "windKmh": {
+        "avg": 5.0,
+        "gust": 11.9
+      },
+      "sunshineHours": 6.1,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-08",
+      "tempMinC": 6.2,
+      "tempMaxC": 16.2,
+      "precipitationMm": 3.9,
+      "snowCm": 0.0,
+      "humidityPercent": 62,
+      "windKmh": {
+        "avg": 7.0,
+        "gust": 17.6
+      },
+      "sunshineHours": 5.4,
+      "condition": "rain"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-09",
+      "tempMinC": 5.4,
+      "tempMaxC": 12.3,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 98,
+      "windKmh": {
+        "avg": 8.5,
+        "gust": 13.5
+      },
+      "sunshineHours": 5.6,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-10",
+      "tempMinC": 2.3,
+      "tempMaxC": 12.4,
+      "precipitationMm": 6.8,
+      "snowCm": 0.0,
+      "humidityPercent": 93,
+      "windKmh": {
+        "avg": 21.9,
+        "gust": 52.9
+      },
+      "sunshineHours": 6.4,
+      "condition": "rain"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-11",
+      "tempMinC": 3.5,
+      "tempMaxC": 10.3,
+      "precipitationMm": 5.1,
+      "snowCm": 0.0,
+      "humidityPercent": 93,
+      "windKmh": {
+        "avg": 23.2,
+        "gust": 38.7
+      },
+      "sunshineHours": 0.8,
+      "condition": "rain"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-12",
+      "tempMinC": 6.9,
+      "tempMaxC": 17.0,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 79,
+      "windKmh": {
+        "avg": 3.7,
+        "gust": 9.0
+      },
+      "sunshineHours": 3.1,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-13",
+      "tempMinC": 3.8,
+      "tempMaxC": 10.1,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 88,
+      "windKmh": {
+        "avg": 7.6,
+        "gust": 13.6
+      },
+      "sunshineHours": 5.2,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-14",
+      "tempMinC": 4.0,
+      "tempMaxC": 12.2,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 75,
+      "windKmh": {
+        "avg": 24.1,
+        "gust": 39.1
+      },
+      "sunshineHours": 3.1,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-15",
+      "tempMinC": 1.3,
+      "tempMaxC": 9.7,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 81,
+      "windKmh": {
+        "avg": 5.9,
+        "gust": 9.9
+      },
+      "sunshineHours": 5.2,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-16",
+      "tempMinC": 6.4,
+      "tempMaxC": 14.1,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 69,
+      "windKmh": {
+        "avg": 7.3,
+        "gust": 16.7
+      },
+      "sunshineHours": 7.2,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-17",
+      "tempMinC": 4.1,
+      "tempMaxC": 15.2,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 79,
+      "windKmh": {
+        "avg": 18.9,
+        "gust": 33.3
+      },
+      "sunshineHours": 7.1,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-18",
+      "tempMinC": 2.8,
+      "tempMaxC": 10.8,
+      "precipitationMm": 3.0,
+      "snowCm": 0.0,
+      "humidityPercent": 97,
+      "windKmh": {
+        "avg": 8.6,
+        "gust": 13.0
+      },
+      "sunshineHours": 6.6,
+      "condition": "rain"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-19",
+      "tempMinC": 3.8,
+      "tempMaxC": 11.9,
+      "precipitationMm": 10.0,
+      "snowCm": 0.0,
+      "humidityPercent": 67,
+      "windKmh": {
+        "avg": 22.1,
+        "gust": 36.2
+      },
+      "sunshineHours": 5.3,
+      "condition": "rain"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-20",
+      "tempMinC": 4.0,
+      "tempMaxC": 13.5,
+      "precipitationMm": 1.2,
+      "snowCm": 0.0,
+      "humidityPercent": 88,
+      "windKmh": {
+        "avg": 14.2,
+        "gust": 27.5
+      },
+      "sunshineHours": 6.6,
+      "condition": "rain"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-21",
+      "tempMinC": 0.9,
+      "tempMaxC": 12.1,
+      "precipitationMm": 12.2,
+      "snowCm": 0.0,
+      "humidityPercent": 71,
+      "windKmh": {
+        "avg": 16.9,
+        "gust": 40.9
+      },
+      "sunshineHours": 1.1,
+      "condition": "rain"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-22",
+      "tempMinC": 2.6,
+      "tempMaxC": 9.8,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 63,
+      "windKmh": {
+        "avg": 18.6,
+        "gust": 34.9
+      },
+      "sunshineHours": 5.4,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-23",
+      "tempMinC": 4.0,
+      "tempMaxC": 11.4,
+      "precipitationMm": 4.4,
+      "snowCm": 0.0,
+      "humidityPercent": 46,
+      "windKmh": {
+        "avg": 5.8,
+        "gust": 9.9
+      },
+      "sunshineHours": 0.6,
+      "condition": "rain"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-24",
+      "tempMinC": -1.5,
+      "tempMaxC": 5.5,
+      "precipitationMm": 1.4,
+      "snowCm": 1.6,
+      "humidityPercent": 75,
+      "windKmh": {
+        "avg": 15.1,
+        "gust": 28.3
+      },
+      "sunshineHours": 0.0,
+      "condition": "snow"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-25",
+      "tempMinC": 3.4,
+      "tempMaxC": 14.5,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 64,
+      "windKmh": {
+        "avg": 8.0,
+        "gust": 15.5
+      },
+      "sunshineHours": 6.6,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-26",
+      "tempMinC": 4.6,
+      "tempMaxC": 10.4,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 67,
+      "windKmh": {
+        "avg": 21.9,
+        "gust": 43.2
+      },
+      "sunshineHours": 2.9,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-27",
+      "tempMinC": -1.0,
+      "tempMaxC": 10.6,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 56,
+      "windKmh": {
+        "avg": 16.0,
+        "gust": 36.8
+      },
+      "sunshineHours": 4.1,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-28",
+      "tempMinC": 1.3,
+      "tempMaxC": 11.0,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 67,
+      "windKmh": {
+        "avg": 13.6,
+        "gust": 20.5
+      },
+      "sunshineHours": 2.0,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-29",
+      "tempMinC": 1.1,
+      "tempMaxC": 11.2,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 53,
+      "windKmh": {
+        "avg": 10.6,
+        "gust": 14.9
+      },
+      "sunshineHours": 4.2,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-30",
+      "tempMinC": 4.6,
+      "tempMaxC": 11.4,
+      "precipitationMm": 3.9,
+      "snowCm": 0.0,
+      "humidityPercent": 63,
+      "windKmh": {
+        "avg": 16.1,
+        "gust": 33.1
+      },
+      "sunshineHours": 5.9,
+      "condition": "rain"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-10-31",
+      "tempMinC": 2.6,
+      "tempMaxC": 13.1,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 98,
+      "windKmh": {
+        "avg": 11.3,
+        "gust": 21.5
+      },
+      "sunshineHours": 2.4,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-01",
+      "tempMinC": -0.9,
+      "tempMaxC": 10.1,
+      "precipitationMm": 14.4,
+      "snowCm": 10.1,
+      "humidityPercent": 92,
+      "windKmh": {
+        "avg": 14.7,
+        "gust": 23.9
+      },
+      "sunshineHours": 0.0,
+      "condition": "snow"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-02",
+      "tempMinC": 2.5,
+      "tempMaxC": 12.1,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 76,
+      "windKmh": {
+        "avg": 7.1,
+        "gust": 10.4
+      },
+      "sunshineHours": 0.2,
+      "condition": "cloudy"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-03",
+      "tempMinC": 3.9,
+      "tempMaxC": 10.3,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": null,
+      "windKmh": {
+        "avg": 12.6,
+        "gust": 19.0
+      },
+      "sunshineHours": null,
+      "condition": "cloudy"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-04",
+      "tempMinC": 2.4,
+      "tempMaxC": 11.6,
+      "precipitationMm": 4.1,
+      "snowCm": 0.0,
+      "humidityPercent": 47,
+      "windKmh": {
+        "avg": 10.3,
+        "gust": 26.2
+      },
+      "sunshineHours": 6.2,
+      "condition": "rain"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-05",
+      "tempMinC": 3.5,
+      "tempMaxC": 11.1,
+      "precipitationMm": 0.4,
+      "snowCm": 0.0,
+      "humidityPercent": 98,
+      "windKmh": {
+        "avg": 8.5,
+        "gust": 12.0
+      },
+      "sunshineHours": 3.3,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-06",
+      "tempMinC": -1.2,
+      "tempMaxC": 8.5,
+      "precipitationMm": 1.7,
+      "snowCm": 1.7,
+      "humidityPercent": 51,
+      "windKmh": {
+        "avg": 14.5,
+        "gust": 28.5
+      },
+      "sunshineHours": 8.3,
+      "condition": "snow"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-07",
+      "tempMinC": -0.2,
+      "tempMaxC": 8.7,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 47,
+      "windKmh": {
+        "avg": 19.4,
+        "gust": 30.0
+      },
+      "sunshineHours": 4.9,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-08",
+      "tempMinC": -0.3,
+      "tempMaxC": 11.3,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 60,
+      "windKmh": {
+        "avg": 16.9,
+        "gust": 27.1
+      },
+      "sunshineHours": 2.9,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-09",
+      "tempMinC": 1.5,
+      "tempMaxC": 9.7,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 47,
+      "windKmh": {
+        "avg": 15.8,
+        "gust": 35.2
+      },
+      "sunshineHours": 6.2,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-10",
+      "tempMinC": 0.2,
+      "tempMaxC": 9.3,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 93,
+      "windKmh": {
+        "avg": 16.8,
+        "gust": 36.5
+      },
+      "sunshineHours": 0.5,
+      "condition": "cloudy"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-11",
+      "tempMinC": 0.1,
+      "tempMaxC": 10.0,
+      "precipitationMm": 0.8,
+      "snowCm": 0.0,
+      "humidityPercent": 95,
+      "windKmh": {
+        "avg": 17.2,
+        "gust": 42.5
+      },
+      "sunshineHours": 2.9,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-12",
+      "tempMinC": 4.2,
+      "tempMaxC": 12.2,
+      "precipitationMm": 1.7,
+      "snowCm": 0.0,
+      "humidityPercent": 80,
+      "windKmh": {
+        "avg": 9.5,
+        "gust": 15.5
+      },
+      "sunshineHours": 5.7,
+      "condition": "rain"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-13",
+      "tempMinC": -0.3,
+      "tempMaxC": 8.7,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 98,
+      "windKmh": {
+        "avg": 16.2,
+        "gust": 25.8
+      },
+      "sunshineHours": 7.7,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-14",
+      "tempMinC": -3.1,
+      "tempMaxC": 6.8,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 77,
+      "windKmh": {
+        "avg": 11.3,
+        "gust": 16.1
+      },
+      "sunshineHours": 1.7,
+      "condition": "cloudy"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-15",
+      "tempMinC": 0.4,
+      "tempMaxC": 10.9,
+      "precipitationMm": 1.6,
+      "snowCm": 0.0,
+      "humidityPercent": 79,
+      "windKmh": {
+        "avg": 21.0,
+        "gust": 46.6
+      },
+      "sunshineHours": 1.2,
+      "condition": "rain"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-16",
+      "tempMinC": 1.6,
+      "tempMaxC": 8.3,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 87,
+      "windKmh": {
+        "avg": 4.5,
+        "gust": 7.0
+      },
+      "sunshineHours": 7.5,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-17",
+      "tempMinC": 1.3,
+      "tempMaxC": 8.6,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 81,
+      "windKmh": {
+        "avg": 17.1,
+        "gust": 34.0
+      },
+      "sunshineHours": 3.5,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-18",
+      "tempMinC": -1.7,
+      "tempMaxC": 6.3,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 58,
+      "windKmh": {
+        "avg": 17.4,
+        "gust": 41.7
+      },
+      "sunshineHours": 8.4,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-19",
+      "tempMinC": -1.7,
+      "tempMaxC": 9.8,
+      "precipitationMm": 2.7,
+      "snowCm": 2.9,
+      "humidityPercent": 95,
+      "windKmh": {
+        "avg": 18.6,
+        "gust": 32.0
+      },
+      "sunshineHours": 6.5,
+      "condition": "snow"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-20",
+      "tempMinC": 2.7,
+      "tempMaxC": 10.9,
+      "precipitationMm": 19.4,
+      "snowCm": 0.0,
+      "humidityPercent": 79,
+      "windKmh": {
+        "avg": 11.5,
+        "gust": 25.2
+      },
+      "sunshineHours": 0.0,
+      "condition": "rain"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-21",
+      "tempMinC": -0.1,
+      "tempMaxC": 10.1,
+      "precipitationMm": 4.9,
+      "snowCm": 5.1,
+      "humidityPercent": 81,
+      "windKmh": {
+        "avg": 10.9,
+        "gust": 24.0
+      },
+      "sunshineHours": 2.5,
+      "condition": "snow"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-22",
+      "tempMinC": 0.5,
+      "tempMaxC": 7.5,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 83,
+      "windKmh": {
+        "avg": 12.7,
+        "gust": 22.6
+      },
+      "sunshineHours": 3.2,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-23",
+      "tempMinC": 0.7,
+      "tempMaxC": 10.3,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 72,
+      "windKmh": {
+        "avg": 21.2,
+        "gust": 35.8
+      },
+      "sunshineHours": 2.9,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-24",
+      "tempMinC": -2.6,
+      "tempMaxC": 8.1,
+      "precipitationMm": 2.7,
+      "snowCm": 1.4,
+      "humidityPercent": 47,
+      "windKmh": {
+        "avg": 24.6,
+        "gust": 49.7
+      },
+      "sunshineHours": 4.5,
+      "condition": "snow"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-25",
+      "tempMinC": 1.5,
+      "tempMaxC": 8.6,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 65,
+      "windKmh": {
+        "avg": 3.5,
+        "gust": 7.8
+      },
+      "sunshineHours": 7.4,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-26",
+      "tempMinC": -1.8,
+      "tempMaxC": 4.8,
+      "precipitationMm": 1.0,
+      "snowCm": 0.6,
+      "humidityPercent": 68,
+      "windKmh": {
+        "avg": 22.6,
+        "gust": 38.6
+      },
+      "sunshineHours": 1.9,
+      "condition": "snow"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-27",
+      "tempMinC": -1.1,
+      "tempMaxC": 5.1,
+      "precipitationMm": 5.1,
+      "snowCm": 3.7,
+      "humidityPercent": 75,
+      "windKmh": {
+        "avg": 6.8,
+        "gust": 15.1
+      },
+      "sunshineHours": 5.7,
+      "condition": "snow"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-28",
+      "tempMinC": -0.1,
+      "tempMaxC": 10.1,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 50,
+      "windKmh": {
+        "avg": 20.2,
+        "gust": 36.4
+      },
+      "sunshineHours": 8.3,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-29",
+      "tempMinC": -4.8,
+      "tempMaxC": 4.4,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": null,
+      "windKmh": {
+        "avg": 8.0,
+        "gust": 17.0
+      },
+      "sunshineHours": null,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "INN",
+      "date": "2026-11-30",
+      "tempMinC": 0.5,
+      "tempMaxC": 7.8,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 54,
+      "windKmh": {
+        "avg": 10.2,
+        "gust": 16.2
+      },
+      "sunshineHours": 6.3,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-01",
+      "tempMinC": -10.9,
+      "tempMaxC": -0.6,
+      "precipitationMm": 21.3,
+      "snowCm": 12.0,
+      "humidityPercent": 72,
+      "windKmh": {
+        "avg": 19.5,
+        "gust": 30.4
+      },
+      "sunshineHours": 0.0,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-02",
+      "tempMinC": -7.0,
+      "tempMaxC": 0.3,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 94,
+      "windKmh": {
+        "avg": 42.8,
+        "gust": 84.6
+      },
+      "sunshineHours": 6.9,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-03",
+      "tempMinC": -8.8,
+      "tempMaxC": 0.7,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 92,
+      "windKmh": {
+        "avg": 32.9,
+        "gust": 56.6
+      },
+      "sunshineHours": 2.2,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-04",
+      "tempMinC": -9.1,
+      "tempMaxC": -0.9,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 57,
+      "windKmh": {
+        "avg": 21.3,
+        "gust": 30.4
+      },
+      "sunshineHours": 5.3,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-05",
+      "tempMinC": -12.8,
+      "tempMaxC": -2.1,
+      "precipitationMm": 5.7,
+      "snowCm": 3.4,
+      "humidityPercent": 47,
+      "windKmh": {
+        "avg": 55.7,
+        "gust": 123.8
+      },
+      "sunshineHours": 0.2,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-06",
+      "tempMinC": -9.2,
+      "tempMaxC": -1.1,
+      "precipitationMm": 1.7,
+      "snowCm": 1.8,
+      "humidityPercent": 63,
+      "windKmh": {
+        "avg": 3.8,
+        "gust": 5.8
+      },
+      "sunshineHours": 5.7,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-07",
+      "tempMinC": -8.4,
+      "tempMaxC": -0.4,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 58,
+      "windKmh": {
+        "avg": 34.1,
+        "gust": 70.2
+      },
+      "sunshineHours": 6.8,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-08",
+      "tempMinC": -7.4,
+      "tempMaxC": 3.3,
+      "precipitationMm": 2.8,
+      "snowCm": 1.9,
+      "humidityPercent": 48,
+      "windKmh": {
+        "avg": 19.2,
+        "gust": 41.1
+      },
+      "sunshineHours": 6.2,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-09",
+      "tempMinC": -8.7,
+      "tempMaxC": -1.0,
+      "precipitationMm": 0.1,
+      "snowCm": 0.1,
+      "humidityPercent": 87,
+      "windKmh": {
+        "avg": 23.5,
+        "gust": 41.1
+      },
+      "sunshineHours": 0.9,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-10",
+      "tempMinC": -14.1,
+      "tempMaxC": -2.7,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 76,
+      "windKmh": {
+        "avg": 52.4,
+        "gust": 85.1
+      },
+      "sunshineHours": 4.8,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-11",
+      "tempMinC": -7.3,
+      "tempMaxC": 1.5,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 60,
+      "windKmh": {
+        "avg": 55.6,
+        "gust": 110.5
+      },
+      "sunshineHours": 2.7,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-12",
+      "tempMinC": -5.5,
+      "tempMaxC": 4.7,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 77,
+      "windKmh": {
+        "avg": 18.7,
+        "gust": 32.0
+      },
+      "sunshineHours": 0.6,
+      "condition": "cloudy"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-13",
+      "tempMinC": -10.9,
+      "tempMaxC": 1.7,
+      "precipitationMm": 27.9,
+      "snowCm": 18.4,
+      "humidityPercent": 66,
+      "windKmh": {
+        "avg": 54.1,
+        "gust": 81.4
+      },
+      "sunshineHours": 0.0,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-14",
+      "tempMinC": -5.9,
+      "tempMaxC": 0.7,
+      "precipitationMm": 1.5,
+      "snowCm": 1.8,
+      "humidityPercent": 83,
+      "windKmh": {
+        "avg": 21.8,
+        "gust": 35.9
+      },
+      "sunshineHours": 4.4,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-15",
+      "tempMinC": -11.6,
+      "tempMaxC": 0.1,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 64,
+      "windKmh": {
+        "avg": 42.2,
+        "gust": 105.1
+      },
+      "sunshineHours": 8.1,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-16",
+      "tempMinC": -5.5,
+      "tempMaxC": 0.4,
+      "precipitationMm": 5.0,
+      "snowCm": 4.4,
+      "humidityPercent": 91,
+      "windKmh": {
+        "avg": 9.7,
+        "gust": 23.8
+      },
+      "sunshineHours": 1.2,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-17",
+      "tempMinC": -11.4,
+      "tempMaxC": -3.1,
+      "precipitationMm": 12.7,
+      "snowCm": 10.3,
+      "humidityPercent": 97,
+      "windKmh": {
+        "avg": 54.0,
+        "gust": 93.3
+      },
+      "sunshineHours": 4.2,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-18",
+      "tempMinC": -8.1,
+      "tempMaxC": 0.2,
+      "precipitationMm": 5.7,
+      "snowCm": 3.8,
+      "humidityPercent": 59,
+      "windKmh": {
+        "avg": 16.2,
+        "gust": 24.2
+      },
+      "sunshineHours": 0.0,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-19",
+      "tempMinC": -10.7,
+      "tempMaxC": -0.5,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 86,
+      "windKmh": {
+        "avg": 24.3,
+        "gust": 48.4
+      },
+      "sunshineHours": 7.7,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-20",
+      "tempMinC": -9.2,
+      "tempMaxC": -1.4,
+      "precipitationMm": 0.1,
+      "snowCm": 0.1,
+      "humidityPercent": 57,
+      "windKmh": {
+        "avg": 46.2,
+        "gust": 116.1
+      },
+      "sunshineHours": 0.6,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-21",
+      "tempMinC": -9.2,
+      "tempMaxC": -1.1,
+      "precipitationMm": 4.0,
+      "snowCm": 2.7,
+      "humidityPercent": 70,
+      "windKmh": {
+        "avg": 47.2,
+        "gust": 112.8
+      },
+      "sunshineHours": 4.1,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-22",
+      "tempMinC": -14.8,
+      "tempMaxC": -4.4,
+      "precipitationMm": 4.6,
+      "snowCm": 2.4,
+      "humidityPercent": 51,
+      "windKmh": {
+        "avg": 28.7,
+        "gust": 41.6
+      },
+      "sunshineHours": 5.9,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-23",
+      "tempMinC": -7.3,
+      "tempMaxC": 2.2,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 80,
+      "windKmh": {
+        "avg": 25.1,
+        "gust": 64.1
+      },
+      "sunshineHours": 6.9,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-24",
+      "tempMinC": -13.3,
+      "tempMaxC": -6.4,
+      "precipitationMm": 2.0,
+      "snowCm": 2.3,
+      "humidityPercent": 89,
+      "windKmh": {
+        "avg": 32.5,
+        "gust": 77.9
+      },
+      "sunshineHours": 0.6,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-25",
+      "tempMinC": -10.5,
+      "tempMaxC": 1.4,
+      "precipitationMm": 0.7,
+      "snowCm": 0.7,
+      "humidityPercent": 53,
+      "windKmh": {
+        "avg": 25.4,
+        "gust": 36.3
+      },
+      "sunshineHours": 2.7,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-26",
+      "tempMinC": -6.9,
+      "tempMaxC": 2.0,
+      "precipitationMm": 0.6,
+      "snowCm": 0.6,
+      "humidityPercent": 55,
+      "windKmh": {
+        "avg": 43.9,
+        "gust": 67.5
+      },
+      "sunshineHours": 0.9,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-27",
+      "tempMinC": -13.8,
+      "tempMaxC": -5.2,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 95,
+      "windKmh": {
+        "avg": 58.6,
+        "gust": 93.3
+      },
+      "sunshineHours": 5.5,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-28",
+      "tempMinC": -11.5,
+      "tempMaxC": 0.4,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 55,
+      "windKmh": {
+        "avg": 52.5,
+        "gust": 118.4
+      },
+      "sunshineHours": 1.6,
+      "condition": "cloudy"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-29",
+      "tempMinC": -12.1,
+      "tempMaxC": -2.2,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": null,
+      "windKmh": {
+        "avg": 13.3,
+        "gust": 33.9
+      },
+      "sunshineHours": null,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-30",
+      "tempMinC": -11.4,
+      "tempMaxC": -1.2,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 83,
+      "windKmh": {
+        "avg": 53.3,
+        "gust": 112.3
+      },
+      "sunshineHours": 2.1,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-10-31",
+      "tempMinC": -10.2,
+      "tempMaxC": -2.5,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 60,
+      "windKmh": {
+        "avg": 53.3,
+        "gust": 114.8
+      },
+      "sunshineHours": 2.5,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-01",
+      "tempMinC": -10.8,
+      "tempMaxC": -3.8,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 47,
+      "windKmh": {
+        "avg": 41.0,
+        "gust": 72.1
+      },
+      "sunshineHours": 7.5,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-02",
+      "tempMinC": -10.3,
+      "tempMaxC": -2.9,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 88,
+      "windKmh": {
+        "avg": 19.2,
+        "gust": 43.0
+      },
+      "sunshineHours": 5.9,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-03",
+      "tempMinC": -14.9,
+      "tempMaxC": -6.7,
+      "precipitationMm": 2.7,
+      "snowCm": 2.0,
+      "humidityPercent": 69,
+      "windKmh": {
+        "avg": 49.8,
+        "gust": 120.1
+      },
+      "sunshineHours": 5.9,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-04",
+      "tempMinC": -12.6,
+      "tempMaxC": -3.6,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 66,
+      "windKmh": {
+        "avg": 33.0,
+        "gust": 73.8
+      },
+      "sunshineHours": 4.7,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-05",
+      "tempMinC": -9.6,
+      "tempMaxC": 0.1,
+      "precipitationMm": 26.1,
+      "snowCm": 30.1,
+      "humidityPercent": 90,
+      "windKmh": {
+        "avg": 19.4,
+        "gust": 34.5
+      },
+      "sunshineHours": 0.0,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-06",
+      "tempMinC": -8.8,
+      "tempMaxC": -1.0,
+      "precipitationMm": 2.6,
+      "snowCm": 2.2,
+      "humidityPercent": 85,
+      "windKmh": {
+        "avg": 31.4,
+        "gust": 77.3
+      },
+      "sunshineHours": 6.4,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-07",
+      "tempMinC": -12.6,
+      "tempMaxC": -2.6,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 92,
+      "windKmh": {
+        "avg": 51.3,
+        "gust": 133.3
+      },
+      "sunshineHours": 7.2,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-08",
+      "tempMinC": -11.5,
+      "tempMaxC": -1.7,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 45,
+      "windKmh": {
+        "avg": 39.5,
+        "gust": 67.4
+      },
+      "sunshineHours": 6.2,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-09",
+      "tempMinC": -12.8,
+      "tempMaxC": -4.9,
+      "precipitationMm": 0.7,
+      "snowCm": 0.6,
+      "humidityPercent": 46,
+      "windKmh": {
+        "avg": 50.4,
+        "gust": 121.0
+      },
+      "sunshineHours": 1.5,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-10",
+      "tempMinC": -10.3,
+      "tempMaxC": -3.3,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 53,
+      "windKmh": {
+        "avg": 30.4,
+        "gust": 75.1
+      },
+      "sunshineHours": 5.6,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-11",
+      "tempMinC": -15.7,
+      "tempMaxC": -4.4,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": null,
+      "windKmh": {
+        "avg": 35.2,
+        "gust": 72.7
+      },
+      "sunshineHours": null,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-12",
+      "tempMinC": -11.7,
+      "tempMaxC": 0.2,
+      "precipitationMm": 2.4,
+      "snowCm": 1.3,
+      "humidityPercent": 54,
+      "windKmh": {
+        "avg": 19.0,
+        "gust": 49.0
+      },
+      "sunshineHours": 0.0,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-13",
+      "tempMinC": -12.1,
+      "tempMaxC": -1.3,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 93,
+      "windKmh": {
+        "avg": 20.6,
+        "gust": 46.4
+      },
+      "sunshineHours": 7.7,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-14",
+      "tempMinC": -17.0,
+      "tempMaxC": -7.0,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 98,
+      "windKmh": {
+        "avg": 57.2,
+        "gust": 100.8
+      },
+      "sunshineHours": 1.9,
+      "condition": "cloudy"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-15",
+      "tempMinC": -10.7,
+      "tempMaxC": -3.7,
+      "precipitationMm": 3.5,
+      "snowCm": 3.0,
+      "humidityPercent": 57,
+      "windKmh": {
+        "avg": 22.4,
+        "gust": 54.8
+      },
+      "sunshineHours": 3.2,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-16",
+      "tempMinC": -18.0,
+      "tempMaxC": -9.5,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 78,
+      "windKmh": {
+        "avg": 41.6,
+        "gust": 94.4
+      },
+      "sunshineHours": 1.2,
+      "condition": "cloudy"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-17",
+      "tempMinC": -15.9,
+      "tempMaxC": -4.4,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 83,
+      "windKmh": {
+        "avg": 52.7,
+        "gust": 130.0
+      },
+      "sunshineHours": 3.0,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-18",
+      "tempMinC": -14.2,
+      "tempMaxC": -6.1,
+      "precipitationMm": 8.2,
+      "snowCm": 7.8,
+      "humidityPercent": 58,
+      "windKmh": {
+        "avg": 21.3,
+        "gust": 36.9
+      },
+      "sunshineHours": 0.0,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-19",
+      "tempMinC": -13.9,
+      "tempMaxC": -7.8,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 84,
+      "windKmh": {
+        "avg": 34.9,
+        "gust": 71.6
+      },
+      "sunshineHours": 0.9,
+      "condition": "cloudy"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-20",
+      "tempMinC": -15.4,
+      "tempMaxC": -3.4,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 81,
+      "windKmh": {
+        "avg": 17.0,
+        "gust": 36.3
+      },
+      "sunshineHours": 0.6,
+      "condition": "cloudy"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-21",
+      "tempMinC": -15.8,
+      "tempMaxC": -7.7,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 48,
+      "windKmh": {
+        "avg": 7.9,
+        "gust": 17.7
+      },
+      "sunshineHours": 3.5,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-22",
+      "tempMinC": -13.7,
+      "tempMaxC": -5.5,
+      "precipitationMm": 7.0,
+      "snowCm": 5.1,
+      "humidityPercent": 57,
+      "windKmh": {
+        "avg": 43.6,
+        "gust": 89.0
+      },
+      "sunshineHours": 3.7,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-23",
+      "tempMinC": -15.5,
+      "tempMaxC": -3.6,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 74,
+      "windKmh": {
+        "avg": 8.5,
+        "gust": 18.5
+      },
+      "sunshineHours": 2.8,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-24",
+      "tempMinC": -18.5,
+      "tempMaxC": -9.1,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 84,
+      "windKmh": {
+        "avg": 17.7,
+        "gust": 28.7
+      },
+      "sunshineHours": 3.3,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-25",
+      "tempMinC": -16.5,
+      "tempMaxC": -9.3,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 52,
+      "windKmh": {
+        "avg": 23.0,
+        "gust": 36.9
+      },
+      "sunshineHours": 4.2,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-26",
+      "tempMinC": -9.7,
+      "tempMaxC": -1.0,
+      "precipitationMm": 0.8,
+      "snowCm": 0.8,
+      "humidityPercent": 65,
+      "windKmh": {
+        "avg": 34.7,
+        "gust": 61.2
+      },
+      "sunshineHours": 0.4,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-27",
+      "tempMinC": -14.7,
+      "tempMaxC": -7.2,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 49,
+      "windKmh": {
+        "avg": 22.4,
+        "gust": 47.2
+      },
+      "sunshineHours": 7.3,
+      "condition": "sunny"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-28",
+      "tempMinC": -16.9,
+      "tempMaxC": -6.6,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 60,
+      "windKmh": {
+        "avg": 12.9,
+        "gust": 29.5
+      },
+      "sunshineHours": 6.0,
+      "condition": "partly_cloudy"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-29",
+      "tempMinC": -13.0,
+      "tempMaxC": -5.8,
+      "precipitationMm": 2.4,
+      "snowCm": 1.7,
+      "humidityPercent": 70,
+      "windKmh": {
+        "avg": 7.0,
+        "gust": 16.6
+      },
+      "sunshineHours": 0.2,
+      "condition": "snow"
+    },
+    {
+      "stationId": "SON",
+      "date": "2026-11-30",
+      "tempMinC": -16.0,
+      "tempMaxC": -6.4,
+      "precipitationMm": 0.0,
+      "snowCm": 0.0,
+      "humidityPercent": 50,
+      "windKmh": {
+        "avg": 15.4,
+        "gust": 32.3
+      },
+      "sunshineHours": 1.3,
+      "condition": "cloudy"
+    }
+  ]
+}

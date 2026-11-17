@@ -1,0 +1,651 @@
+{
+  "description": "Simplified recipes. Nutrition values and ratings are fictional demo values.",
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Wiener Schnitzel",
+      "cuisine": "Austrian",
+      "course": "main",
+      "servings": 4,
+      "timeMinutes": {
+        "prep": 20,
+        "cook": 15
+      },
+      "difficulty": "medium",
+      "vegetarian": false,
+      "ingredients": [
+        {
+          "name": "veal cutlets",
+          "amount": 4,
+          "unit": "piece"
+        },
+        {
+          "name": "flour",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "eggs",
+          "amount": 2,
+          "unit": "piece"
+        },
+        {
+          "name": "breadcrumbs",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "clarified butter",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "lemon",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "name": "salt",
+          "amount": 1,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        "Pound the cutlets thin.",
+        "Season with salt.",
+        "Dredge in flour, egg and breadcrumbs.",
+        "Fry in hot butter until golden on both sides.",
+        "Serve with lemon wedges."
+      ],
+      "nutritionPerServing": {
+        "kcal": 579,
+        "proteinG": 15,
+        "carbsG": 46,
+        "fatG": 16
+      },
+      "ratings": [
+        4
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Spaghetti Aglio e Olio",
+      "cuisine": "Italian",
+      "course": "main",
+      "servings": 2,
+      "timeMinutes": {
+        "prep": 5,
+        "cook": 12
+      },
+      "difficulty": "easy",
+      "vegetarian": true,
+      "ingredients": [
+        {
+          "name": "spaghetti",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "garlic",
+          "amount": 4,
+          "unit": "clove"
+        },
+        {
+          "name": "olive oil",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "chili flakes",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "parsley",
+          "amount": 1,
+          "unit": "bunch"
+        }
+      ],
+      "steps": [
+        "Cook spaghetti al dente.",
+        "Slice garlic and fry gently in olive oil with chili.",
+        "Toss pasta with the oil and some pasta water.",
+        "Finish with chopped parsley."
+      ],
+      "nutritionPerServing": {
+        "kcal": 383,
+        "proteinG": 9,
+        "carbsG": 35,
+        "fatG": 28
+      },
+      "ratings": [
+        5,
+        3,
+        2
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Kaiserschmarrn",
+      "cuisine": "Austrian",
+      "course": "dessert",
+      "servings": 3,
+      "timeMinutes": {
+        "prep": 10,
+        "cook": 15
+      },
+      "difficulty": "medium",
+      "vegetarian": true,
+      "ingredients": [
+        {
+          "name": "flour",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "milk",
+          "amount": 250,
+          "unit": "ml"
+        },
+        {
+          "name": "eggs",
+          "amount": 4,
+          "unit": "piece"
+        },
+        {
+          "name": "sugar",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "butter",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "name": "raisins",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "name": "powdered sugar",
+          "amount": 2,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        "Separate eggs and beat whites to stiff peaks.",
+        "Mix yolks, milk, flour and sugar; fold in whites.",
+        "Cook in butter, flip, then tear into pieces.",
+        "Caramelise with sugar and dust with powdered sugar."
+      ],
+      "nutritionPerServing": {
+        "kcal": 632,
+        "proteinG": 40,
+        "carbsG": 67,
+        "fatG": 5
+      },
+      "ratings": [
+        3,
+        3,
+        5,
+        3,
+        5,
+        4
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Chickpea Curry",
+      "cuisine": "Indian",
+      "course": "main",
+      "servings": 4,
+      "timeMinutes": {
+        "prep": 10,
+        "cook": 25
+      },
+      "difficulty": "easy",
+      "vegetarian": true,
+      "ingredients": [
+        {
+          "name": "chickpeas (cooked)",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "name": "onion",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "name": "garlic",
+          "amount": 2,
+          "unit": "clove"
+        },
+        {
+          "name": "coconut milk",
+          "amount": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "tomatoes (canned)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "curry powder",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "rice",
+          "amount": 300,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Sauté onion and garlic.",
+        "Add curry powder and toast briefly.",
+        "Add tomatoes, coconut milk and chickpeas; simmer 20 minutes.",
+        "Serve with rice."
+      ],
+      "nutritionPerServing": {
+        "kcal": 289,
+        "proteinG": 32,
+        "carbsG": 29,
+        "fatG": 24
+      },
+      "ratings": [
+        3,
+        4,
+        3,
+        2
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Greek Salad",
+      "cuisine": "Greek",
+      "course": "starter",
+      "servings": 2,
+      "timeMinutes": {
+        "prep": 10,
+        "cook": 0
+      },
+      "difficulty": "easy",
+      "vegetarian": true,
+      "ingredients": [
+        {
+          "name": "tomatoes",
+          "amount": 3,
+          "unit": "piece"
+        },
+        {
+          "name": "cucumber",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "name": "red onion",
+          "amount": 0.5,
+          "unit": "piece"
+        },
+        {
+          "name": "feta",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "olives",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "olive oil",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "name": "oregano",
+          "amount": 1,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        "Chop vegetables into chunks.",
+        "Add olives and top with feta.",
+        "Drizzle with olive oil and sprinkle oregano."
+      ],
+      "nutritionPerServing": {
+        "kcal": 732,
+        "proteinG": 6,
+        "carbsG": 40,
+        "fatG": 10
+      },
+      "ratings": [
+        5
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Beef Goulash",
+      "cuisine": "Hungarian",
+      "course": "main",
+      "servings": 6,
+      "timeMinutes": {
+        "prep": 20,
+        "cook": 150
+      },
+      "difficulty": "medium",
+      "vegetarian": false,
+      "ingredients": [
+        {
+          "name": "beef shank",
+          "amount": 1000,
+          "unit": "g"
+        },
+        {
+          "name": "onions",
+          "amount": 1000,
+          "unit": "g"
+        },
+        {
+          "name": "sweet paprika",
+          "amount": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "tomato paste",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "caraway",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "vinegar",
+          "amount": 1,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        "Brown chopped onions slowly.",
+        "Add paprika and tomato paste.",
+        "Add cubed beef, caraway and water.",
+        "Simmer for 2.5 hours until tender."
+      ],
+      "nutritionPerServing": {
+        "kcal": 619,
+        "proteinG": 29,
+        "carbsG": 26,
+        "fatG": 23
+      },
+      "ratings": [
+        4,
+        3,
+        3
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Pancakes",
+      "cuisine": "American",
+      "course": "breakfast",
+      "servings": 4,
+      "timeMinutes": {
+        "prep": 5,
+        "cook": 15
+      },
+      "difficulty": "easy",
+      "vegetarian": true,
+      "ingredients": [
+        {
+          "name": "flour",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "milk",
+          "amount": 300,
+          "unit": "ml"
+        },
+        {
+          "name": "eggs",
+          "amount": 2,
+          "unit": "piece"
+        },
+        {
+          "name": "baking powder",
+          "amount": 2,
+          "unit": "tsp"
+        },
+        {
+          "name": "sugar",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "butter",
+          "amount": 30,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Whisk dry ingredients.",
+        "Add milk, eggs and melted butter.",
+        "Cook ladlefuls in a hot pan until bubbles form, then flip."
+      ],
+      "nutritionPerServing": {
+        "kcal": 741,
+        "proteinG": 38,
+        "carbsG": 34,
+        "fatG": 7
+      },
+      "ratings": [
+        5,
+        3,
+        5,
+        5,
+        4,
+        2
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Miso Soup",
+      "cuisine": "Japanese",
+      "course": "starter",
+      "servings": 4,
+      "timeMinutes": {
+        "prep": 5,
+        "cook": 10
+      },
+      "difficulty": "easy",
+      "vegetarian": true,
+      "ingredients": [
+        {
+          "name": "dashi",
+          "amount": 1000,
+          "unit": "ml"
+        },
+        {
+          "name": "miso paste",
+          "amount": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "tofu",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "wakame",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "spring onions",
+          "amount": 2,
+          "unit": "piece"
+        }
+      ],
+      "steps": [
+        "Heat dashi without boiling.",
+        "Dissolve miso paste.",
+        "Add tofu cubes and wakame.",
+        "Garnish with spring onions."
+      ],
+      "nutritionPerServing": {
+        "kcal": 588,
+        "proteinG": 18,
+        "carbsG": 36,
+        "fatG": 22
+      },
+      "ratings": [
+        3,
+        3,
+        2,
+        5,
+        2,
+        2
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Shakshuka",
+      "cuisine": "Middle Eastern",
+      "course": "breakfast",
+      "servings": 2,
+      "timeMinutes": {
+        "prep": 10,
+        "cook": 20
+      },
+      "difficulty": "easy",
+      "vegetarian": true,
+      "ingredients": [
+        {
+          "name": "eggs",
+          "amount": 4,
+          "unit": "piece"
+        },
+        {
+          "name": "tomatoes (canned)",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "bell pepper",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "name": "onion",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "name": "cumin",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "paprika",
+          "amount": 1,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        "Sauté onion and pepper.",
+        "Add spices and tomatoes; simmer 10 minutes.",
+        "Make wells and crack in the eggs.",
+        "Cover and cook until eggs are set."
+      ],
+      "nutritionPerServing": {
+        "kcal": 631,
+        "proteinG": 35,
+        "carbsG": 9,
+        "fatG": 29
+      },
+      "ratings": [
+        5,
+        5,
+        2,
+        5,
+        5,
+        3,
+        2,
+        2
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Apple Strudel",
+      "cuisine": "Austrian",
+      "course": "dessert",
+      "servings": 8,
+      "timeMinutes": {
+        "prep": 45,
+        "cook": 40
+      },
+      "difficulty": "hard",
+      "vegetarian": true,
+      "ingredients": [
+        {
+          "name": "strudel dough",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "name": "apples",
+          "amount": 1200,
+          "unit": "g"
+        },
+        {
+          "name": "sugar",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "cinnamon",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "breadcrumbs",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "butter",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "raisins",
+          "amount": 50,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Stretch dough paper-thin.",
+        "Toast breadcrumbs in butter.",
+        "Spread crumbs, sliced apples, sugar, cinnamon and raisins.",
+        "Roll up, brush with butter and bake at 190°C for 40 minutes."
+      ],
+      "nutritionPerServing": {
+        "kcal": 566,
+        "proteinG": 16,
+        "carbsG": 21,
+        "fatG": 24
+      },
+      "ratings": [
+        3,
+        2,
+        2,
+        5
+      ]
+    }
+  ]
+}

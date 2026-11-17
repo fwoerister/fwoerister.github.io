@@ -1,0 +1,973 @@
+{
+  "categories": [
+    {
+      "id": "electronics",
+      "name": "Electronics",
+      "parentId": null
+    },
+    {
+      "id": "audio",
+      "name": "Audio",
+      "parentId": "electronics"
+    },
+    {
+      "id": "computers",
+      "name": "Computers & Accessories",
+      "parentId": "electronics"
+    },
+    {
+      "id": "home",
+      "name": "Home & Kitchen",
+      "parentId": null
+    },
+    {
+      "id": "kitchen",
+      "name": "Kitchen",
+      "parentId": "home"
+    },
+    {
+      "id": "furniture",
+      "name": "Furniture",
+      "parentId": "home"
+    },
+    {
+      "id": "sports",
+      "name": "Sports & Outdoors",
+      "parentId": null
+    },
+    {
+      "id": "books",
+      "name": "Books",
+      "parentId": null
+    },
+    {
+      "id": "clothing",
+      "name": "Clothing",
+      "parentId": null
+    }
+  ],
+  "products": [
+    {
+      "id": "P0001",
+      "sku": "AUD-22224",
+      "name": "Wireless Headphones X200",
+      "categoryId": "audio",
+      "brand": "SoundWave",
+      "price": 89.99,
+      "currency": "EUR",
+      "discountPercent": 0,
+      "stock": 41,
+      "warehouse": "VIE-2",
+      "weightKg": 1.75,
+      "rating": {
+        "average": 3.4,
+        "count": 821
+      },
+      "tags": [],
+      "active": true,
+      "createdAt": "2022-01-05"
+    },
+    {
+      "id": "P0002",
+      "sku": "AUD-61173",
+      "name": "Bluetooth Speaker Mini",
+      "categoryId": "audio",
+      "brand": "SoundWave",
+      "price": 39.9,
+      "currency": "EUR",
+      "discountPercent": 5,
+      "stock": 236,
+      "warehouse": "VIE-2",
+      "weightKg": 1.07,
+      "rating": {
+        "average": 4.4,
+        "count": 1496
+      },
+      "tags": [
+        "sale",
+        "gift-idea"
+      ],
+      "active": true,
+      "createdAt": "2023-08-31"
+    },
+    {
+      "id": "P0003",
+      "sku": "AUD-38534",
+      "name": "Studio Monitor Pair",
+      "categoryId": "audio",
+      "brand": "Klangwerk",
+      "price": 249.0,
+      "currency": "EUR",
+      "discountPercent": 0,
+      "stock": 147,
+      "warehouse": "MUC-1",
+      "weightKg": 1.94,
+      "rating": {
+        "average": 4.5,
+        "count": 117
+      },
+      "tags": [],
+      "active": true,
+      "createdAt": "2024-10-26"
+    },
+    {
+      "id": "P0004",
+      "sku": "AUD-79615",
+      "name": "USB-C Earbuds",
+      "categoryId": "audio",
+      "brand": "Klangwerk",
+      "price": 24.5,
+      "currency": "EUR",
+      "discountPercent": 0,
+      "stock": 13,
+      "warehouse": "MUC-1",
+      "weightKg": 0.37,
+      "rating": {
+        "average": 3.4,
+        "count": 1218
+      },
+      "tags": [],
+      "active": true,
+      "createdAt": "2023-04-27"
+    },
+    {
+      "id": "P0005",
+      "sku": "COM-62923",
+      "name": "Mechanical Keyboard TKL",
+      "categoryId": "computers",
+      "brand": "KeyForge",
+      "price": 119.0,
+      "currency": "EUR",
+      "discountPercent": 0,
+      "stock": 240,
+      "warehouse": "MUC-1",
+      "weightKg": 0.94,
+      "rating": {
+        "average": 4.2,
+        "count": 1268
+      },
+      "tags": [],
+      "active": true,
+      "createdAt": "2025-04-10"
+    },
+    {
+      "id": "P0006",
+      "sku": "COM-84085",
+      "name": "Ergonomic Mouse",
+      "categoryId": "computers",
+      "brand": "KeyForge",
+      "price": 49.99,
+      "currency": "EUR",
+      "discountPercent": 25,
+      "stock": 79,
+      "warehouse": "VIE-2",
+      "weightKg": 0.79,
+      "rating": {
+        "average": 4.4,
+        "count": 488
+      },
+      "tags": [
+        "gift-idea"
+      ],
+      "active": true,
+      "createdAt": "2025-08-14"
+    },
+    {
+      "id": "P0007",
+      "sku": "COM-49321",
+      "name": "27\" 4K Monitor",
+      "categoryId": "computers",
+      "brand": "PixelPro",
+      "price": 379.0,
+      "currency": "EUR",
+      "discountPercent": 20,
+      "stock": 79,
+      "warehouse": "VIE-1",
+      "weightKg": 0.13,
+      "rating": {
+        "average": 4.2,
+        "count": 1153
+      },
+      "tags": [],
+      "active": false,
+      "createdAt": "2023-03-13"
+    },
+    {
+      "id": "P0008",
+      "sku": "COM-76307",
+      "name": "USB-C Hub 7-in-1",
+      "categoryId": "computers",
+      "brand": "Connecta",
+      "price": 34.99,
+      "currency": "EUR",
+      "discountPercent": 5,
+      "stock": 32,
+      "warehouse": "VIE-2",
+      "weightKg": 3.09,
+      "rating": {
+        "average": 4.8,
+        "count": 756
+      },
+      "tags": [
+        "new"
+      ],
+      "active": true,
+      "createdAt": "2025-01-17"
+    },
+    {
+      "id": "P0009",
+      "sku": "COM-49651",
+      "name": "Laptop Stand Aluminium",
+      "categoryId": "computers",
+      "brand": "Connecta",
+      "price": 29.9,
+      "currency": "EUR",
+      "discountPercent": 25,
+      "stock": 1,
+      "warehouse": "MUC-1",
+      "weightKg": 2.88,
+      "rating": {
+        "average": 3.6,
+        "count": 1358
+      },
+      "tags": [],
+      "active": true,
+      "createdAt": "2022-10-03"
+    },
+    {
+      "id": "P0010",
+      "sku": "COM-44664",
+      "name": "External SSD 1TB",
+      "categoryId": "computers",
+      "brand": "DataVault",
+      "price": 99.0,
+      "currency": "EUR",
+      "discountPercent": 0,
+      "stock": 226,
+      "warehouse": "VIE-1",
+      "weightKg": 2.62,
+      "rating": {
+        "average": 3.3,
+        "count": 577
+      },
+      "tags": [
+        "new",
+        "eco"
+      ],
+      "active": true,
+      "createdAt": "2025-07-22"
+    },
+    {
+      "id": "P0011",
+      "sku": "COM-44600",
+      "name": "Webcam Full HD",
+      "categoryId": "computers",
+      "brand": "PixelPro",
+      "price": 59.0,
+      "currency": "EUR",
+      "discountPercent": 25,
+      "stock": 124,
+      "warehouse": "VIE-2",
+      "weightKg": 3.18,
+      "rating": {
+        "average": 4.7,
+        "count": 189
+      },
+      "tags": [
+        "gift-idea",
+        "eco"
+      ],
+      "active": false,
+      "createdAt": "2023-11-15"
+    },
+    {
+      "id": "P0012",
+      "sku": "KIT-27146",
+      "name": "Espresso Machine Barista",
+      "categoryId": "kitchen",
+      "brand": "CafeLuxe",
+      "price": 449.0,
+      "currency": "EUR",
+      "discountPercent": 5,
+      "stock": 40,
+      "warehouse": "MUC-1",
+      "weightKg": 1.6,
+      "rating": {
+        "average": 4.4,
+        "count": 1148
+      },
+      "tags": [],
+      "active": true,
+      "createdAt": "2025-11-16"
+    },
+    {
+      "id": "P0013",
+      "sku": "KIT-29536",
+      "name": "Burr Coffee Grinder",
+      "categoryId": "kitchen",
+      "brand": "CafeLuxe",
+      "price": 129.0,
+      "currency": "EUR",
+      "discountPercent": 25,
+      "stock": 8,
+      "warehouse": "VIE-2",
+      "weightKg": 2.08,
+      "rating": {
+        "average": 3.3,
+        "count": 261
+      },
+      "tags": [],
+      "active": true,
+      "createdAt": "2022-03-23"
+    },
+    {
+      "id": "P0014",
+      "sku": "KIT-56898",
+      "name": "Chef's Knife 20cm",
+      "categoryId": "kitchen",
+      "brand": "Edelstahl & Co",
+      "price": 79.0,
+      "currency": "EUR",
+      "discountPercent": 0,
+      "stock": 173,
+      "warehouse": "VIE-1",
+      "weightKg": 2.37,
+      "rating": {
+        "average": 3.7,
+        "count": 1146
+      },
+      "tags": [
+        "limited"
+      ],
+      "active": true,
+      "createdAt": "2023-04-30"
+    },
+    {
+      "id": "P0015",
+      "sku": "KIT-31299",
+      "name": "Cast Iron Skillet 28cm",
+      "categoryId": "kitchen",
+      "brand": "Edelstahl & Co",
+      "price": 54.9,
+      "currency": "EUR",
+      "discountPercent": 0,
+      "stock": 224,
+      "warehouse": "VIE-2",
+      "weightKg": 0.18,
+      "rating": {
+        "average": 4.5,
+        "count": 680
+      },
+      "tags": [
+        "sale"
+      ],
+      "active": true,
+      "createdAt": "2023-05-24"
+    },
+    {
+      "id": "P0016",
+      "sku": "KIT-44970",
+      "name": "Electric Kettle 1.7L",
+      "categoryId": "kitchen",
+      "brand": "HomeEase",
+      "price": 34.99,
+      "currency": "EUR",
+      "discountPercent": 0,
+      "stock": 200,
+      "warehouse": "MUC-1",
+      "weightKg": 0.47,
+      "rating": {
+        "average": 4.7,
+        "count": 963
+      },
+      "tags": [],
+      "active": true,
+      "createdAt": "2024-07-31"
+    },
+    {
+      "id": "P0017",
+      "sku": "KIT-55830",
+      "name": "Bamboo Cutting Board Set",
+      "categoryId": "kitchen",
+      "brand": "HomeEase",
+      "price": 22.5,
+      "currency": "EUR",
+      "discountPercent": 5,
+      "stock": 209,
+      "warehouse": "VIE-1",
+      "weightKg": 0.86,
+      "rating": {
+        "average": 4.3,
+        "count": 816
+      },
+      "tags": [
+        "eco"
+      ],
+      "active": true,
+      "createdAt": "2023-07-26"
+    },
+    {
+      "id": "P0018",
+      "sku": "FUR-56025",
+      "name": "Oak Desk 140x70",
+      "categoryId": "furniture",
+      "brand": "Holzhaus",
+      "price": 529.0,
+      "currency": "EUR",
+      "discountPercent": 25,
+      "stock": 101,
+      "warehouse": "MUC-1",
+      "weightKg": 34.43,
+      "rating": {
+        "average": 4.1,
+        "count": 56
+      },
+      "tags": [],
+      "active": true,
+      "createdAt": "2023-06-19"
+    },
+    {
+      "id": "P0019",
+      "sku": "FUR-33405",
+      "name": "Office Chair ErgoPlus",
+      "categoryId": "furniture",
+      "brand": "Holzhaus",
+      "price": 289.0,
+      "currency": "EUR",
+      "discountPercent": 5,
+      "stock": 8,
+      "warehouse": "VIE-1",
+      "weightKg": 22.9,
+      "rating": {
+        "average": 3.7,
+        "count": 642
+      },
+      "tags": [
+        "limited"
+      ],
+      "active": true,
+      "createdAt": "2022-08-25"
+    },
+    {
+      "id": "P0020",
+      "sku": "FUR-60488",
+      "name": "Bookshelf 5 Tiers",
+      "categoryId": "furniture",
+      "brand": "Holzhaus",
+      "price": 149.0,
+      "currency": "EUR",
+      "discountPercent": 0,
+      "stock": 64,
+      "warehouse": "VIE-1",
+      "weightKg": 26.26,
+      "rating": {
+        "average": 3.0,
+        "count": 1102
+      },
+      "tags": [
+        "sale",
+        "new"
+      ],
+      "active": true,
+      "createdAt": "2022-05-24"
+    },
+    {
+      "id": "P0021",
+      "sku": "FUR-97062",
+      "name": "Floor Lamp Arc",
+      "categoryId": "furniture",
+      "brand": "Lumina",
+      "price": 119.9,
+      "currency": "EUR",
+      "discountPercent": 10,
+      "stock": 158,
+      "warehouse": "VIE-2",
+      "weightKg": 24.9,
+      "rating": {
+        "average": 3.2,
+        "count": 615
+      },
+      "tags": [
+        "eco",
+        "gift-idea"
+      ],
+      "active": true,
+      "createdAt": "2025-11-28"
+    },
+    {
+      "id": "P0022",
+      "sku": "SPO-48752",
+      "name": "Yoga Mat Pro",
+      "categoryId": "sports",
+      "brand": "Alpenfit",
+      "price": 39.0,
+      "currency": "EUR",
+      "discountPercent": 25,
+      "stock": 31,
+      "warehouse": "VIE-1",
+      "weightKg": 1.53,
+      "rating": {
+        "average": 4.9,
+        "count": 1387
+      },
+      "tags": [
+        "new",
+        "limited"
+      ],
+      "active": true,
+      "createdAt": "2024-04-11"
+    },
+    {
+      "id": "P0023",
+      "sku": "SPO-81819",
+      "name": "Adjustable Dumbbells 2x20kg",
+      "categoryId": "sports",
+      "brand": "Alpenfit",
+      "price": 199.0,
+      "currency": "EUR",
+      "discountPercent": 0,
+      "stock": 76,
+      "warehouse": "VIE-2",
+      "weightKg": 0.81,
+      "rating": {
+        "average": 4.6,
+        "count": 1242
+      },
+      "tags": [
+        "eco",
+        "gift-idea"
+      ],
+      "active": true,
+      "createdAt": "2025-10-15"
+    },
+    {
+      "id": "P0024",
+      "sku": "SPO-38010",
+      "name": "Trail Running Shoes",
+      "categoryId": "sports",
+      "brand": "Gipfelsport",
+      "price": 129.95,
+      "currency": "EUR",
+      "discountPercent": 25,
+      "stock": 120,
+      "warehouse": "MUC-1",
+      "weightKg": 0.68,
+      "rating": {
+        "average": 3.2,
+        "count": 1055
+      },
+      "tags": [
+        "sale",
+        "limited"
+      ],
+      "active": true,
+      "createdAt": "2023-04-27"
+    },
+    {
+      "id": "P0025",
+      "sku": "SPO-98184",
+      "name": "Hiking Backpack 30L",
+      "categoryId": "sports",
+      "brand": "Gipfelsport",
+      "price": 89.0,
+      "currency": "EUR",
+      "discountPercent": 5,
+      "stock": 56,
+      "warehouse": "VIE-1",
+      "weightKg": 0.6,
+      "rating": {
+        "average": 3.1,
+        "count": 973
+      },
+      "tags": [
+        "bestseller",
+        "gift-idea"
+      ],
+      "active": true,
+      "createdAt": "2025-07-13"
+    },
+    {
+      "id": "P0026",
+      "sku": "SPO-85454",
+      "name": "Insulated Water Bottle 750ml",
+      "categoryId": "sports",
+      "brand": "Gipfelsport",
+      "price": 24.9,
+      "currency": "EUR",
+      "discountPercent": 0,
+      "stock": 182,
+      "warehouse": "MUC-1",
+      "weightKg": 1.41,
+      "rating": {
+        "average": 3.8,
+        "count": 302
+      },
+      "tags": [
+        "sale",
+        "bestseller"
+      ],
+      "active": true,
+      "createdAt": "2022-08-07"
+    },
+    {
+      "id": "P0027",
+      "sku": "SPO-65724",
+      "name": "Camping Tent 2P",
+      "categoryId": "sports",
+      "brand": "Gipfelsport",
+      "price": 179.0,
+      "currency": "EUR",
+      "discountPercent": 0,
+      "stock": 44,
+      "warehouse": "MUC-1",
+      "weightKg": 1.86,
+      "rating": {
+        "average": 3.1,
+        "count": 510
+      },
+      "tags": [],
+      "active": true,
+      "createdAt": "2024-08-09"
+    },
+    {
+      "id": "P0028",
+      "sku": "BOO-97500",
+      "name": "Clean Code",
+      "categoryId": "books",
+      "brand": "Prentice Hall",
+      "price": 37.99,
+      "currency": "EUR",
+      "discountPercent": 25,
+      "stock": 142,
+      "warehouse": "MUC-1",
+      "weightKg": 1.18,
+      "rating": {
+        "average": 4.5,
+        "count": 906
+      },
+      "tags": [
+        "sale",
+        "limited"
+      ],
+      "active": true,
+      "createdAt": "2025-01-27"
+    },
+    {
+      "id": "P0029",
+      "sku": "BOO-68446",
+      "name": "The Pragmatic Programmer",
+      "categoryId": "books",
+      "brand": "Addison-Wesley",
+      "price": 42.5,
+      "currency": "EUR",
+      "discountPercent": 0,
+      "stock": 189,
+      "warehouse": "VIE-2",
+      "weightKg": 1.63,
+      "rating": {
+        "average": 4.5,
+        "count": 1305
+      },
+      "tags": [
+        "limited"
+      ],
+      "active": true,
+      "createdAt": "2023-05-05"
+    },
+    {
+      "id": "P0030",
+      "sku": "BOO-45992",
+      "name": "Designing Data-Intensive Applications",
+      "categoryId": "books",
+      "brand": "O'Reilly",
+      "price": 45.9,
+      "currency": "EUR",
+      "discountPercent": 20,
+      "stock": 18,
+      "warehouse": "MUC-1",
+      "weightKg": 1.07,
+      "rating": {
+        "average": 3.5,
+        "count": 654
+      },
+      "tags": [
+        "bestseller",
+        "new"
+      ],
+      "active": true,
+      "createdAt": "2024-02-24"
+    },
+    {
+      "id": "P0031",
+      "sku": "BOO-30028",
+      "name": "Python Crash Course",
+      "categoryId": "books",
+      "brand": "No Starch Press",
+      "price": 34.95,
+      "currency": "EUR",
+      "discountPercent": 0,
+      "stock": 15,
+      "warehouse": "VIE-2",
+      "weightKg": 1.49,
+      "rating": {
+        "average": 4.1,
+        "count": 851
+      },
+      "tags": [],
+      "active": true,
+      "createdAt": "2024-05-10"
+    },
+    {
+      "id": "P0032",
+      "sku": "CLO-61049",
+      "name": "Merino T-Shirt",
+      "categoryId": "clothing",
+      "brand": "WoolCraft",
+      "price": 59.0,
+      "currency": "EUR",
+      "discountPercent": 0,
+      "stock": 185,
+      "warehouse": "MUC-1",
+      "weightKg": 1.39,
+      "rating": {
+        "average": 3.0,
+        "count": 720
+      },
+      "tags": [
+        "gift-idea"
+      ],
+      "active": true,
+      "createdAt": "2024-05-08",
+      "variants": [
+        {
+          "size": "S",
+          "color": "white",
+          "stock": 31
+        },
+        {
+          "size": "S",
+          "color": "navy",
+          "stock": 14
+        },
+        {
+          "size": "M",
+          "color": "grey",
+          "stock": 31
+        },
+        {
+          "size": "M",
+          "color": "olive",
+          "stock": 1
+        },
+        {
+          "size": "L",
+          "color": "olive",
+          "stock": 25
+        },
+        {
+          "size": "L",
+          "color": "grey",
+          "stock": 10
+        },
+        {
+          "size": "XL",
+          "color": "olive",
+          "stock": 39
+        },
+        {
+          "size": "XL",
+          "color": "navy",
+          "stock": 34
+        }
+      ]
+    },
+    {
+      "id": "P0033",
+      "sku": "CLO-13534",
+      "name": "Rain Jacket Lightweight",
+      "categoryId": "clothing",
+      "brand": "Gipfelsport",
+      "price": 139.0,
+      "currency": "EUR",
+      "discountPercent": 15,
+      "stock": 162,
+      "warehouse": "MUC-1",
+      "weightKg": 2.35,
+      "rating": {
+        "average": 3.2,
+        "count": 877
+      },
+      "tags": [],
+      "active": true,
+      "createdAt": "2023-01-08",
+      "variants": [
+        {
+          "size": "S",
+          "color": "black",
+          "stock": 24
+        },
+        {
+          "size": "S",
+          "color": "grey",
+          "stock": 20
+        },
+        {
+          "size": "M",
+          "color": "navy",
+          "stock": 20
+        },
+        {
+          "size": "M",
+          "color": "olive",
+          "stock": 21
+        },
+        {
+          "size": "L",
+          "color": "olive",
+          "stock": 26
+        },
+        {
+          "size": "L",
+          "color": "grey",
+          "stock": 16
+        },
+        {
+          "size": "XL",
+          "color": "black",
+          "stock": 1
+        },
+        {
+          "size": "XL",
+          "color": "olive",
+          "stock": 34
+        }
+      ]
+    },
+    {
+      "id": "P0034",
+      "sku": "CLO-16826",
+      "name": "Organic Cotton Hoodie",
+      "categoryId": "clothing",
+      "brand": "WoolCraft",
+      "price": 69.9,
+      "currency": "EUR",
+      "discountPercent": 10,
+      "stock": 134,
+      "warehouse": "MUC-1",
+      "weightKg": 0.33,
+      "rating": {
+        "average": 4.9,
+        "count": 82
+      },
+      "tags": [],
+      "active": true,
+      "createdAt": "2023-02-13",
+      "variants": [
+        {
+          "size": "S",
+          "color": "black",
+          "stock": 15
+        },
+        {
+          "size": "S",
+          "color": "navy",
+          "stock": 8
+        },
+        {
+          "size": "M",
+          "color": "olive",
+          "stock": 36
+        },
+        {
+          "size": "M",
+          "color": "black",
+          "stock": 13
+        },
+        {
+          "size": "L",
+          "color": "olive",
+          "stock": 23
+        },
+        {
+          "size": "L",
+          "color": "grey",
+          "stock": 10
+        },
+        {
+          "size": "XL",
+          "color": "white",
+          "stock": 10
+        },
+        {
+          "size": "XL",
+          "color": "black",
+          "stock": 19
+        }
+      ]
+    },
+    {
+      "id": "P0035",
+      "sku": "CLO-24168",
+      "name": "Wool Socks 3-Pack",
+      "categoryId": "clothing",
+      "brand": "WoolCraft",
+      "price": 19.9,
+      "currency": "EUR",
+      "discountPercent": 0,
+      "stock": 206,
+      "warehouse": "VIE-2",
+      "weightKg": 2.06,
+      "rating": {
+        "average": 4.8,
+        "count": 768
+      },
+      "tags": [
+        "sale"
+      ],
+      "active": true,
+      "createdAt": "2025-04-27",
+      "variants": [
+        {
+          "size": "S",
+          "color": "navy",
+          "stock": 19
+        },
+        {
+          "size": "S",
+          "color": "black",
+          "stock": 38
+        },
+        {
+          "size": "M",
+          "color": "black",
+          "stock": 22
+        },
+        {
+          "size": "M",
+          "color": "white",
+          "stock": 34
+        },
+        {
+          "size": "L",
+          "color": "olive",
+          "stock": 4
+        },
+        {
+          "size": "L",
+          "color": "grey",
+          "stock": 32
+        },
+        {
+          "size": "XL",
+          "color": "grey",
+          "stock": 26
+        },
+        {
+          "size": "XL",
+          "color": "black",
+          "stock": 31
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3311 @@
+{
+  "customers": [
+    {
+      "id": "C001",
+      "firstName": "Greta",
+      "lastName": "Lang",
+      "email": "greta.lang@example.com",
+      "address": {
+        "street": "Schulstraße 115",
+        "zip": "8542",
+        "city": "Munich",
+        "country": "DE"
+      },
+      "registeredAt": "2024-12-19",
+      "newsletter": true
+    },
+    {
+      "id": "C002",
+      "firstName": "Lena",
+      "lastName": "Wallner",
+      "email": "lena.wallner@example.com",
+      "address": {
+        "street": "Kirchstraße 104",
+        "zip": "9827",
+        "city": "Innsbruck",
+        "country": "AT"
+      },
+      "registeredAt": "2025-05-06",
+      "newsletter": false
+    },
+    {
+      "id": "C003",
+      "firstName": "Mia",
+      "lastName": "Weber",
+      "email": "mia.weber@example.com",
+      "address": {
+        "street": "Bahnhofstraße 107",
+        "zip": "2429",
+        "city": "Munich",
+        "country": "DE"
+      },
+      "registeredAt": "2022-07-26",
+      "newsletter": false
+    },
+    {
+      "id": "C004",
+      "firstName": "Paula",
+      "lastName": "Auer",
+      "email": "paula.auer@example.com",
+      "address": {
+        "street": "Kirchstraße 86",
+        "zip": "7219",
+        "city": "Bern",
+        "country": "CH"
+      },
+      "registeredAt": "2022-11-20",
+      "newsletter": true
+    },
+    {
+      "id": "C005",
+      "firstName": "Ulrich",
+      "lastName": "Berger",
+      "email": "ulrich.berger@example.com",
+      "address": {
+        "street": "Bahnhofstraße 46",
+        "zip": "5242",
+        "city": "Hamburg",
+        "country": "DE"
+      },
+      "registeredAt": "2022-11-29",
+      "newsletter": true
+    },
+    {
+      "id": "C006",
+      "firstName": "Leon",
+      "lastName": "Weber",
+      "email": "leon.weber@example.com",
+      "address": {
+        "street": "Hauptstraße 67",
+        "zip": "4140",
+        "city": "Zurich",
+        "country": "CH"
+      },
+      "registeredAt": "2021-06-25",
+      "newsletter": true
+    },
+    {
+      "id": "C007",
+      "firstName": "Lukas",
+      "lastName": "Lechner",
+      "email": "lukas.lechner@example.com",
+      "address": {
+        "street": "Bahnhofstraße 89",
+        "zip": "8810",
+        "city": "Zurich",
+        "country": "CH"
+      },
+      "registeredAt": "2024-08-15",
+      "newsletter": false
+    },
+    {
+      "id": "C008",
+      "firstName": "Noah",
+      "lastName": "Gruber",
+      "email": "noah.gruber@example.com",
+      "address": {
+        "street": "Lindenstraße 29",
+        "zip": "7635",
+        "city": "Graz",
+        "country": "AT"
+      },
+      "registeredAt": "2024-11-17",
+      "newsletter": true
+    },
+    {
+      "id": "C009",
+      "firstName": "Ida",
+      "lastName": "Schmidt",
+      "email": "ida.schmidt@example.com",
+      "address": {
+        "street": "Kirchstraße 68",
+        "zip": "6642",
+        "city": "Hamburg",
+        "country": "DE"
+      },
+      "registeredAt": "2023-05-22",
+      "newsletter": false
+    },
+    {
+      "id": "C010",
+      "firstName": "Sara",
+      "lastName": "Reiter",
+      "email": "sara.reiter@example.com",
+      "address": {
+        "street": "Schulstraße 59",
+        "zip": "5448",
+        "city": "Munich",
+        "country": "DE"
+      },
+      "registeredAt": "2022-09-20",
+      "newsletter": true
+    },
+    {
+      "id": "C011",
+      "firstName": "Hannah",
+      "lastName": "Fuchs",
+      "email": "hannah.fuchs@example.com",
+      "address": {
+        "street": "Hauptstraße 96",
+        "zip": "9789",
+        "city": "Munich",
+        "country": "DE"
+      },
+      "registeredAt": "2025-04-10",
+      "newsletter": false
+    },
+    {
+      "id": "C012",
+      "firstName": "Max",
+      "lastName": "Eder",
+      "email": "max.eder@example.com",
+      "address": {
+        "street": "Lindenstraße 93",
+        "zip": "9605",
+        "city": "Hamburg",
+        "country": "DE"
+      },
+      "registeredAt": "2024-05-07",
+      "newsletter": true
+    },
+    {
+      "id": "C013",
+      "firstName": "Greta",
+      "lastName": "Fuchs",
+      "email": "greta.fuchs@example.com",
+      "address": {
+        "street": "Bahnhofstraße 47",
+        "zip": "3949",
+        "city": "Innsbruck",
+        "country": "AT"
+      },
+      "registeredAt": "2022-09-12",
+      "newsletter": true
+    },
+    {
+      "id": "C014",
+      "firstName": "Tobias",
+      "lastName": "Mayer",
+      "email": "tobias.mayer@example.com",
+      "address": {
+        "street": "Hauptstraße 7",
+        "zip": "5796",
+        "city": "Innsbruck",
+        "country": "AT"
+      },
+      "registeredAt": "2024-11-29",
+      "newsletter": false
+    },
+    {
+      "id": "C015",
+      "firstName": "Lea",
+      "lastName": "Steiner",
+      "email": "lea.steiner@example.com",
+      "address": {
+        "street": "Kirchstraße 37",
+        "zip": "8700",
+        "city": "Vienna",
+        "country": "AT"
+      },
+      "registeredAt": "2023-09-08",
+      "newsletter": false
+    },
+    {
+      "id": "C016",
+      "firstName": "Lena",
+      "lastName": "Wagner",
+      "email": "lena.wagner@example.com",
+      "address": {
+        "street": "Gartenstraße 15",
+        "zip": "2080",
+        "city": "Innsbruck",
+        "country": "AT"
+      },
+      "registeredAt": "2023-04-01",
+      "newsletter": false
+    },
+    {
+      "id": "C017",
+      "firstName": "Matteo",
+      "lastName": "Wagner",
+      "email": "matteo.wagner@example.com",
+      "address": {
+        "street": "Bahnhofstraße 104",
+        "zip": "5988",
+        "city": "Linz",
+        "country": "AT"
+      },
+      "registeredAt": "2021-06-24",
+      "newsletter": false
+    },
+    {
+      "id": "C018",
+      "firstName": "Hannah",
+      "lastName": "Ebner",
+      "email": "hannah.ebner@example.com",
+      "address": {
+        "street": "Kirchstraße 77",
+        "zip": "4707",
+        "city": "Berlin",
+        "country": "DE"
+      },
+      "registeredAt": "2025-05-08",
+      "newsletter": false
+    },
+    {
+      "id": "C019",
+      "firstName": "Noah",
+      "lastName": "Baumgartner",
+      "email": "noah.baumgartner@example.com",
+      "address": {
+        "street": "Kirchstraße 55",
+        "zip": "6013",
+        "city": "Innsbruck",
+        "country": "AT"
+      },
+      "registeredAt": "2024-03-10",
+      "newsletter": false
+    },
+    {
+      "id": "C020",
+      "firstName": "Marie",
+      "lastName": "Steiner",
+      "email": "marie.steiner@example.com",
+      "address": {
+        "street": "Schulstraße 28",
+        "zip": "5345",
+        "city": "Salzburg",
+        "country": "AT"
+      },
+      "registeredAt": "2024-09-14",
+      "newsletter": true
+    },
+    {
+      "id": "C021",
+      "firstName": "Paula",
+      "lastName": "Berger",
+      "email": "paula.berger@example.com",
+      "address": {
+        "street": "Hauptstraße 21",
+        "zip": "1053",
+        "city": "Zurich",
+        "country": "CH"
+      },
+      "registeredAt": "2023-04-17",
+      "newsletter": false
+    },
+    {
+      "id": "C022",
+      "firstName": "Leon",
+      "lastName": "Binder",
+      "email": "leon.binder@example.com",
+      "address": {
+        "street": "Hauptstraße 30",
+        "zip": "5730",
+        "city": "Innsbruck",
+        "country": "AT"
+      },
+      "registeredAt": "2024-12-18",
+      "newsletter": true
+    },
+    {
+      "id": "C023",
+      "firstName": "Sophie",
+      "lastName": "Müller",
+      "email": "sophie.mueller@example.com",
+      "address": {
+        "street": "Lindenstraße 101",
+        "zip": "4251",
+        "city": "Salzburg",
+        "country": "AT"
+      },
+      "registeredAt": "2023-05-21",
+      "newsletter": true
+    },
+    {
+      "id": "C024",
+      "firstName": "Oliver",
+      "lastName": "Hofer",
+      "email": "oliver.hofer@example.com",
+      "address": {
+        "street": "Bahnhofstraße 10",
+        "zip": "1987",
+        "city": "Innsbruck",
+        "country": "AT"
+      },
+      "registeredAt": "2021-12-06",
+      "newsletter": false
+    },
+    {
+      "id": "C025",
+      "firstName": "Leon",
+      "lastName": "Schwarz",
+      "email": "leon.schwarz@example.com",
+      "address": {
+        "street": "Hauptstraße 60",
+        "zip": "5992",
+        "city": "Hamburg",
+        "country": "DE"
+      },
+      "registeredAt": "2024-12-04",
+      "newsletter": false
+    },
+    {
+      "id": "C026",
+      "firstName": "Rosa",
+      "lastName": "Wolf",
+      "email": "rosa.wolf@example.com",
+      "address": {
+        "street": "Gartenstraße 57",
+        "zip": "2327",
+        "city": "Zurich",
+        "country": "CH"
+      },
+      "registeredAt": "2024-05-09",
+      "newsletter": true
+    },
+    {
+      "id": "C027",
+      "firstName": "Mia",
+      "lastName": "Schneider",
+      "email": "mia.schneider@example.com",
+      "address": {
+        "street": "Lindenstraße 4",
+        "zip": "2506",
+        "city": "Bern",
+        "country": "CH"
+      },
+      "registeredAt": "2022-04-14",
+      "newsletter": false
+    },
+    {
+      "id": "C028",
+      "firstName": "Matteo",
+      "lastName": "Gruber",
+      "email": "matteo.gruber@example.com",
+      "address": {
+        "street": "Kirchstraße 6",
+        "zip": "3880",
+        "city": "Innsbruck",
+        "country": "AT"
+      },
+      "registeredAt": "2023-08-22",
+      "newsletter": false
+    },
+    {
+      "id": "C029",
+      "firstName": "Noah",
+      "lastName": "Weber",
+      "email": "noah.weber@example.com",
+      "address": {
+        "street": "Kirchstraße 56",
+        "zip": "9066",
+        "city": "Linz",
+        "country": "AT"
+      },
+      "registeredAt": "2021-07-06",
+      "newsletter": false
+    },
+    {
+      "id": "C030",
+      "firstName": "Lukas",
+      "lastName": "Reiter",
+      "email": "lukas.reiter@example.com",
+      "address": {
+        "street": "Schulstraße 14",
+        "zip": "3644",
+        "city": "Munich",
+        "country": "DE"
+      },
+      "registeredAt": "2022-11-07",
+      "newsletter": false
+    }
+  ],
+  "orders": [
+    {
+      "id": "O10065",
+      "customerId": "C013",
+      "createdAt": "2025-01-08T09:41:00",
+      "status": "returned",
+      "paymentMethod": "credit_card",
+      "shippingCost": 9.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0005",
+          "quantity": 2,
+          "unitPrice": 119.0
+        },
+        {
+          "productId": "P0034",
+          "quantity": 2,
+          "unitPrice": 62.91
+        },
+        {
+          "productId": "P0035",
+          "quantity": 2,
+          "unitPrice": 19.9
+        }
+      ]
+    },
+    {
+      "id": "O10021",
+      "customerId": "C020",
+      "createdAt": "2025-01-10T02:40:00",
+      "status": "delivered",
+      "paymentMethod": "paypal",
+      "shippingCost": 0.0,
+      "couponCode": "SUMMER25",
+      "items": [
+        {
+          "productId": "P0015",
+          "quantity": 2,
+          "unitPrice": 54.9
+        }
+      ]
+    },
+    {
+      "id": "O10003",
+      "customerId": "C021",
+      "createdAt": "2025-01-11T12:15:00",
+      "status": "delivered",
+      "paymentMethod": "paypal",
+      "shippingCost": 4.9,
+      "couponCode": "BLACKFRIDAY",
+      "items": [
+        {
+          "productId": "P0009",
+          "quantity": 3,
+          "unitPrice": 22.42
+        },
+        {
+          "productId": "P0019",
+          "quantity": 2,
+          "unitPrice": 274.55
+        },
+        {
+          "productId": "P0029",
+          "quantity": 1,
+          "unitPrice": 42.5
+        }
+      ]
+    },
+    {
+      "id": "O10017",
+      "customerId": "C019",
+      "createdAt": "2025-01-13T03:32:00",
+      "status": "delivered",
+      "paymentMethod": "paypal",
+      "shippingCost": 0.0,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0020",
+          "quantity": 2,
+          "unitPrice": 149.0
+        }
+      ]
+    },
+    {
+      "id": "O10068",
+      "customerId": "C026",
+      "createdAt": "2025-01-16T22:47:00",
+      "status": "delivered",
+      "paymentMethod": "credit_card",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0019",
+          "quantity": 1,
+          "unitPrice": 274.55
+        }
+      ]
+    },
+    {
+      "id": "O10084",
+      "customerId": "C021",
+      "createdAt": "2025-01-17T13:15:00",
+      "status": "delivered",
+      "paymentMethod": "paypal",
+      "shippingCost": 9.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0002",
+          "quantity": 1,
+          "unitPrice": 37.9
+        }
+      ]
+    },
+    {
+      "id": "O10039",
+      "customerId": "C022",
+      "createdAt": "2025-01-19T02:49:00",
+      "status": "paid",
+      "paymentMethod": "invoice",
+      "shippingCost": 9.9,
+      "couponCode": "WELCOME10",
+      "items": [
+        {
+          "productId": "P0021",
+          "quantity": 1,
+          "unitPrice": 107.91
+        },
+        {
+          "productId": "P0006",
+          "quantity": 1,
+          "unitPrice": 37.49
+        },
+        {
+          "productId": "P0004",
+          "quantity": 2,
+          "unitPrice": 24.5
+        }
+      ]
+    },
+    {
+      "id": "O10050",
+      "customerId": "C015",
+      "createdAt": "2025-01-23T12:39:00",
+      "status": "paid",
+      "paymentMethod": "invoice",
+      "shippingCost": 0.0,
+      "couponCode": "BLACKFRIDAY",
+      "items": [
+        {
+          "productId": "P0021",
+          "quantity": 2,
+          "unitPrice": 107.91
+        },
+        {
+          "productId": "P0031",
+          "quantity": 1,
+          "unitPrice": 34.95
+        }
+      ]
+    },
+    {
+      "id": "O10028",
+      "customerId": "C016",
+      "createdAt": "2025-01-24T03:22:00",
+      "status": "returned",
+      "paymentMethod": "invoice",
+      "shippingCost": 0.0,
+      "couponCode": "SUMMER25",
+      "items": [
+        {
+          "productId": "P0027",
+          "quantity": 1,
+          "unitPrice": 179.0
+        },
+        {
+          "productId": "P0034",
+          "quantity": 3,
+          "unitPrice": 62.91
+        }
+      ]
+    },
+    {
+      "id": "O10108",
+      "customerId": "C013",
+      "createdAt": "2025-02-01T13:55:00",
+      "status": "paid",
+      "paymentMethod": "paypal",
+      "shippingCost": 4.9,
+      "couponCode": "SUMMER25",
+      "items": [
+        {
+          "productId": "P0013",
+          "quantity": 2,
+          "unitPrice": 96.75
+        },
+        {
+          "productId": "P0012",
+          "quantity": 2,
+          "unitPrice": 426.55
+        },
+        {
+          "productId": "P0026",
+          "quantity": 1,
+          "unitPrice": 24.9
+        }
+      ]
+    },
+    {
+      "id": "O10040",
+      "customerId": "C010",
+      "createdAt": "2025-02-10T08:58:00",
+      "status": "returned",
+      "paymentMethod": "invoice",
+      "shippingCost": 0.0,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0029",
+          "quantity": 2,
+          "unitPrice": 42.5
+        },
+        {
+          "productId": "P0027",
+          "quantity": 1,
+          "unitPrice": 179.0
+        },
+        {
+          "productId": "P0018",
+          "quantity": 1,
+          "unitPrice": 396.75
+        },
+        {
+          "productId": "P0014",
+          "quantity": 2,
+          "unitPrice": 79.0
+        }
+      ]
+    },
+    {
+      "id": "O10001",
+      "customerId": "C025",
+      "createdAt": "2025-02-12T04:56:00",
+      "status": "cancelled",
+      "paymentMethod": "credit_card",
+      "shippingCost": 9.9,
+      "couponCode": "WELCOME10",
+      "items": [
+        {
+          "productId": "P0019",
+          "quantity": 1,
+          "unitPrice": 274.55
+        },
+        {
+          "productId": "P0026",
+          "quantity": 1,
+          "unitPrice": 24.9
+        },
+        {
+          "productId": "P0003",
+          "quantity": 1,
+          "unitPrice": 249.0
+        },
+        {
+          "productId": "P0030",
+          "quantity": 1,
+          "unitPrice": 36.72
+        }
+      ]
+    },
+    {
+      "id": "O10020",
+      "customerId": "C015",
+      "createdAt": "2025-02-14T23:56:00",
+      "status": "delivered",
+      "paymentMethod": "invoice",
+      "shippingCost": 9.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0017",
+          "quantity": 2,
+          "unitPrice": 21.38
+        }
+      ]
+    },
+    {
+      "id": "O10077",
+      "customerId": "C028",
+      "createdAt": "2025-02-19T10:00:00",
+      "status": "paid",
+      "paymentMethod": "bank_transfer",
+      "shippingCost": 4.9,
+      "couponCode": "SUMMER25",
+      "items": [
+        {
+          "productId": "P0019",
+          "quantity": 1,
+          "unitPrice": 274.55
+        },
+        {
+          "productId": "P0032",
+          "quantity": 1,
+          "unitPrice": 59.0
+        }
+      ]
+    },
+    {
+      "id": "O10035",
+      "customerId": "C022",
+      "createdAt": "2025-02-26T08:03:00",
+      "status": "returned",
+      "paymentMethod": "paypal",
+      "shippingCost": 0.0,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0004",
+          "quantity": 1,
+          "unitPrice": 24.5
+        },
+        {
+          "productId": "P0019",
+          "quantity": 2,
+          "unitPrice": 274.55
+        },
+        {
+          "productId": "P0020",
+          "quantity": 2,
+          "unitPrice": 149.0
+        },
+        {
+          "productId": "P0023",
+          "quantity": 1,
+          "unitPrice": 199.0
+        }
+      ]
+    },
+    {
+      "id": "O10047",
+      "customerId": "C020",
+      "createdAt": "2025-03-05T04:03:00",
+      "status": "shipped",
+      "paymentMethod": "credit_card",
+      "shippingCost": 4.9,
+      "couponCode": "SUMMER25",
+      "items": [
+        {
+          "productId": "P0007",
+          "quantity": 1,
+          "unitPrice": 303.2
+        },
+        {
+          "productId": "P0010",
+          "quantity": 1,
+          "unitPrice": 99.0
+        }
+      ]
+    },
+    {
+      "id": "O10105",
+      "customerId": "C030",
+      "createdAt": "2025-03-09T20:00:00",
+      "status": "delivered",
+      "paymentMethod": "credit_card",
+      "shippingCost": 0.0,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0026",
+          "quantity": 2,
+          "unitPrice": 24.9
+        }
+      ]
+    },
+    {
+      "id": "O10103",
+      "customerId": "C025",
+      "createdAt": "2025-03-14T14:52:00",
+      "status": "delivered",
+      "paymentMethod": "invoice",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0027",
+          "quantity": 2,
+          "unitPrice": 179.0
+        },
+        {
+          "productId": "P0031",
+          "quantity": 3,
+          "unitPrice": 34.95
+        }
+      ]
+    },
+    {
+      "id": "O10079",
+      "customerId": "C026",
+      "createdAt": "2025-03-15T04:11:00",
+      "status": "shipped",
+      "paymentMethod": "paypal",
+      "shippingCost": 9.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0024",
+          "quantity": 1,
+          "unitPrice": 97.46
+        },
+        {
+          "productId": "P0033",
+          "quantity": 1,
+          "unitPrice": 118.15
+        }
+      ]
+    },
+    {
+      "id": "O10025",
+      "customerId": "C003",
+      "createdAt": "2025-03-16T17:06:00",
+      "status": "delivered",
+      "paymentMethod": "paypal",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0006",
+          "quantity": 1,
+          "unitPrice": 37.49
+        },
+        {
+          "productId": "P0014",
+          "quantity": 1,
+          "unitPrice": 79.0
+        },
+        {
+          "productId": "P0002",
+          "quantity": 1,
+          "unitPrice": 37.9
+        },
+        {
+          "productId": "P0004",
+          "quantity": 2,
+          "unitPrice": 24.5
+        }
+      ]
+    },
+    {
+      "id": "O10016",
+      "customerId": "C021",
+      "createdAt": "2025-03-21T17:41:00",
+      "status": "delivered",
+      "paymentMethod": "invoice",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0018",
+          "quantity": 1,
+          "unitPrice": 396.75
+        },
+        {
+          "productId": "P0001",
+          "quantity": 1,
+          "unitPrice": 89.99
+        },
+        {
+          "productId": "P0004",
+          "quantity": 2,
+          "unitPrice": 24.5
+        },
+        {
+          "productId": "P0032",
+          "quantity": 1,
+          "unitPrice": 59.0
+        }
+      ]
+    },
+    {
+      "id": "O10004",
+      "customerId": "C027",
+      "createdAt": "2025-03-23T19:27:00",
+      "status": "paid",
+      "paymentMethod": "bank_transfer",
+      "shippingCost": 0.0,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0027",
+          "quantity": 1,
+          "unitPrice": 179.0
+        }
+      ]
+    },
+    {
+      "id": "O10074",
+      "customerId": "C025",
+      "createdAt": "2025-03-27T22:09:00",
+      "status": "delivered",
+      "paymentMethod": "invoice",
+      "shippingCost": 9.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0009",
+          "quantity": 1,
+          "unitPrice": 22.42
+        }
+      ]
+    },
+    {
+      "id": "O10007",
+      "customerId": "C019",
+      "createdAt": "2025-03-28T22:42:00",
+      "status": "cancelled",
+      "paymentMethod": "paypal",
+      "shippingCost": 9.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0023",
+          "quantity": 2,
+          "unitPrice": 199.0
+        },
+        {
+          "productId": "P0022",
+          "quantity": 1,
+          "unitPrice": 29.25
+        },
+        {
+          "productId": "P0035",
+          "quantity": 1,
+          "unitPrice": 19.9
+        },
+        {
+          "productId": "P0025",
+          "quantity": 3,
+          "unitPrice": 84.55
+        }
+      ]
+    },
+    {
+      "id": "O10098",
+      "customerId": "C009",
+      "createdAt": "2025-03-31T18:07:00",
+      "status": "delivered",
+      "paymentMethod": "paypal",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0035",
+          "quantity": 2,
+          "unitPrice": 19.9
+        },
+        {
+          "productId": "P0023",
+          "quantity": 2,
+          "unitPrice": 199.0
+        },
+        {
+          "productId": "P0017",
+          "quantity": 1,
+          "unitPrice": 21.38
+        }
+      ]
+    },
+    {
+      "id": "O10013",
+      "customerId": "C022",
+      "createdAt": "2025-04-03T23:04:00",
+      "status": "pending",
+      "paymentMethod": "bank_transfer",
+      "shippingCost": 4.9,
+      "couponCode": "BLACKFRIDAY",
+      "items": [
+        {
+          "productId": "P0016",
+          "quantity": 2,
+          "unitPrice": 34.99
+        },
+        {
+          "productId": "P0032",
+          "quantity": 3,
+          "unitPrice": 59.0
+        },
+        {
+          "productId": "P0010",
+          "quantity": 1,
+          "unitPrice": 99.0
+        },
+        {
+          "productId": "P0015",
+          "quantity": 2,
+          "unitPrice": 54.9
+        }
+      ]
+    },
+    {
+      "id": "O10101",
+      "customerId": "C005",
+      "createdAt": "2025-04-09T21:27:00",
+      "status": "paid",
+      "paymentMethod": "paypal",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0035",
+          "quantity": 2,
+          "unitPrice": 19.9
+        },
+        {
+          "productId": "P0018",
+          "quantity": 3,
+          "unitPrice": 396.75
+        }
+      ]
+    },
+    {
+      "id": "O10055",
+      "customerId": "C028",
+      "createdAt": "2025-04-18T16:40:00",
+      "status": "paid",
+      "paymentMethod": "credit_card",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0032",
+          "quantity": 1,
+          "unitPrice": 59.0
+        },
+        {
+          "productId": "P0013",
+          "quantity": 1,
+          "unitPrice": 96.75
+        },
+        {
+          "productId": "P0015",
+          "quantity": 1,
+          "unitPrice": 54.9
+        }
+      ]
+    },
+    {
+      "id": "O10014",
+      "customerId": "C021",
+      "createdAt": "2025-04-19T22:02:00",
+      "status": "cancelled",
+      "paymentMethod": "invoice",
+      "shippingCost": 9.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0005",
+          "quantity": 1,
+          "unitPrice": 119.0
+        },
+        {
+          "productId": "P0029",
+          "quantity": 2,
+          "unitPrice": 42.5
+        }
+      ]
+    },
+    {
+      "id": "O10089",
+      "customerId": "C016",
+      "createdAt": "2025-04-23T08:04:00",
+      "status": "pending",
+      "paymentMethod": "credit_card",
+      "shippingCost": 9.9,
+      "couponCode": "BLACKFRIDAY",
+      "items": [
+        {
+          "productId": "P0013",
+          "quantity": 2,
+          "unitPrice": 96.75
+        },
+        {
+          "productId": "P0011",
+          "quantity": 2,
+          "unitPrice": 44.25
+        },
+        {
+          "productId": "P0032",
+          "quantity": 2,
+          "unitPrice": 59.0
+        }
+      ]
+    },
+    {
+      "id": "O10080",
+      "customerId": "C013",
+      "createdAt": "2025-04-23T14:37:00",
+      "status": "returned",
+      "paymentMethod": "bank_transfer",
+      "shippingCost": 9.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0024",
+          "quantity": 2,
+          "unitPrice": 97.46
+        },
+        {
+          "productId": "P0030",
+          "quantity": 1,
+          "unitPrice": 36.72
+        },
+        {
+          "productId": "P0009",
+          "quantity": 1,
+          "unitPrice": 22.42
+        }
+      ]
+    },
+    {
+      "id": "O10082",
+      "customerId": "C030",
+      "createdAt": "2025-04-28T11:27:00",
+      "status": "delivered",
+      "paymentMethod": "invoice",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0033",
+          "quantity": 1,
+          "unitPrice": 118.15
+        },
+        {
+          "productId": "P0004",
+          "quantity": 1,
+          "unitPrice": 24.5
+        },
+        {
+          "productId": "P0008",
+          "quantity": 1,
+          "unitPrice": 33.24
+        },
+        {
+          "productId": "P0034",
+          "quantity": 1,
+          "unitPrice": 62.91
+        }
+      ]
+    },
+    {
+      "id": "O10071",
+      "customerId": "C022",
+      "createdAt": "2025-04-30T09:24:00",
+      "status": "delivered",
+      "paymentMethod": "invoice",
+      "shippingCost": 9.9,
+      "couponCode": "WELCOME10",
+      "items": [
+        {
+          "productId": "P0006",
+          "quantity": 1,
+          "unitPrice": 37.49
+        },
+        {
+          "productId": "P0028",
+          "quantity": 1,
+          "unitPrice": 28.49
+        },
+        {
+          "productId": "P0012",
+          "quantity": 1,
+          "unitPrice": 426.55
+        },
+        {
+          "productId": "P0035",
+          "quantity": 1,
+          "unitPrice": 19.9
+        }
+      ]
+    },
+    {
+      "id": "O10041",
+      "customerId": "C004",
+      "createdAt": "2025-04-30T11:10:00",
+      "status": "pending",
+      "paymentMethod": "bank_transfer",
+      "shippingCost": 9.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0004",
+          "quantity": 1,
+          "unitPrice": 24.5
+        },
+        {
+          "productId": "P0001",
+          "quantity": 1,
+          "unitPrice": 89.99
+        },
+        {
+          "productId": "P0014",
+          "quantity": 1,
+          "unitPrice": 79.0
+        },
+        {
+          "productId": "P0020",
+          "quantity": 1,
+          "unitPrice": 149.0
+        }
+      ]
+    },
+    {
+      "id": "O10102",
+      "customerId": "C023",
+      "createdAt": "2025-05-01T06:08:00",
+      "status": "returned",
+      "paymentMethod": "credit_card",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0015",
+          "quantity": 1,
+          "unitPrice": 54.9
+        },
+        {
+          "productId": "P0004",
+          "quantity": 2,
+          "unitPrice": 24.5
+        }
+      ]
+    },
+    {
+      "id": "O10061",
+      "customerId": "C026",
+      "createdAt": "2025-05-03T01:48:00",
+      "status": "shipped",
+      "paymentMethod": "paypal",
+      "shippingCost": 0.0,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0015",
+          "quantity": 1,
+          "unitPrice": 54.9
+        },
+        {
+          "productId": "P0002",
+          "quantity": 3,
+          "unitPrice": 37.9
+        },
+        {
+          "productId": "P0021",
+          "quantity": 3,
+          "unitPrice": 107.91
+        }
+      ]
+    },
+    {
+      "id": "O10032",
+      "customerId": "C027",
+      "createdAt": "2025-05-04T09:37:00",
+      "status": "returned",
+      "paymentMethod": "bank_transfer",
+      "shippingCost": 9.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0028",
+          "quantity": 1,
+          "unitPrice": 28.49
+        },
+        {
+          "productId": "P0029",
+          "quantity": 2,
+          "unitPrice": 42.5
+        }
+      ]
+    },
+    {
+      "id": "O10100",
+      "customerId": "C030",
+      "createdAt": "2025-05-07T02:34:00",
+      "status": "returned",
+      "paymentMethod": "invoice",
+      "shippingCost": 9.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0026",
+          "quantity": 1,
+          "unitPrice": 24.9
+        },
+        {
+          "productId": "P0023",
+          "quantity": 1,
+          "unitPrice": 199.0
+        },
+        {
+          "productId": "P0010",
+          "quantity": 3,
+          "unitPrice": 99.0
+        },
+        {
+          "productId": "P0019",
+          "quantity": 1,
+          "unitPrice": 274.55
+        }
+      ]
+    },
+    {
+      "id": "O10078",
+      "customerId": "C023",
+      "createdAt": "2025-05-07T11:50:00",
+      "status": "paid",
+      "paymentMethod": "invoice",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0021",
+          "quantity": 3,
+          "unitPrice": 107.91
+        }
+      ]
+    },
+    {
+      "id": "O10024",
+      "customerId": "C002",
+      "createdAt": "2025-05-11T14:08:00",
+      "status": "cancelled",
+      "paymentMethod": "invoice",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0029",
+          "quantity": 3,
+          "unitPrice": 42.5
+        },
+        {
+          "productId": "P0016",
+          "quantity": 1,
+          "unitPrice": 34.99
+        },
+        {
+          "productId": "P0024",
+          "quantity": 2,
+          "unitPrice": 97.46
+        },
+        {
+          "productId": "P0007",
+          "quantity": 3,
+          "unitPrice": 303.2
+        }
+      ]
+    },
+    {
+      "id": "O10002",
+      "customerId": "C020",
+      "createdAt": "2025-05-12T17:16:00",
+      "status": "returned",
+      "paymentMethod": "bank_transfer",
+      "shippingCost": 0.0,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0013",
+          "quantity": 2,
+          "unitPrice": 96.75
+        }
+      ]
+    },
+    {
+      "id": "O10054",
+      "customerId": "C001",
+      "createdAt": "2025-05-12T17:42:00",
+      "status": "delivered",
+      "paymentMethod": "invoice",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0022",
+          "quantity": 3,
+          "unitPrice": 29.25
+        },
+        {
+          "productId": "P0009",
+          "quantity": 3,
+          "unitPrice": 22.42
+        },
+        {
+          "productId": "P0034",
+          "quantity": 2,
+          "unitPrice": 62.91
+        },
+        {
+          "productId": "P0006",
+          "quantity": 2,
+          "unitPrice": 37.49
+        }
+      ]
+    },
+    {
+      "id": "O10038",
+      "customerId": "C014",
+      "createdAt": "2025-05-17T23:14:00",
+      "status": "returned",
+      "paymentMethod": "invoice",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0034",
+          "quantity": 1,
+          "unitPrice": 62.91
+        }
+      ]
+    },
+    {
+      "id": "O10015",
+      "customerId": "C019",
+      "createdAt": "2025-05-19T20:24:00",
+      "status": "delivered",
+      "paymentMethod": "invoice",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0025",
+          "quantity": 1,
+          "unitPrice": 84.55
+        },
+        {
+          "productId": "P0031",
+          "quantity": 1,
+          "unitPrice": 34.95
+        }
+      ]
+    },
+    {
+      "id": "O10088",
+      "customerId": "C028",
+      "createdAt": "2025-05-20T20:45:00",
+      "status": "cancelled",
+      "paymentMethod": "paypal",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0004",
+          "quantity": 1,
+          "unitPrice": 24.5
+        }
+      ]
+    },
+    {
+      "id": "O10052",
+      "customerId": "C010",
+      "createdAt": "2025-05-21T17:50:00",
+      "status": "delivered",
+      "paymentMethod": "paypal",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0027",
+          "quantity": 1,
+          "unitPrice": 179.0
+        },
+        {
+          "productId": "P0022",
+          "quantity": 1,
+          "unitPrice": 29.25
+        },
+        {
+          "productId": "P0004",
+          "quantity": 2,
+          "unitPrice": 24.5
+        },
+        {
+          "productId": "P0005",
+          "quantity": 3,
+          "unitPrice": 119.0
+        }
+      ]
+    },
+    {
+      "id": "O10060",
+      "customerId": "C017",
+      "createdAt": "2025-05-25T08:16:00",
+      "status": "delivered",
+      "paymentMethod": "paypal",
+      "shippingCost": 9.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0027",
+          "quantity": 1,
+          "unitPrice": 179.0
+        }
+      ]
+    },
+    {
+      "id": "O10110",
+      "customerId": "C022",
+      "createdAt": "2025-05-28T14:35:00",
+      "status": "delivered",
+      "paymentMethod": "credit_card",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0016",
+          "quantity": 2,
+          "unitPrice": 34.99
+        },
+        {
+          "productId": "P0004",
+          "quantity": 1,
+          "unitPrice": 24.5
+        },
+        {
+          "productId": "P0008",
+          "quantity": 1,
+          "unitPrice": 33.24
+        }
+      ]
+    },
+    {
+      "id": "O10120",
+      "customerId": "C020",
+      "createdAt": "2025-06-02T15:22:00",
+      "status": "pending",
+      "paymentMethod": "paypal",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0023",
+          "quantity": 3,
+          "unitPrice": 199.0
+        },
+        {
+          "productId": "P0010",
+          "quantity": 1,
+          "unitPrice": 99.0
+        },
+        {
+          "productId": "P0018",
+          "quantity": 1,
+          "unitPrice": 396.75
+        },
+        {
+          "productId": "P0013",
+          "quantity": 3,
+          "unitPrice": 96.75
+        }
+      ]
+    },
+    {
+      "id": "O10117",
+      "customerId": "C012",
+      "createdAt": "2025-06-03T01:10:00",
+      "status": "cancelled",
+      "paymentMethod": "bank_transfer",
+      "shippingCost": 9.9,
+      "couponCode": "WELCOME10",
+      "items": [
+        {
+          "productId": "P0027",
+          "quantity": 3,
+          "unitPrice": 179.0
+        },
+        {
+          "productId": "P0012",
+          "quantity": 3,
+          "unitPrice": 426.55
+        },
+        {
+          "productId": "P0009",
+          "quantity": 3,
+          "unitPrice": 22.42
+        }
+      ]
+    },
+    {
+      "id": "O10051",
+      "customerId": "C017",
+      "createdAt": "2025-06-09T23:43:00",
+      "status": "shipped",
+      "paymentMethod": "invoice",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0003",
+          "quantity": 3,
+          "unitPrice": 249.0
+        },
+        {
+          "productId": "P0016",
+          "quantity": 2,
+          "unitPrice": 34.99
+        }
+      ]
+    },
+    {
+      "id": "O10096",
+      "customerId": "C011",
+      "createdAt": "2025-06-10T13:51:00",
+      "status": "cancelled",
+      "paymentMethod": "paypal",
+      "shippingCost": 9.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0003",
+          "quantity": 1,
+          "unitPrice": 249.0
+        },
+        {
+          "productId": "P0008",
+          "quantity": 1,
+          "unitPrice": 33.24
+        }
+      ]
+    },
+    {
+      "id": "O10030",
+      "customerId": "C003",
+      "createdAt": "2025-06-11T11:54:00",
+      "status": "paid",
+      "paymentMethod": "invoice",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0032",
+          "quantity": 3,
+          "unitPrice": 59.0
+        }
+      ]
+    },
+    {
+      "id": "O10085",
+      "customerId": "C003",
+      "createdAt": "2025-06-15T03:07:00",
+      "status": "pending",
+      "paymentMethod": "paypal",
+      "shippingCost": 9.9,
+      "couponCode": "WELCOME10",
+      "items": [
+        {
+          "productId": "P0035",
+          "quantity": 1,
+          "unitPrice": 19.9
+        },
+        {
+          "productId": "P0019",
+          "quantity": 3,
+          "unitPrice": 274.55
+        },
+        {
+          "productId": "P0020",
+          "quantity": 2,
+          "unitPrice": 149.0
+        },
+        {
+          "productId": "P0031",
+          "quantity": 1,
+          "unitPrice": 34.95
+        }
+      ]
+    },
+    {
+      "id": "O10106",
+      "customerId": "C021",
+      "createdAt": "2025-06-15T10:09:00",
+      "status": "returned",
+      "paymentMethod": "paypal",
+      "shippingCost": 9.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0022",
+          "quantity": 1,
+          "unitPrice": 29.25
+        }
+      ]
+    },
+    {
+      "id": "O10111",
+      "customerId": "C024",
+      "createdAt": "2025-06-15T15:39:00",
+      "status": "delivered",
+      "paymentMethod": "bank_transfer",
+      "shippingCost": 9.9,
+      "couponCode": "BLACKFRIDAY",
+      "items": [
+        {
+          "productId": "P0015",
+          "quantity": 2,
+          "unitPrice": 54.9
+        },
+        {
+          "productId": "P0009",
+          "quantity": 1,
+          "unitPrice": 22.42
+        }
+      ]
+    },
+    {
+      "id": "O10063",
+      "customerId": "C003",
+      "createdAt": "2025-06-16T10:19:00",
+      "status": "paid",
+      "paymentMethod": "bank_transfer",
+      "shippingCost": 0.0,
+      "couponCode": "BLACKFRIDAY",
+      "items": [
+        {
+          "productId": "P0008",
+          "quantity": 2,
+          "unitPrice": 33.24
+        },
+        {
+          "productId": "P0004",
+          "quantity": 3,
+          "unitPrice": 24.5
+        },
+        {
+          "productId": "P0016",
+          "quantity": 2,
+          "unitPrice": 34.99
+        }
+      ]
+    },
+    {
+      "id": "O10107",
+      "customerId": "C021",
+      "createdAt": "2025-06-17T02:03:00",
+      "status": "delivered",
+      "paymentMethod": "paypal",
+      "shippingCost": 0.0,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0008",
+          "quantity": 1,
+          "unitPrice": 33.24
+        },
+        {
+          "productId": "P0022",
+          "quantity": 3,
+          "unitPrice": 29.25
+        }
+      ]
+    },
+    {
+      "id": "O10087",
+      "customerId": "C004",
+      "createdAt": "2025-06-19T20:05:00",
+      "status": "delivered",
+      "paymentMethod": "bank_transfer",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0021",
+          "quantity": 1,
+          "unitPrice": 107.91
+        }
+      ]
+    },
+    {
+      "id": "O10033",
+      "customerId": "C003",
+      "createdAt": "2025-06-22T16:12:00",
+      "status": "paid",
+      "paymentMethod": "credit_card",
+      "shippingCost": 0.0,
+      "couponCode": "WELCOME10",
+      "items": [
+        {
+          "productId": "P0028",
+          "quantity": 1,
+          "unitPrice": 28.49
+        },
+        {
+          "productId": "P0021",
+          "quantity": 1,
+          "unitPrice": 107.91
+        },
+        {
+          "productId": "P0017",
+          "quantity": 3,
+          "unitPrice": 21.38
+        }
+      ]
+    },
+    {
+      "id": "O10094",
+      "customerId": "C027",
+      "createdAt": "2025-06-22T21:40:00",
+      "status": "pending",
+      "paymentMethod": "invoice",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0020",
+          "quantity": 2,
+          "unitPrice": 149.0
+        },
+        {
+          "productId": "P0022",
+          "quantity": 3,
+          "unitPrice": 29.25
+        },
+        {
+          "productId": "P0033",
+          "quantity": 2,
+          "unitPrice": 118.15
+        },
+        {
+          "productId": "P0035",
+          "quantity": 1,
+          "unitPrice": 19.9
+        }
+      ]
+    },
+    {
+      "id": "O10067",
+      "customerId": "C021",
+      "createdAt": "2025-06-24T05:28:00",
+      "status": "shipped",
+      "paymentMethod": "paypal",
+      "shippingCost": 0.0,
+      "couponCode": "SUMMER25",
+      "items": [
+        {
+          "productId": "P0035",
+          "quantity": 3,
+          "unitPrice": 19.9
+        },
+        {
+          "productId": "P0022",
+          "quantity": 2,
+          "unitPrice": 29.25
+        },
+        {
+          "productId": "P0012",
+          "quantity": 3,
+          "unitPrice": 426.55
+        }
+      ]
+    },
+    {
+      "id": "O10022",
+      "customerId": "C004",
+      "createdAt": "2025-06-29T08:37:00",
+      "status": "paid",
+      "paymentMethod": "paypal",
+      "shippingCost": 4.9,
+      "couponCode": "WELCOME10",
+      "items": [
+        {
+          "productId": "P0027",
+          "quantity": 1,
+          "unitPrice": 179.0
+        },
+        {
+          "productId": "P0008",
+          "quantity": 1,
+          "unitPrice": 33.24
+        },
+        {
+          "productId": "P0009",
+          "quantity": 1,
+          "unitPrice": 22.42
+        }
+      ]
+    },
+    {
+      "id": "O10070",
+      "customerId": "C023",
+      "createdAt": "2025-06-30T15:53:00",
+      "status": "returned",
+      "paymentMethod": "invoice",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0028",
+          "quantity": 2,
+          "unitPrice": 28.49
+        },
+        {
+          "productId": "P0026",
+          "quantity": 1,
+          "unitPrice": 24.9
+        },
+        {
+          "productId": "P0029",
+          "quantity": 1,
+          "unitPrice": 42.5
+        }
+      ]
+    },
+    {
+      "id": "O10042",
+      "customerId": "C018",
+      "createdAt": "2025-07-02T03:21:00",
+      "status": "delivered",
+      "paymentMethod": "credit_card",
+      "shippingCost": 9.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0025",
+          "quantity": 3,
+          "unitPrice": 84.55
+        },
+        {
+          "productId": "P0035",
+          "quantity": 1,
+          "unitPrice": 19.9
+        }
+      ]
+    },
+    {
+      "id": "O10008",
+      "customerId": "C019",
+      "createdAt": "2025-07-02T21:05:00",
+      "status": "delivered",
+      "paymentMethod": "credit_card",
+      "shippingCost": 9.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0031",
+          "quantity": 2,
+          "unitPrice": 34.95
+        },
+        {
+          "productId": "P0025",
+          "quantity": 1,
+          "unitPrice": 84.55
+        },
+        {
+          "productId": "P0010",
+          "quantity": 1,
+          "unitPrice": 99.0
+        }
+      ]
+    },
+    {
+      "id": "O10073",
+      "customerId": "C026",
+      "createdAt": "2025-07-06T19:24:00",
+      "status": "shipped",
+      "paymentMethod": "credit_card",
+      "shippingCost": 4.9,
+      "couponCode": "SUMMER25",
+      "items": [
+        {
+          "productId": "P0026",
+          "quantity": 1,
+          "unitPrice": 24.9
+        }
+      ]
+    },
+    {
+      "id": "O10076",
+      "customerId": "C013",
+      "createdAt": "2025-07-08T12:07:00",
+      "status": "paid",
+      "paymentMethod": "invoice",
+      "shippingCost": 4.9,
+      "couponCode": "SUMMER25",
+      "items": [
+        {
+          "productId": "P0016",
+          "quantity": 3,
+          "unitPrice": 34.99
+        },
+        {
+          "productId": "P0008",
+          "quantity": 1,
+          "unitPrice": 33.24
+        },
+        {
+          "productId": "P0002",
+          "quantity": 2,
+          "unitPrice": 37.9
+        }
+      ]
+    },
+    {
+      "id": "O10112",
+      "customerId": "C023",
+      "createdAt": "2025-07-12T07:14:00",
+      "status": "delivered",
+      "paymentMethod": "credit_card",
+      "shippingCost": 0.0,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0016",
+          "quantity": 2,
+          "unitPrice": 34.99
+        },
+        {
+          "productId": "P0006",
+          "quantity": 2,
+          "unitPrice": 37.49
+        }
+      ]
+    },
+    {
+      "id": "O10031",
+      "customerId": "C010",
+      "createdAt": "2025-07-13T04:04:00",
+      "status": "returned",
+      "paymentMethod": "bank_transfer",
+      "shippingCost": 0.0,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0018",
+          "quantity": 2,
+          "unitPrice": 396.75
+        },
+        {
+          "productId": "P0021",
+          "quantity": 2,
+          "unitPrice": 107.91
+        }
+      ]
+    },
+    {
+      "id": "O10018",
+      "customerId": "C017",
+      "createdAt": "2025-07-13T06:39:00",
+      "status": "delivered",
+      "paymentMethod": "paypal",
+      "shippingCost": 4.9,
+      "couponCode": "SUMMER25",
+      "items": [
+        {
+          "productId": "P0027",
+          "quantity": 1,
+          "unitPrice": 179.0
+        },
+        {
+          "productId": "P0012",
+          "quantity": 2,
+          "unitPrice": 426.55
+        },
+        {
+          "productId": "P0013",
+          "quantity": 1,
+          "unitPrice": 96.75
+        }
+      ]
+    },
+    {
+      "id": "O10083",
+      "customerId": "C003",
+      "createdAt": "2025-07-14T05:36:00",
+      "status": "shipped",
+      "paymentMethod": "paypal",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0013",
+          "quantity": 3,
+          "unitPrice": 96.75
+        },
+        {
+          "productId": "P0018",
+          "quantity": 1,
+          "unitPrice": 396.75
+        },
+        {
+          "productId": "P0009",
+          "quantity": 2,
+          "unitPrice": 22.42
+        }
+      ]
+    },
+    {
+      "id": "O10026",
+      "customerId": "C009",
+      "createdAt": "2025-07-16T16:28:00",
+      "status": "shipped",
+      "paymentMethod": "credit_card",
+      "shippingCost": 0.0,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0001",
+          "quantity": 1,
+          "unitPrice": 89.99
+        },
+        {
+          "productId": "P0018",
+          "quantity": 1,
+          "unitPrice": 396.75
+        }
+      ]
+    },
+    {
+      "id": "O10005",
+      "customerId": "C005",
+      "createdAt": "2025-07-20T17:01:00",
+      "status": "cancelled",
+      "paymentMethod": "paypal",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0019",
+          "quantity": 2,
+          "unitPrice": 274.55
+        },
+        {
+          "productId": "P0033",
+          "quantity": 2,
+          "unitPrice": 118.15
+        },
+        {
+          "productId": "P0018",
+          "quantity": 1,
+          "unitPrice": 396.75
+        },
+        {
+          "productId": "P0027",
+          "quantity": 2,
+          "unitPrice": 179.0
+        }
+      ]
+    },
+    {
+      "id": "O10058",
+      "customerId": "C030",
+      "createdAt": "2025-07-21T21:39:00",
+      "status": "paid",
+      "paymentMethod": "credit_card",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0011",
+          "quantity": 1,
+          "unitPrice": 44.25
+        },
+        {
+          "productId": "P0013",
+          "quantity": 3,
+          "unitPrice": 96.75
+        },
+        {
+          "productId": "P0009",
+          "quantity": 2,
+          "unitPrice": 22.42
+        },
+        {
+          "productId": "P0017",
+          "quantity": 1,
+          "unitPrice": 21.38
+        }
+      ]
+    },
+    {
+      "id": "O10034",
+      "customerId": "C002",
+      "createdAt": "2025-07-22T13:38:00",
+      "status": "delivered",
+      "paymentMethod": "credit_card",
+      "shippingCost": 9.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0024",
+          "quantity": 1,
+          "unitPrice": 97.46
+        }
+      ]
+    },
+    {
+      "id": "O10099",
+      "customerId": "C030",
+      "createdAt": "2025-07-24T01:36:00",
+      "status": "delivered",
+      "paymentMethod": "invoice",
+      "shippingCost": 0.0,
+      "couponCode": "BLACKFRIDAY",
+      "items": [
+        {
+          "productId": "P0032",
+          "quantity": 2,
+          "unitPrice": 59.0
+        },
+        {
+          "productId": "P0021",
+          "quantity": 1,
+          "unitPrice": 107.91
+        }
+      ]
+    },
+    {
+      "id": "O10037",
+      "customerId": "C022",
+      "createdAt": "2025-07-26T04:35:00",
+      "status": "cancelled",
+      "paymentMethod": "credit_card",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0020",
+          "quantity": 1,
+          "unitPrice": 149.0
+        },
+        {
+          "productId": "P0022",
+          "quantity": 1,
+          "unitPrice": 29.25
+        },
+        {
+          "productId": "P0023",
+          "quantity": 1,
+          "unitPrice": 199.0
+        }
+      ]
+    },
+    {
+      "id": "O10091",
+      "customerId": "C018",
+      "createdAt": "2025-07-27T15:11:00",
+      "status": "delivered",
+      "paymentMethod": "invoice",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0009",
+          "quantity": 1,
+          "unitPrice": 22.42
+        },
+        {
+          "productId": "P0017",
+          "quantity": 1,
+          "unitPrice": 21.38
+        },
+        {
+          "productId": "P0024",
+          "quantity": 2,
+          "unitPrice": 97.46
+        },
+        {
+          "productId": "P0026",
+          "quantity": 1,
+          "unitPrice": 24.9
+        }
+      ]
+    },
+    {
+      "id": "O10027",
+      "customerId": "C011",
+      "createdAt": "2025-08-03T09:28:00",
+      "status": "pending",
+      "paymentMethod": "paypal",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0023",
+          "quantity": 1,
+          "unitPrice": 199.0
+        }
+      ]
+    },
+    {
+      "id": "O10045",
+      "customerId": "C013",
+      "createdAt": "2025-08-03T09:38:00",
+      "status": "paid",
+      "paymentMethod": "bank_transfer",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0016",
+          "quantity": 2,
+          "unitPrice": 34.99
+        }
+      ]
+    },
+    {
+      "id": "O10093",
+      "customerId": "C029",
+      "createdAt": "2025-08-09T17:35:00",
+      "status": "shipped",
+      "paymentMethod": "invoice",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0033",
+          "quantity": 2,
+          "unitPrice": 118.15
+        },
+        {
+          "productId": "P0003",
+          "quantity": 2,
+          "unitPrice": 249.0
+        },
+        {
+          "productId": "P0009",
+          "quantity": 2,
+          "unitPrice": 22.42
+        },
+        {
+          "productId": "P0022",
+          "quantity": 1,
+          "unitPrice": 29.25
+        }
+      ]
+    },
+    {
+      "id": "O10036",
+      "customerId": "C022",
+      "createdAt": "2025-08-12T09:29:00",
+      "status": "pending",
+      "paymentMethod": "invoice",
+      "shippingCost": 0.0,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0008",
+          "quantity": 2,
+          "unitPrice": 33.24
+        },
+        {
+          "productId": "P0018",
+          "quantity": 2,
+          "unitPrice": 396.75
+        },
+        {
+          "productId": "P0015",
+          "quantity": 2,
+          "unitPrice": 54.9
+        }
+      ]
+    },
+    {
+      "id": "O10064",
+      "customerId": "C012",
+      "createdAt": "2025-08-12T20:17:00",
+      "status": "delivered",
+      "paymentMethod": "bank_transfer",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0010",
+          "quantity": 2,
+          "unitPrice": 99.0
+        },
+        {
+          "productId": "P0019",
+          "quantity": 1,
+          "unitPrice": 274.55
+        }
+      ]
+    },
+    {
+      "id": "O10049",
+      "customerId": "C020",
+      "createdAt": "2025-08-12T22:01:00",
+      "status": "cancelled",
+      "paymentMethod": "bank_transfer",
+      "shippingCost": 0.0,
+      "couponCode": "SUMMER25",
+      "items": [
+        {
+          "productId": "P0029",
+          "quantity": 1,
+          "unitPrice": 42.5
+        },
+        {
+          "productId": "P0003",
+          "quantity": 1,
+          "unitPrice": 249.0
+        },
+        {
+          "productId": "P0004",
+          "quantity": 3,
+          "unitPrice": 24.5
+        },
+        {
+          "productId": "P0024",
+          "quantity": 1,
+          "unitPrice": 97.46
+        }
+      ]
+    },
+    {
+      "id": "O10023",
+      "customerId": "C014",
+      "createdAt": "2025-08-13T03:39:00",
+      "status": "delivered",
+      "paymentMethod": "credit_card",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0024",
+          "quantity": 2,
+          "unitPrice": 97.46
+        },
+        {
+          "productId": "P0035",
+          "quantity": 3,
+          "unitPrice": 19.9
+        },
+        {
+          "productId": "P0027",
+          "quantity": 1,
+          "unitPrice": 179.0
+        },
+        {
+          "productId": "P0010",
+          "quantity": 2,
+          "unitPrice": 99.0
+        }
+      ]
+    },
+    {
+      "id": "O10046",
+      "customerId": "C004",
+      "createdAt": "2025-08-19T13:12:00",
+      "status": "delivered",
+      "paymentMethod": "invoice",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0022",
+          "quantity": 1,
+          "unitPrice": 29.25
+        },
+        {
+          "productId": "P0011",
+          "quantity": 2,
+          "unitPrice": 44.25
+        }
+      ]
+    },
+    {
+      "id": "O10029",
+      "customerId": "C001",
+      "createdAt": "2025-08-23T05:35:00",
+      "status": "pending",
+      "paymentMethod": "bank_transfer",
+      "shippingCost": 9.9,
+      "couponCode": "WELCOME10",
+      "items": [
+        {
+          "productId": "P0003",
+          "quantity": 1,
+          "unitPrice": 249.0
+        },
+        {
+          "productId": "P0034",
+          "quantity": 2,
+          "unitPrice": 62.91
+        }
+      ]
+    },
+    {
+      "id": "O10118",
+      "customerId": "C028",
+      "createdAt": "2025-08-26T22:40:00",
+      "status": "delivered",
+      "paymentMethod": "credit_card",
+      "shippingCost": 4.9,
+      "couponCode": "BLACKFRIDAY",
+      "items": [
+        {
+          "productId": "P0035",
+          "quantity": 1,
+          "unitPrice": 19.9
+        }
+      ]
+    },
+    {
+      "id": "O10066",
+      "customerId": "C021",
+      "createdAt": "2025-08-28T05:51:00",
+      "status": "paid",
+      "paymentMethod": "invoice",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0002",
+          "quantity": 1,
+          "unitPrice": 37.9
+        },
+        {
+          "productId": "P0023",
+          "quantity": 1,
+          "unitPrice": 199.0
+        },
+        {
+          "productId": "P0005",
+          "quantity": 3,
+          "unitPrice": 119.0
+        }
+      ]
+    },
+    {
+      "id": "O10053",
+      "customerId": "C013",
+      "createdAt": "2025-08-30T01:49:00",
+      "status": "shipped",
+      "paymentMethod": "credit_card",
+      "shippingCost": 4.9,
+      "couponCode": "BLACKFRIDAY",
+      "items": [
+        {
+          "productId": "P0023",
+          "quantity": 3,
+          "unitPrice": 199.0
+        },
+        {
+          "productId": "P0020",
+          "quantity": 3,
+          "unitPrice": 149.0
+        }
+      ]
+    },
+    {
+      "id": "O10097",
+      "customerId": "C016",
+      "createdAt": "2025-08-30T02:37:00",
+      "status": "cancelled",
+      "paymentMethod": "invoice",
+      "shippingCost": 4.9,
+      "couponCode": "SUMMER25",
+      "items": [
+        {
+          "productId": "P0033",
+          "quantity": 2,
+          "unitPrice": 118.15
+        },
+        {
+          "productId": "P0031",
+          "quantity": 1,
+          "unitPrice": 34.95
+        },
+        {
+          "productId": "P0004",
+          "quantity": 2,
+          "unitPrice": 24.5
+        },
+        {
+          "productId": "P0009",
+          "quantity": 1,
+          "unitPrice": 22.42
+        }
+      ]
+    },
+    {
+      "id": "O10057",
+      "customerId": "C019",
+      "createdAt": "2025-09-04T23:08:00",
+      "status": "returned",
+      "paymentMethod": "bank_transfer",
+      "shippingCost": 4.9,
+      "couponCode": "WELCOME10",
+      "items": [
+        {
+          "productId": "P0020",
+          "quantity": 1,
+          "unitPrice": 149.0
+        },
+        {
+          "productId": "P0031",
+          "quantity": 1,
+          "unitPrice": 34.95
+        }
+      ]
+    },
+    {
+      "id": "O10081",
+      "customerId": "C017",
+      "createdAt": "2025-09-05T14:52:00",
+      "status": "delivered",
+      "paymentMethod": "paypal",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0021",
+          "quantity": 2,
+          "unitPrice": 107.91
+        },
+        {
+          "productId": "P0005",
+          "quantity": 2,
+          "unitPrice": 119.0
+        }
+      ]
+    },
+    {
+      "id": "O10012",
+      "customerId": "C026",
+      "createdAt": "2025-09-06T05:39:00",
+      "status": "shipped",
+      "paymentMethod": "paypal",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0016",
+          "quantity": 2,
+          "unitPrice": 34.99
+        },
+        {
+          "productId": "P0034",
+          "quantity": 2,
+          "unitPrice": 62.91
+        }
+      ]
+    },
+    {
+      "id": "O10009",
+      "customerId": "C013",
+      "createdAt": "2025-09-10T04:56:00",
+      "status": "paid",
+      "paymentMethod": "invoice",
+      "shippingCost": 9.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0001",
+          "quantity": 2,
+          "unitPrice": 89.99
+        },
+        {
+          "productId": "P0010",
+          "quantity": 1,
+          "unitPrice": 99.0
+        },
+        {
+          "productId": "P0027",
+          "quantity": 1,
+          "unitPrice": 179.0
+        },
+        {
+          "productId": "P0005",
+          "quantity": 2,
+          "unitPrice": 119.0
+        }
+      ]
+    },
+    {
+      "id": "O10116",
+      "customerId": "C003",
+      "createdAt": "2025-09-13T00:03:00",
+      "status": "pending",
+      "paymentMethod": "credit_card",
+      "shippingCost": 9.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0005",
+          "quantity": 2,
+          "unitPrice": 119.0
+        },
+        {
+          "productId": "P0003",
+          "quantity": 1,
+          "unitPrice": 249.0
+        }
+      ]
+    },
+    {
+      "id": "O10043",
+      "customerId": "C021",
+      "createdAt": "2025-09-16T07:41:00",
+      "status": "cancelled",
+      "paymentMethod": "invoice",
+      "shippingCost": 0.0,
+      "couponCode": "WELCOME10",
+      "items": [
+        {
+          "productId": "P0002",
+          "quantity": 2,
+          "unitPrice": 37.9
+        },
+        {
+          "productId": "P0030",
+          "quantity": 2,
+          "unitPrice": 36.72
+        },
+        {
+          "productId": "P0005",
+          "quantity": 2,
+          "unitPrice": 119.0
+        },
+        {
+          "productId": "P0021",
+          "quantity": 2,
+          "unitPrice": 107.91
+        }
+      ]
+    },
+    {
+      "id": "O10119",
+      "customerId": "C018",
+      "createdAt": "2025-09-19T19:32:00",
+      "status": "cancelled",
+      "paymentMethod": "bank_transfer",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0034",
+          "quantity": 1,
+          "unitPrice": 62.91
+        },
+        {
+          "productId": "P0009",
+          "quantity": 1,
+          "unitPrice": 22.42
+        },
+        {
+          "productId": "P0015",
+          "quantity": 2,
+          "unitPrice": 54.9
+        },
+        {
+          "productId": "P0001",
+          "quantity": 3,
+          "unitPrice": 89.99
+        }
+      ]
+    },
+    {
+      "id": "O10056",
+      "customerId": "C008",
+      "createdAt": "2025-09-19T23:50:00",
+      "status": "returned",
+      "paymentMethod": "invoice",
+      "shippingCost": 9.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0010",
+          "quantity": 1,
+          "unitPrice": 99.0
+        },
+        {
+          "productId": "P0011",
+          "quantity": 2,
+          "unitPrice": 44.25
+        },
+        {
+          "productId": "P0012",
+          "quantity": 1,
+          "unitPrice": 426.55
+        },
+        {
+          "productId": "P0029",
+          "quantity": 3,
+          "unitPrice": 42.5
+        }
+      ]
+    },
+    {
+      "id": "O10095",
+      "customerId": "C002",
+      "createdAt": "2025-09-20T15:41:00",
+      "status": "returned",
+      "paymentMethod": "paypal",
+      "shippingCost": 9.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0020",
+          "quantity": 3,
+          "unitPrice": 149.0
+        },
+        {
+          "productId": "P0002",
+          "quantity": 2,
+          "unitPrice": 37.9
+        },
+        {
+          "productId": "P0031",
+          "quantity": 2,
+          "unitPrice": 34.95
+        },
+        {
+          "productId": "P0017",
+          "quantity": 1,
+          "unitPrice": 21.38
+        }
+      ]
+    },
+    {
+      "id": "O10006",
+      "customerId": "C010",
+      "createdAt": "2025-09-22T08:19:00",
+      "status": "returned",
+      "paymentMethod": "paypal",
+      "shippingCost": 9.9,
+      "couponCode": "BLACKFRIDAY",
+      "items": [
+        {
+          "productId": "P0027",
+          "quantity": 1,
+          "unitPrice": 179.0
+        },
+        {
+          "productId": "P0022",
+          "quantity": 1,
+          "unitPrice": 29.25
+        },
+        {
+          "productId": "P0033",
+          "quantity": 1,
+          "unitPrice": 118.15
+        }
+      ]
+    },
+    {
+      "id": "O10072",
+      "customerId": "C028",
+      "createdAt": "2025-09-22T15:00:00",
+      "status": "delivered",
+      "paymentMethod": "bank_transfer",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0029",
+          "quantity": 2,
+          "unitPrice": 42.5
+        },
+        {
+          "productId": "P0023",
+          "quantity": 1,
+          "unitPrice": 199.0
+        }
+      ]
+    },
+    {
+      "id": "O10104",
+      "customerId": "C024",
+      "createdAt": "2025-09-26T22:44:00",
+      "status": "pending",
+      "paymentMethod": "paypal",
+      "shippingCost": 9.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0015",
+          "quantity": 2,
+          "unitPrice": 54.9
+        }
+      ]
+    },
+    {
+      "id": "O10010",
+      "customerId": "C003",
+      "createdAt": "2025-09-29T21:20:00",
+      "status": "cancelled",
+      "paymentMethod": "credit_card",
+      "shippingCost": 0.0,
+      "couponCode": "SUMMER25",
+      "items": [
+        {
+          "productId": "P0035",
+          "quantity": 3,
+          "unitPrice": 19.9
+        },
+        {
+          "productId": "P0003",
+          "quantity": 3,
+          "unitPrice": 249.0
+        },
+        {
+          "productId": "P0005",
+          "quantity": 1,
+          "unitPrice": 119.0
+        },
+        {
+          "productId": "P0016",
+          "quantity": 1,
+          "unitPrice": 34.99
+        }
+      ]
+    },
+    {
+      "id": "O10109",
+      "customerId": "C009",
+      "createdAt": "2025-10-02T10:25:00",
+      "status": "delivered",
+      "paymentMethod": "invoice",
+      "shippingCost": 0.0,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0016",
+          "quantity": 2,
+          "unitPrice": 34.99
+        },
+        {
+          "productId": "P0001",
+          "quantity": 1,
+          "unitPrice": 89.99
+        },
+        {
+          "productId": "P0017",
+          "quantity": 2,
+          "unitPrice": 21.38
+        }
+      ]
+    },
+    {
+      "id": "O10075",
+      "customerId": "C003",
+      "createdAt": "2025-10-05T19:56:00",
+      "status": "shipped",
+      "paymentMethod": "invoice",
+      "shippingCost": 9.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0029",
+          "quantity": 1,
+          "unitPrice": 42.5
+        },
+        {
+          "productId": "P0024",
+          "quantity": 2,
+          "unitPrice": 97.46
+        }
+      ]
+    },
+    {
+      "id": "O10092",
+      "customerId": "C011",
+      "createdAt": "2025-10-17T09:55:00",
+      "status": "delivered",
+      "paymentMethod": "paypal",
+      "shippingCost": 4.9,
+      "couponCode": "BLACKFRIDAY",
+      "items": [
+        {
+          "productId": "P0033",
+          "quantity": 1,
+          "unitPrice": 118.15
+        },
+        {
+          "productId": "P0029",
+          "quantity": 1,
+          "unitPrice": 42.5
+        },
+        {
+          "productId": "P0018",
+          "quantity": 2,
+          "unitPrice": 396.75
+        },
+        {
+          "productId": "P0008",
+          "quantity": 1,
+          "unitPrice": 33.24
+        }
+      ]
+    },
+    {
+      "id": "O10011",
+      "customerId": "C002",
+      "createdAt": "2025-10-17T20:48:00",
+      "status": "delivered",
+      "paymentMethod": "invoice",
+      "shippingCost": 4.9,
+      "couponCode": "WELCOME10",
+      "items": [
+        {
+          "productId": "P0020",
+          "quantity": 1,
+          "unitPrice": 149.0
+        },
+        {
+          "productId": "P0002",
+          "quantity": 1,
+          "unitPrice": 37.9
+        }
+      ]
+    },
+    {
+      "id": "O10048",
+      "customerId": "C009",
+      "createdAt": "2025-10-17T22:26:00",
+      "status": "pending",
+      "paymentMethod": "invoice",
+      "shippingCost": 0.0,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0029",
+          "quantity": 2,
+          "unitPrice": 42.5
+        },
+        {
+          "productId": "P0021",
+          "quantity": 2,
+          "unitPrice": 107.91
+        },
+        {
+          "productId": "P0010",
+          "quantity": 3,
+          "unitPrice": 99.0
+        },
+        {
+          "productId": "P0005",
+          "quantity": 1,
+          "unitPrice": 119.0
+        }
+      ]
+    },
+    {
+      "id": "O10044",
+      "customerId": "C020",
+      "createdAt": "2025-10-19T18:03:00",
+      "status": "returned",
+      "paymentMethod": "invoice",
+      "shippingCost": 0.0,
+      "couponCode": "WELCOME10",
+      "items": [
+        {
+          "productId": "P0021",
+          "quantity": 1,
+          "unitPrice": 107.91
+        }
+      ]
+    },
+    {
+      "id": "O10115",
+      "customerId": "C010",
+      "createdAt": "2025-10-21T18:56:00",
+      "status": "pending",
+      "paymentMethod": "bank_transfer",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0030",
+          "quantity": 3,
+          "unitPrice": 36.72
+        }
+      ]
+    },
+    {
+      "id": "O10114",
+      "customerId": "C002",
+      "createdAt": "2025-10-22T10:27:00",
+      "status": "returned",
+      "paymentMethod": "paypal",
+      "shippingCost": 9.9,
+      "couponCode": "SUMMER25",
+      "items": [
+        {
+          "productId": "P0033",
+          "quantity": 2,
+          "unitPrice": 118.15
+        }
+      ]
+    },
+    {
+      "id": "O10059",
+      "customerId": "C014",
+      "createdAt": "2025-10-30T13:47:00",
+      "status": "paid",
+      "paymentMethod": "paypal",
+      "shippingCost": 9.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0018",
+          "quantity": 2,
+          "unitPrice": 396.75
+        },
+        {
+          "productId": "P0029",
+          "quantity": 1,
+          "unitPrice": 42.5
+        }
+      ]
+    },
+    {
+      "id": "O10062",
+      "customerId": "C005",
+      "createdAt": "2025-11-01T00:01:00",
+      "status": "cancelled",
+      "paymentMethod": "credit_card",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0009",
+          "quantity": 1,
+          "unitPrice": 22.42
+        },
+        {
+          "productId": "P0031",
+          "quantity": 1,
+          "unitPrice": 34.95
+        },
+        {
+          "productId": "P0029",
+          "quantity": 1,
+          "unitPrice": 42.5
+        },
+        {
+          "productId": "P0001",
+          "quantity": 1,
+          "unitPrice": 89.99
+        }
+      ]
+    },
+    {
+      "id": "O10090",
+      "customerId": "C021",
+      "createdAt": "2025-11-03T20:55:00",
+      "status": "returned",
+      "paymentMethod": "invoice",
+      "shippingCost": 0.0,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0016",
+          "quantity": 1,
+          "unitPrice": 34.99
+        },
+        {
+          "productId": "P0014",
+          "quantity": 1,
+          "unitPrice": 79.0
+        },
+        {
+          "productId": "P0023",
+          "quantity": 2,
+          "unitPrice": 199.0
+        },
+        {
+          "productId": "P0004",
+          "quantity": 2,
+          "unitPrice": 24.5
+        }
+      ]
+    },
+    {
+      "id": "O10113",
+      "customerId": "C017",
+      "createdAt": "2025-11-08T02:36:00",
+      "status": "returned",
+      "paymentMethod": "credit_card",
+      "shippingCost": 4.9,
+      "couponCode": "SUMMER25",
+      "items": [
+        {
+          "productId": "P0035",
+          "quantity": 1,
+          "unitPrice": 19.9
+        },
+        {
+          "productId": "P0010",
+          "quantity": 1,
+          "unitPrice": 99.0
+        }
+      ]
+    },
+    {
+      "id": "O10019",
+      "customerId": "C022",
+      "createdAt": "2025-11-10T04:01:00",
+      "status": "cancelled",
+      "paymentMethod": "invoice",
+      "shippingCost": 0.0,
+      "couponCode": "WELCOME10",
+      "items": [
+        {
+          "productId": "P0022",
+          "quantity": 1,
+          "unitPrice": 29.25
+        },
+        {
+          "productId": "P0008",
+          "quantity": 1,
+          "unitPrice": 33.24
+        },
+        {
+          "productId": "P0030",
+          "quantity": 1,
+          "unitPrice": 36.72
+        }
+      ]
+    },
+    {
+      "id": "O10086",
+      "customerId": "C012",
+      "createdAt": "2025-11-10T09:35:00",
+      "status": "cancelled",
+      "paymentMethod": "paypal",
+      "shippingCost": 4.9,
+      "couponCode": "BLACKFRIDAY",
+      "items": [
+        {
+          "productId": "P0030",
+          "quantity": 1,
+          "unitPrice": 36.72
+        },
+        {
+          "productId": "P0014",
+          "quantity": 3,
+          "unitPrice": 79.0
+        },
+        {
+          "productId": "P0022",
+          "quantity": 1,
+          "unitPrice": 29.25
+        },
+        {
+          "productId": "P0010",
+          "quantity": 3,
+          "unitPrice": 99.0
+        }
+      ]
+    },
+    {
+      "id": "O10069",
+      "customerId": "C025",
+      "createdAt": "2025-11-10T21:28:00",
+      "status": "pending",
+      "paymentMethod": "invoice",
+      "shippingCost": 4.9,
+      "couponCode": null,
+      "items": [
+        {
+          "productId": "P0035",
+          "quantity": 3,
+          "unitPrice": 19.9
+        },
+        {
+          "productId": "P0031",
+          "quantity": 1,
+          "unitPrice": 34.95
+        },
+        {
+          "productId": "P0017",
+          "quantity": 1,
+          "unitPrice": 21.38
+        },
+        {
+          "productId": "P0003",
+          "quantity": 1,
+          "unitPrice": 249.0
+        }
+      ]
+    }
+  ]
+}

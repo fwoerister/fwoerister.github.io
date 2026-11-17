@@ -1,0 +1,2509 @@
+{
+  "gradingScale": {
+    "1": "Excellent",
+    "2": "Good",
+    "3": "Satisfactory",
+    "4": "Sufficient",
+    "5": "Fail"
+  },
+  "courses": [
+    {
+      "id": "MATH1",
+      "title": "Mathematics I",
+      "ects": 6,
+      "lecturer": "Ida Mayr",
+      "semester": "SS2026"
+    },
+    {
+      "id": "PROG1",
+      "title": "Introduction to Programming",
+      "ects": 8,
+      "lecturer": "Karl Wolf",
+      "semester": "WS2025"
+    },
+    {
+      "id": "DB",
+      "title": "Databases",
+      "ects": 5,
+      "lecturer": "Jakob Müller",
+      "semester": "WS2025"
+    },
+    {
+      "id": "WEB",
+      "title": "Web Development",
+      "ects": 5,
+      "lecturer": "Ida Huber",
+      "semester": "WS2025"
+    },
+    {
+      "id": "ALG",
+      "title": "Algorithms & Data Structures",
+      "ects": 6,
+      "lecturer": "Max Schwarz",
+      "semester": "WS2025"
+    },
+    {
+      "id": "NET",
+      "title": "Computer Networks",
+      "ects": 4,
+      "lecturer": "Tobias Huber",
+      "semester": "WS2025"
+    },
+    {
+      "id": "STAT",
+      "title": "Statistics",
+      "ects": 4,
+      "lecturer": "Nina Wolf",
+      "semester": "SS2026"
+    },
+    {
+      "id": "SE",
+      "title": "Software Engineering",
+      "ects": 6,
+      "lecturer": "Xenia Berger",
+      "semester": "SS2026"
+    }
+  ],
+  "students": [
+    {
+      "studentId": "20250001",
+      "firstName": "Greta",
+      "lastName": "Berger",
+      "email": "greta.berger@students.example.edu",
+      "programme": "Computer Science",
+      "birthDate": "2001-09-05",
+      "results": [
+        {
+          "courseId": "STAT",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-05-20",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "WEB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-10-29",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "PROG1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-02-04",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "ALG",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-12-13",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "NET",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-10-11",
+              "grade": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250002",
+      "firstName": "Lea",
+      "lastName": "Moser",
+      "email": "lea.moser@students.example.edu",
+      "programme": "Business Informatics",
+      "birthDate": "2005-10-17",
+      "results": [
+        {
+          "courseId": "ALG",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-12-14",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "WEB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-10-18",
+              "grade": 2
+            },
+            {
+              "attempt": 2,
+              "date": "2026-01-18",
+              "grade": 5
+            }
+          ]
+        },
+        {
+          "courseId": "SE",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-06-03",
+              "grade": 5
+            },
+            {
+              "attempt": 2,
+              "date": "2026-06-30",
+              "grade": 5
+            },
+            {
+              "attempt": 3,
+              "date": "2026-07-04",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "DB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-01-10",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "STAT",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-03-22",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "MATH1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-06-10",
+              "grade": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250003",
+      "firstName": "Ida",
+      "lastName": "Steiner",
+      "email": "ida.steiner@students.example.edu",
+      "programme": "Data Science",
+      "birthDate": "2001-01-23",
+      "results": [
+        {
+          "courseId": "PROG1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-01-12",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "DB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-01-17",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "SE",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-05-11",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "STAT",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-07-27",
+              "grade": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250004",
+      "firstName": "Zoe",
+      "lastName": "Mayr",
+      "email": "zoe.mayr@students.example.edu",
+      "programme": "Business Informatics",
+      "birthDate": "2004-10-12",
+      "results": [
+        {
+          "courseId": "STAT",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-05-04",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "WEB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-11-29",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "ALG",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-11-04",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "DB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-10-14",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "PROG1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-02-05",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "SE",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-04-15",
+              "grade": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250005",
+      "firstName": "Ulrich",
+      "lastName": "Hofer",
+      "email": "ulrich.hofer@students.example.edu",
+      "programme": "Business Informatics",
+      "birthDate": "2007-11-14",
+      "results": [
+        {
+          "courseId": "PROG1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-11-21",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "STAT",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-07-06",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "MATH1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-05-06",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "ALG",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-02-16",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "WEB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-10-09",
+              "grade": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250006",
+      "firstName": "Hannah",
+      "lastName": "Wimmer",
+      "email": "hannah.wimmer@students.example.edu",
+      "programme": "Data Science",
+      "birthDate": "2004-03-18",
+      "results": [
+        {
+          "courseId": "NET",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-02-20",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "STAT",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-05-17",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "WEB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-11-04",
+              "grade": 3
+            },
+            {
+              "attempt": 2,
+              "date": "2025-11-12",
+              "grade": 5
+            }
+          ]
+        },
+        {
+          "courseId": "SE",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-06-08",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "ALG",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-10-29",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "MATH1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-07-04",
+              "grade": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250007",
+      "firstName": "Tobias",
+      "lastName": "Binder",
+      "email": "tobias.binder@students.example.edu",
+      "programme": "Computer Science",
+      "birthDate": "2006-08-01",
+      "results": [
+        {
+          "courseId": "DB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-01-05",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "ALG",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-12-30",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "MATH1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-05-12",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "WEB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-10-08",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "SE",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-04-02",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "PROG1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-12-29",
+              "grade": 5
+            },
+            {
+              "attempt": 2,
+              "date": "2026-02-27",
+              "grade": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250008",
+      "firstName": "Vera",
+      "lastName": "Wimmer",
+      "email": "vera.wimmer@students.example.edu",
+      "programme": "Data Science",
+      "birthDate": "1998-12-14",
+      "results": [
+        {
+          "courseId": "STAT",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-03-15",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "DB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-12-03",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "SE",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-05-19",
+              "grade": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250009",
+      "firstName": "Emma",
+      "lastName": "Maier",
+      "email": "emma.maier@students.example.edu",
+      "programme": "Business Informatics",
+      "birthDate": "1998-03-25",
+      "results": [
+        {
+          "courseId": "NET",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-10-10",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "PROG1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-01-17",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "MATH1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-06-16",
+              "grade": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250010",
+      "firstName": "Elias",
+      "lastName": "Gruber",
+      "email": "elias.gruber@students.example.edu",
+      "programme": "Business Informatics",
+      "birthDate": "2002-11-21",
+      "results": [
+        {
+          "courseId": "STAT",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-03-26",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "ALG",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-11-22",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "WEB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-02-06",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "DB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-12-26",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "MATH1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-05-16",
+              "grade": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250011",
+      "firstName": "Max",
+      "lastName": "Lechner",
+      "email": "max.lechner@students.example.edu",
+      "programme": "Data Science",
+      "birthDate": "2007-06-20",
+      "results": [
+        {
+          "courseId": "WEB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-02-24",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "DB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-11-27",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "STAT",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-03-24",
+              "grade": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250012",
+      "firstName": "Ida",
+      "lastName": "Steiner",
+      "email": "ida.steiner@students.example.edu",
+      "programme": "Computer Science",
+      "birthDate": "2007-11-18",
+      "results": [
+        {
+          "courseId": "NET",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-10-20",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "DB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-12-17",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "MATH1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-05-16",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "ALG",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-02-16",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "WEB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-01-15",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "PROG1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-02-09",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "SE",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-07-19",
+              "grade": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250013",
+      "firstName": "Ben",
+      "lastName": "Wallner",
+      "email": "ben.wallner@students.example.edu",
+      "programme": "Computer Science",
+      "birthDate": "2006-05-16",
+      "results": [
+        {
+          "courseId": "SE",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-07-15",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "PROG1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-01-20",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "NET",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-10-16",
+              "grade": 5
+            },
+            {
+              "attempt": 2,
+              "date": "2026-01-02",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "WEB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-12-01",
+              "grade": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250014",
+      "firstName": "Tara",
+      "lastName": "Lang",
+      "email": "tara.lang@students.example.edu",
+      "programme": "Business Informatics",
+      "birthDate": "2002-09-25",
+      "results": [
+        {
+          "courseId": "NET",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-11-11",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "STAT",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-04-30",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "MATH1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-03-30",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "PROG1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-10-08",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "WEB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-12-19",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "ALG",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-02-21",
+              "grade": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250015",
+      "firstName": "Clara",
+      "lastName": "Fuchs",
+      "email": "clara.fuchs@students.example.edu",
+      "programme": "Computer Science",
+      "birthDate": "2001-07-09",
+      "results": [
+        {
+          "courseId": "ALG",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-12-11",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "PROG1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-11-15",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "MATH1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-03-11",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "DB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-10-15",
+              "grade": 4
+            },
+            {
+              "attempt": 2,
+              "date": "2026-02-02",
+              "grade": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250016",
+      "firstName": "Leon",
+      "lastName": "Maier",
+      "email": "leon.maier@students.example.edu",
+      "programme": "Data Science",
+      "birthDate": "2003-08-12",
+      "results": [
+        {
+          "courseId": "STAT",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-03-24",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "DB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-11-05",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "NET",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-02-24",
+              "grade": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250017",
+      "firstName": "Hannah",
+      "lastName": "Wallner",
+      "email": "hannah.wallner@students.example.edu",
+      "programme": "Business Informatics",
+      "birthDate": "2004-02-14",
+      "results": [
+        {
+          "courseId": "ALG",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-01-08",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "WEB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-11-30",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "MATH1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-04-14",
+              "grade": 1
+            },
+            {
+              "attempt": 2,
+              "date": "2026-04-25",
+              "grade": 5
+            }
+          ]
+        },
+        {
+          "courseId": "PROG1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-12-10",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "NET",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-12-05",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "SE",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-03-15",
+              "grade": 5
+            },
+            {
+              "attempt": 2,
+              "date": "2026-06-04",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "DB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-10-29",
+              "grade": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250018",
+      "firstName": "Mia",
+      "lastName": "Binder",
+      "email": "mia.binder@students.example.edu",
+      "programme": "Business Informatics",
+      "birthDate": "2004-03-13",
+      "results": [
+        {
+          "courseId": "ALG",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-01-03",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "STAT",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-03-06",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "PROG1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-10-09",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "DB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-10-14",
+              "grade": 5
+            },
+            {
+              "attempt": 2,
+              "date": "2025-12-01",
+              "grade": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250019",
+      "firstName": "Yusuf",
+      "lastName": "Maier",
+      "email": "yusuf.maier@students.example.edu",
+      "programme": "Business Informatics",
+      "birthDate": "2006-01-17",
+      "results": [
+        {
+          "courseId": "PROG1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-01-09",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "ALG",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-11-30",
+              "grade": 2
+            },
+            {
+              "attempt": 2,
+              "date": "2025-12-05",
+              "grade": 5
+            }
+          ]
+        },
+        {
+          "courseId": "SE",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-04-11",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "WEB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-12-10",
+              "grade": 4
+            },
+            {
+              "attempt": 2,
+              "date": "2025-12-21",
+              "grade": 5
+            },
+            {
+              "attempt": 3,
+              "date": "2026-01-13",
+              "grade": 5
+            }
+          ]
+        },
+        {
+          "courseId": "STAT",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-06-14",
+              "grade": 3
+            },
+            {
+              "attempt": 2,
+              "date": "2026-07-04",
+              "grade": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250020",
+      "firstName": "Mia",
+      "lastName": "Steiner",
+      "email": "mia.steiner@students.example.edu",
+      "programme": "Data Science",
+      "birthDate": "2002-12-22",
+      "results": [
+        {
+          "courseId": "ALG",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-02-18",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "SE",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-06-25",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "MATH1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-03-14",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "DB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-11-17",
+              "grade": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250021",
+      "firstName": "Ivan",
+      "lastName": "Huber",
+      "email": "ivan.huber@students.example.edu",
+      "programme": "Computer Science",
+      "birthDate": "1998-12-12",
+      "results": [
+        {
+          "courseId": "WEB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-02-10",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "NET",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-11-03",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "DB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-12-21",
+              "grade": 4
+            },
+            {
+              "attempt": 2,
+              "date": "2026-01-14",
+              "grade": 5
+            }
+          ]
+        },
+        {
+          "courseId": "STAT",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-04-04",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "MATH1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-07-30",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "SE",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-05-12",
+              "grade": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250022",
+      "firstName": "Lukas",
+      "lastName": "Schmidt",
+      "email": "lukas.schmidt@students.example.edu",
+      "programme": "Computer Science",
+      "birthDate": "2002-02-16",
+      "results": [
+        {
+          "courseId": "STAT",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-03-06",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "WEB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-11-13",
+              "grade": 2
+            },
+            {
+              "attempt": 2,
+              "date": "2025-11-28",
+              "grade": 5
+            },
+            {
+              "attempt": 3,
+              "date": "2026-01-27",
+              "grade": 5
+            }
+          ]
+        },
+        {
+          "courseId": "ALG",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-01-18",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "PROG1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-11-08",
+              "grade": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250023",
+      "firstName": "Karl",
+      "lastName": "Moser",
+      "email": "karl.moser@students.example.edu",
+      "programme": "Business Informatics",
+      "birthDate": "2006-05-16",
+      "results": [
+        {
+          "courseId": "STAT",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-07-05",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "SE",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-04-22",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "WEB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-12-08",
+              "grade": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250024",
+      "firstName": "Lea",
+      "lastName": "Wimmer",
+      "email": "lea.wimmer@students.example.edu",
+      "programme": "Business Informatics",
+      "birthDate": "2000-12-08",
+      "results": [
+        {
+          "courseId": "STAT",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-05-12",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "SE",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-04-18",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "PROG1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-01-13",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "ALG",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-10-08",
+              "grade": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250025",
+      "firstName": "Paula",
+      "lastName": "Baumgartner",
+      "email": "paula.baumgartner@students.example.edu",
+      "programme": "Computer Science",
+      "birthDate": "1999-01-26",
+      "results": [
+        {
+          "courseId": "NET",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-01-29",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "ALG",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-12-22",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "SE",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-06-07",
+              "grade": 4
+            },
+            {
+              "attempt": 2,
+              "date": "2026-06-10",
+              "grade": 5
+            }
+          ]
+        },
+        {
+          "courseId": "WEB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-12-05",
+              "grade": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250026",
+      "firstName": "Sara",
+      "lastName": "Wagner",
+      "email": "sara.wagner@students.example.edu",
+      "programme": "Computer Science",
+      "birthDate": "2004-07-05",
+      "results": [
+        {
+          "courseId": "NET",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-10-12",
+              "grade": 5
+            },
+            {
+              "attempt": 2,
+              "date": "2026-02-07",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "PROG1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-12-17",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "WEB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-01-03",
+              "grade": 5
+            },
+            {
+              "attempt": 2,
+              "date": "2026-02-21",
+              "grade": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250027",
+      "firstName": "Lena",
+      "lastName": "Winkler",
+      "email": "lena.winkler@students.example.edu",
+      "programme": "Business Informatics",
+      "birthDate": "2007-11-01",
+      "results": [
+        {
+          "courseId": "SE",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-07-14",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "DB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-12-06",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "WEB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-10-12",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "PROG1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-12-11",
+              "grade": 5
+            },
+            {
+              "attempt": 2,
+              "date": "2026-01-19",
+              "grade": 4
+            },
+            {
+              "attempt": 3,
+              "date": "2026-02-05",
+              "grade": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250028",
+      "firstName": "Quentin",
+      "lastName": "Winkler",
+      "email": "quentin.winkler@students.example.edu",
+      "programme": "Computer Science",
+      "birthDate": "2007-06-27",
+      "results": [
+        {
+          "courseId": "NET",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-11-08",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "WEB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-11-16",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "PROG1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-12-06",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "DB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-01-28",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "STAT",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-07-05",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "MATH1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-05-31",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "SE",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-07-05",
+              "grade": 3
+            },
+            {
+              "attempt": 2,
+              "date": "2026-07-22",
+              "grade": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250029",
+      "firstName": "Julia",
+      "lastName": "Moser",
+      "email": "julia.moser@students.example.edu",
+      "programme": "Computer Science",
+      "birthDate": "2006-08-13",
+      "results": [
+        {
+          "courseId": "PROG1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-12-09",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "SE",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-07-28",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "DB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-10-02",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "STAT",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-07-25",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "ALG",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-10-20",
+              "grade": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250030",
+      "firstName": "Lea",
+      "lastName": "Steiner",
+      "email": "lea.steiner@students.example.edu",
+      "programme": "Business Informatics",
+      "birthDate": "1998-06-29",
+      "results": [
+        {
+          "courseId": "MATH1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-03-28",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "DB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-11-09",
+              "grade": 5
+            },
+            {
+              "attempt": 2,
+              "date": "2026-01-26",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "NET",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-01-31",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "SE",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-05-08",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "WEB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-10-02",
+              "grade": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250031",
+      "firstName": "Marie",
+      "lastName": "Baumgartner",
+      "email": "marie.baumgartner@students.example.edu",
+      "programme": "Computer Science",
+      "birthDate": "2002-05-11",
+      "results": [
+        {
+          "courseId": "DB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-10-19",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "PROG1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-01-06",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "MATH1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-05-05",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "SE",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-06-11",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "ALG",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-11-23",
+              "grade": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250032",
+      "firstName": "Zoe",
+      "lastName": "Schwarz",
+      "email": "zoe.schwarz@students.example.edu",
+      "programme": "Business Informatics",
+      "birthDate": "2003-05-06",
+      "results": [
+        {
+          "courseId": "PROG1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-12-19",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "DB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-10-25",
+              "grade": 2
+            },
+            {
+              "attempt": 2,
+              "date": "2025-11-03",
+              "grade": 5
+            }
+          ]
+        },
+        {
+          "courseId": "WEB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-02-09",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "NET",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-01-23",
+              "grade": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250033",
+      "firstName": "Rosa",
+      "lastName": "Lang",
+      "email": "rosa.lang@students.example.edu",
+      "programme": "Business Informatics",
+      "birthDate": "2005-08-02",
+      "results": [
+        {
+          "courseId": "STAT",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-06-20",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "SE",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-03-24",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "DB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-12-27",
+              "grade": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250034",
+      "firstName": "Oliver",
+      "lastName": "Hofer",
+      "email": "oliver.hofer@students.example.edu",
+      "programme": "Data Science",
+      "birthDate": "2006-01-29",
+      "results": [
+        {
+          "courseId": "PROG1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-11-02",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "DB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-12-16",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "WEB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-02-11",
+              "grade": 5
+            },
+            {
+              "attempt": 2,
+              "date": "2026-02-23",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "NET",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-10-20",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "MATH1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-06-17",
+              "grade": 1
+            },
+            {
+              "attempt": 2,
+              "date": "2026-07-10",
+              "grade": 5
+            }
+          ]
+        },
+        {
+          "courseId": "SE",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-06-27",
+              "grade": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250035",
+      "firstName": "Matteo",
+      "lastName": "Winkler",
+      "email": "matteo.winkler@students.example.edu",
+      "programme": "Data Science",
+      "birthDate": "2007-01-22",
+      "results": [
+        {
+          "courseId": "ALG",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-01-27",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "SE",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-04-16",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "MATH1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-03-12",
+              "grade": 5
+            },
+            {
+              "attempt": 2,
+              "date": "2026-05-16",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "STAT",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-06-25",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "NET",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-01-24",
+              "grade": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250036",
+      "firstName": "Quentin",
+      "lastName": "Reiter",
+      "email": "quentin.reiter@students.example.edu",
+      "programme": "Business Informatics",
+      "birthDate": "2005-10-04",
+      "results": [
+        {
+          "courseId": "WEB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-10-28",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "PROG1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-10-05",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "MATH1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-03-30",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "ALG",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-01-31",
+              "grade": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250037",
+      "firstName": "Zoe",
+      "lastName": "Lechner",
+      "email": "zoe.lechner@students.example.edu",
+      "programme": "Data Science",
+      "birthDate": "2007-08-17",
+      "results": [
+        {
+          "courseId": "NET",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-11-04",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "SE",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-03-29",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "STAT",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-04-18",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "WEB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-11-07",
+              "grade": 3
+            },
+            {
+              "attempt": 2,
+              "date": "2025-11-23",
+              "grade": 5
+            }
+          ]
+        },
+        {
+          "courseId": "DB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-01-20",
+              "grade": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250038",
+      "firstName": "Tobias",
+      "lastName": "Fuchs",
+      "email": "tobias.fuchs@students.example.edu",
+      "programme": "Data Science",
+      "birthDate": "2000-09-20",
+      "results": [
+        {
+          "courseId": "ALG",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-01-17",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "STAT",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-04-12",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "WEB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-01-22",
+              "grade": 5
+            },
+            {
+              "attempt": 2,
+              "date": "2026-01-24",
+              "grade": 1
+            },
+            {
+              "attempt": 3,
+              "date": "2026-01-29",
+              "grade": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250039",
+      "firstName": "Max",
+      "lastName": "Schwarz",
+      "email": "max.schwarz@students.example.edu",
+      "programme": "Data Science",
+      "birthDate": "2001-07-17",
+      "results": [
+        {
+          "courseId": "STAT",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-07-05",
+              "grade": 5
+            },
+            {
+              "attempt": 2,
+              "date": "2026-07-31",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "MATH1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-05-14",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "DB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-01-11",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "SE",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-07-30",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "ALG",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-02-02",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "NET",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-10-16",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "PROG1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-01-17",
+              "grade": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "studentId": "20250040",
+      "firstName": "Sara",
+      "lastName": "Müller",
+      "email": "sara.mueller@students.example.edu",
+      "programme": "Data Science",
+      "birthDate": "2001-10-21",
+      "results": [
+        {
+          "courseId": "STAT",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-06-20",
+              "grade": 3
+            }
+          ]
+        },
+        {
+          "courseId": "WEB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2025-12-13",
+              "grade": 1
+            }
+          ]
+        },
+        {
+          "courseId": "MATH1",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-06-29",
+              "grade": 4
+            }
+          ]
+        },
+        {
+          "courseId": "SE",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-04-29",
+              "grade": 2
+            }
+          ]
+        },
+        {
+          "courseId": "DB",
+          "attempts": [
+            {
+              "attempt": 1,
+              "date": "2026-02-28",
+              "grade": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,998 @@
+{
+  "company": "ACME Demo GmbH",
+  "departments": [
+    {
+      "id": "ENG",
+      "name": "Engineering",
+      "headId": 2,
+      "budget": 1850000
+    },
+    {
+      "id": "SAL",
+      "name": "Sales",
+      "headId": 12,
+      "budget": 600000
+    },
+    {
+      "id": "MKT",
+      "name": "Marketing",
+      "headId": 23,
+      "budget": 450000
+    },
+    {
+      "id": "HR",
+      "name": "Human Resources",
+      "headId": 27,
+      "budget": 1000000
+    },
+    {
+      "id": "FIN",
+      "name": "Finance",
+      "headId": 35,
+      "budget": 1650000
+    },
+    {
+      "id": "SUP",
+      "name": "Customer Support",
+      "headId": 45,
+      "budget": 1250000
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Anna",
+      "lastName": "Hofer",
+      "email": "anna.hofer@acme.example",
+      "title": "CEO",
+      "departmentId": null,
+      "managerId": null,
+      "level": 1,
+      "salary": 189800,
+      "currency": "EUR",
+      "hireDate": "2012-03-01",
+      "office": "Munich",
+      "remote": false,
+      "skills": [],
+      "active": true
+    },
+    {
+      "id": 2,
+      "firstName": "Matteo",
+      "lastName": "Baumgartner",
+      "email": "matteo.baumgartner@acme.example",
+      "title": "Head of Engineering",
+      "departmentId": "ENG",
+      "managerId": 1,
+      "level": 2,
+      "salary": 123500,
+      "currency": "EUR",
+      "hireDate": "2019-02-06",
+      "office": "Graz",
+      "remote": true,
+      "skills": [
+        "Kubernetes",
+        "SQL"
+      ],
+      "active": true
+    },
+    {
+      "id": 3,
+      "firstName": "Felix",
+      "lastName": "Huber",
+      "email": "felix.huber@acme.example",
+      "title": "Team Lead Engineering",
+      "departmentId": "ENG",
+      "managerId": 2,
+      "level": 3,
+      "salary": 91700,
+      "currency": "EUR",
+      "hireDate": "2021-01-24",
+      "office": "Innsbruck",
+      "remote": false,
+      "skills": [
+        "Python",
+        "TypeScript"
+      ],
+      "active": true
+    },
+    {
+      "id": 4,
+      "firstName": "Sara",
+      "lastName": "Mayr",
+      "email": "sara.mayr@acme.example",
+      "title": "Senior Software Engineer",
+      "departmentId": "ENG",
+      "managerId": 3,
+      "level": 4,
+      "salary": 69200,
+      "currency": "EUR",
+      "hireDate": "2012-09-12",
+      "office": "Vienna",
+      "remote": true,
+      "skills": [
+        "AWS",
+        "Go"
+      ],
+      "active": true
+    },
+    {
+      "id": 5,
+      "firstName": "Yusuf",
+      "lastName": "Lang",
+      "email": "yusuf.lang@acme.example",
+      "title": "Software Engineer",
+      "departmentId": "ENG",
+      "managerId": 3,
+      "level": 4,
+      "salary": 44900,
+      "currency": "EUR",
+      "hireDate": "2015-11-21",
+      "office": "Innsbruck",
+      "remote": false,
+      "skills": [
+        "AWS",
+        "React"
+      ],
+      "active": true
+    },
+    {
+      "id": 6,
+      "firstName": "Lukas",
+      "lastName": "Hofer",
+      "email": "lukas.hofer@acme.example",
+      "title": "Team Lead Engineering",
+      "departmentId": "ENG",
+      "managerId": 2,
+      "level": 3,
+      "salary": 79100,
+      "currency": "EUR",
+      "hireDate": "2015-01-05",
+      "office": "Linz",
+      "remote": true,
+      "skills": [
+        "TypeScript",
+        "AWS"
+      ],
+      "active": true
+    },
+    {
+      "id": 7,
+      "firstName": "Ivan",
+      "lastName": "Pichler",
+      "email": "ivan.pichler@acme.example",
+      "title": "Software Engineer",
+      "departmentId": "ENG",
+      "managerId": 6,
+      "level": 4,
+      "salary": 59000,
+      "currency": "EUR",
+      "hireDate": "2021-04-29",
+      "office": "Graz",
+      "remote": false,
+      "skills": [
+        "React",
+        "Kubernetes",
+        "Java"
+      ],
+      "active": true
+    },
+    {
+      "id": 8,
+      "firstName": "Mia",
+      "lastName": "Ebner",
+      "email": "mia.ebner@acme.example",
+      "title": "Software Engineer",
+      "departmentId": "ENG",
+      "managerId": 6,
+      "level": 4,
+      "salary": 50600,
+      "currency": "EUR",
+      "hireDate": "2019-12-20",
+      "office": "Salzburg",
+      "remote": true,
+      "skills": [
+        "Go"
+      ],
+      "active": true
+    },
+    {
+      "id": 9,
+      "firstName": "Paula",
+      "lastName": "Wolf",
+      "email": "paula.wolf@acme.example",
+      "title": "Software Engineer",
+      "departmentId": "ENG",
+      "managerId": 6,
+      "level": 4,
+      "salary": 51500,
+      "currency": "EUR",
+      "hireDate": "2024-04-01",
+      "office": "Linz",
+      "remote": false,
+      "skills": [
+        "Go"
+      ],
+      "active": false
+    },
+    {
+      "id": 10,
+      "firstName": "Hannah",
+      "lastName": "Binder",
+      "email": "hannah.binder@acme.example",
+      "title": "Software Engineer",
+      "departmentId": "ENG",
+      "managerId": 6,
+      "level": 4,
+      "salary": 40600,
+      "currency": "EUR",
+      "hireDate": "2015-03-09",
+      "office": "Munich",
+      "remote": false,
+      "skills": [
+        "Go",
+        "Kubernetes"
+      ],
+      "active": true
+    },
+    {
+      "id": 11,
+      "firstName": "Marie",
+      "lastName": "Pichler",
+      "email": "marie.pichler@acme.example",
+      "title": "Senior Software Engineer",
+      "departmentId": "ENG",
+      "managerId": 6,
+      "level": 4,
+      "salary": 75500,
+      "currency": "EUR",
+      "hireDate": "2026-02-22",
+      "office": "Graz",
+      "remote": false,
+      "skills": [
+        "Kubernetes"
+      ],
+      "active": true
+    },
+    {
+      "id": 12,
+      "firstName": "Marie",
+      "lastName": "Wagner",
+      "email": "marie.wagner@acme.example",
+      "title": "Head of Sales",
+      "departmentId": "SAL",
+      "managerId": 1,
+      "level": 2,
+      "salary": 145100,
+      "currency": "EUR",
+      "hireDate": "2012-03-29",
+      "office": "Linz",
+      "remote": false,
+      "skills": [
+        "Presentation",
+        "B2B"
+      ],
+      "active": true
+    },
+    {
+      "id": 13,
+      "firstName": "Lukas",
+      "lastName": "Mayr",
+      "email": "lukas.mayr@acme.example",
+      "title": "Team Lead Sales",
+      "departmentId": "SAL",
+      "managerId": 12,
+      "level": 3,
+      "salary": 84500,
+      "currency": "EUR",
+      "hireDate": "2015-10-04",
+      "office": "Linz",
+      "remote": true,
+      "skills": [
+        "B2B",
+        "Presentation"
+      ],
+      "active": true
+    },
+    {
+      "id": 14,
+      "firstName": "Elias",
+      "lastName": "Leitner",
+      "email": "elias.leitner@acme.example",
+      "title": "Senior Account Executive",
+      "departmentId": "SAL",
+      "managerId": 13,
+      "level": 4,
+      "salary": 61700,
+      "currency": "EUR",
+      "hireDate": "2018-07-18",
+      "office": "Innsbruck",
+      "remote": false,
+      "skills": [
+        "Presentation",
+        "Negotiation"
+      ],
+      "active": true
+    },
+    {
+      "id": 15,
+      "firstName": "Emma",
+      "lastName": "Weber",
+      "email": "emma.weber@acme.example",
+      "title": "Senior Account Executive",
+      "departmentId": "SAL",
+      "managerId": 13,
+      "level": 4,
+      "salary": 64300,
+      "currency": "EUR",
+      "hireDate": "2025-10-23",
+      "office": "Linz",
+      "remote": true,
+      "skills": [
+        "Negotiation"
+      ],
+      "active": true
+    },
+    {
+      "id": 16,
+      "firstName": "Ida",
+      "lastName": "Hofer",
+      "email": "ida.hofer@acme.example",
+      "title": "Account Executive",
+      "departmentId": "SAL",
+      "managerId": 13,
+      "level": 4,
+      "salary": 52600,
+      "currency": "EUR",
+      "hireDate": "2020-04-17",
+      "office": "Munich",
+      "remote": false,
+      "skills": [
+        "CRM",
+        "Presentation",
+        "Negotiation"
+      ],
+      "active": true
+    },
+    {
+      "id": 17,
+      "firstName": "Clara",
+      "lastName": "Reiter",
+      "email": "clara.reiter@acme.example",
+      "title": "Account Executive",
+      "departmentId": "SAL",
+      "managerId": 13,
+      "level": 4,
+      "salary": 42800,
+      "currency": "EUR",
+      "hireDate": "2025-05-10",
+      "office": "Vienna",
+      "remote": false,
+      "skills": [
+        "Presentation",
+        "CRM"
+      ],
+      "active": true
+    },
+    {
+      "id": 18,
+      "firstName": "Paula",
+      "lastName": "Baumgartner",
+      "email": "paula.baumgartner@acme.example",
+      "title": "Team Lead Sales",
+      "departmentId": "SAL",
+      "managerId": 12,
+      "level": 3,
+      "salary": 80500,
+      "currency": "EUR",
+      "hireDate": "2016-09-23",
+      "office": "Munich",
+      "remote": false,
+      "skills": [
+        "Negotiation",
+        "B2B"
+      ],
+      "active": true
+    },
+    {
+      "id": 19,
+      "firstName": "Hannah",
+      "lastName": "Wagner",
+      "email": "hannah.wagner@acme.example",
+      "title": "Account Executive",
+      "departmentId": "SAL",
+      "managerId": 18,
+      "level": 4,
+      "salary": 53200,
+      "currency": "EUR",
+      "hireDate": "2020-12-10",
+      "office": "Graz",
+      "remote": false,
+      "skills": [
+        "CRM",
+        "Presentation",
+        "B2B"
+      ],
+      "active": true
+    },
+    {
+      "id": 20,
+      "firstName": "Julia",
+      "lastName": "Wallner",
+      "email": "julia.wallner@acme.example",
+      "title": "Account Executive",
+      "departmentId": "SAL",
+      "managerId": 18,
+      "level": 4,
+      "salary": 38400,
+      "currency": "EUR",
+      "hireDate": "2018-06-23",
+      "office": "Salzburg",
+      "remote": false,
+      "skills": [
+        "B2B",
+        "Presentation",
+        "Negotiation"
+      ],
+      "active": true
+    },
+    {
+      "id": 21,
+      "firstName": "Tobias",
+      "lastName": "Mayr",
+      "email": "tobias.mayr@acme.example",
+      "title": "Senior Account Executive",
+      "departmentId": "SAL",
+      "managerId": 18,
+      "level": 4,
+      "salary": 68900,
+      "currency": "EUR",
+      "hireDate": "2019-07-07",
+      "office": "Salzburg",
+      "remote": true,
+      "skills": [
+        "Presentation",
+        "CRM"
+      ],
+      "active": true
+    },
+    {
+      "id": 22,
+      "firstName": "Paula",
+      "lastName": "Fuchs",
+      "email": "paula.fuchs@acme.example",
+      "title": "Account Executive",
+      "departmentId": "SAL",
+      "managerId": 18,
+      "level": 4,
+      "salary": 49100,
+      "currency": "EUR",
+      "hireDate": "2016-01-13",
+      "office": "Innsbruck",
+      "remote": false,
+      "skills": [
+        "Negotiation"
+      ],
+      "active": false
+    },
+    {
+      "id": 23,
+      "firstName": "Anna",
+      "lastName": "Brunner",
+      "email": "anna.brunner@acme.example",
+      "title": "Head of Marketing",
+      "departmentId": "MKT",
+      "managerId": 1,
+      "level": 2,
+      "salary": 144400,
+      "currency": "EUR",
+      "hireDate": "2014-05-01",
+      "office": "Vienna",
+      "remote": false,
+      "skills": [
+        "Analytics",
+        "Copywriting"
+      ],
+      "active": true
+    },
+    {
+      "id": 24,
+      "firstName": "Clara",
+      "lastName": "Gruber",
+      "email": "clara.gruber@acme.example",
+      "title": "Team Lead Marketing",
+      "departmentId": "MKT",
+      "managerId": 23,
+      "level": 3,
+      "salary": 78000,
+      "currency": "EUR",
+      "hireDate": "2013-04-10",
+      "office": "Innsbruck",
+      "remote": false,
+      "skills": [
+        "Copywriting",
+        "Analytics"
+      ],
+      "active": true
+    },
+    {
+      "id": 25,
+      "firstName": "Hannah",
+      "lastName": "Pichler",
+      "email": "hannah.pichler@acme.example",
+      "title": "Marketing Specialist",
+      "departmentId": "MKT",
+      "managerId": 24,
+      "level": 4,
+      "salary": 42300,
+      "currency": "EUR",
+      "hireDate": "2020-06-06",
+      "office": "Innsbruck",
+      "remote": false,
+      "skills": [
+        "Copywriting",
+        "SEO",
+        "Analytics"
+      ],
+      "active": true
+    },
+    {
+      "id": 26,
+      "firstName": "Sophie",
+      "lastName": "Müller",
+      "email": "sophie.mueller@acme.example",
+      "title": "Senior Marketing Specialist",
+      "departmentId": "MKT",
+      "managerId": 24,
+      "level": 4,
+      "salary": 74900,
+      "currency": "EUR",
+      "hireDate": "2018-03-14",
+      "office": "Munich",
+      "remote": false,
+      "skills": [
+        "Analytics",
+        "Copywriting",
+        "SEO"
+      ],
+      "active": true
+    },
+    {
+      "id": 27,
+      "firstName": "Emma",
+      "lastName": "Weber",
+      "email": "emma.weber@acme.example",
+      "title": "Head of Human Resources",
+      "departmentId": "HR",
+      "managerId": 1,
+      "level": 2,
+      "salary": 135100,
+      "currency": "EUR",
+      "hireDate": "2020-09-18",
+      "office": "Vienna",
+      "remote": false,
+      "skills": [
+        "Labor Law",
+        "Recruiting"
+      ],
+      "active": true
+    },
+    {
+      "id": 28,
+      "firstName": "Emma",
+      "lastName": "Lechner",
+      "email": "emma.lechner@acme.example",
+      "title": "Team Lead Human Resources",
+      "departmentId": "HR",
+      "managerId": 27,
+      "level": 3,
+      "salary": 95000,
+      "currency": "EUR",
+      "hireDate": "2020-10-21",
+      "office": "Graz",
+      "remote": true,
+      "skills": [
+        "Recruiting",
+        "Labor Law"
+      ],
+      "active": true
+    },
+    {
+      "id": 29,
+      "firstName": "Greta",
+      "lastName": "Baumgartner",
+      "email": "greta.baumgartner@acme.example",
+      "title": "HR Specialist",
+      "departmentId": "HR",
+      "managerId": 28,
+      "level": 4,
+      "salary": 46500,
+      "currency": "EUR",
+      "hireDate": "2014-04-26",
+      "office": "Munich",
+      "remote": true,
+      "skills": [
+        "Labor Law",
+        "Onboarding",
+        "Recruiting"
+      ],
+      "active": true
+    },
+    {
+      "id": 30,
+      "firstName": "Julia",
+      "lastName": "Huber",
+      "email": "julia.huber@acme.example",
+      "title": "HR Specialist",
+      "departmentId": "HR",
+      "managerId": 28,
+      "level": 4,
+      "salary": 59800,
+      "currency": "EUR",
+      "hireDate": "2020-10-03",
+      "office": "Vienna",
+      "remote": true,
+      "skills": [
+        "Onboarding",
+        "Recruiting"
+      ],
+      "active": true
+    },
+    {
+      "id": 31,
+      "firstName": "Lea",
+      "lastName": "Binder",
+      "email": "lea.binder@acme.example",
+      "title": "HR Specialist",
+      "departmentId": "HR",
+      "managerId": 28,
+      "level": 4,
+      "salary": 51200,
+      "currency": "EUR",
+      "hireDate": "2013-07-28",
+      "office": "Salzburg",
+      "remote": false,
+      "skills": [
+        "Labor Law",
+        "Recruiting",
+        "Onboarding"
+      ],
+      "active": false
+    },
+    {
+      "id": 32,
+      "firstName": "Vera",
+      "lastName": "Maier",
+      "email": "vera.maier@acme.example",
+      "title": "Team Lead Human Resources",
+      "departmentId": "HR",
+      "managerId": 27,
+      "level": 3,
+      "salary": 76800,
+      "currency": "EUR",
+      "hireDate": "2026-03-07",
+      "office": "Salzburg",
+      "remote": false,
+      "skills": [
+        "Labor Law",
+        "Onboarding"
+      ],
+      "active": true
+    },
+    {
+      "id": 33,
+      "firstName": "Simon",
+      "lastName": "Fuchs",
+      "email": "simon.fuchs@acme.example",
+      "title": "HR Specialist",
+      "departmentId": "HR",
+      "managerId": 32,
+      "level": 4,
+      "salary": 56200,
+      "currency": "EUR",
+      "hireDate": "2012-11-18",
+      "office": "Graz",
+      "remote": false,
+      "skills": [
+        "Onboarding",
+        "Labor Law"
+      ],
+      "active": true
+    },
+    {
+      "id": 34,
+      "firstName": "Werner",
+      "lastName": "Lechner",
+      "email": "werner.lechner@acme.example",
+      "title": "HR Specialist",
+      "departmentId": "HR",
+      "managerId": 32,
+      "level": 4,
+      "salary": 58700,
+      "currency": "EUR",
+      "hireDate": "2021-10-27",
+      "office": "Vienna",
+      "remote": false,
+      "skills": [
+        "Recruiting"
+      ],
+      "active": true
+    },
+    {
+      "id": 35,
+      "firstName": "Ida",
+      "lastName": "Schmid",
+      "email": "ida.schmid@acme.example",
+      "title": "Head of Finance",
+      "departmentId": "FIN",
+      "managerId": 1,
+      "level": 2,
+      "salary": 135500,
+      "currency": "EUR",
+      "hireDate": "2013-05-31",
+      "office": "Salzburg",
+      "remote": false,
+      "skills": [
+        "Tax",
+        "Controlling"
+      ],
+      "active": true
+    },
+    {
+      "id": 36,
+      "firstName": "Ben",
+      "lastName": "Bauer",
+      "email": "ben.bauer@acme.example",
+      "title": "Team Lead Finance",
+      "departmentId": "FIN",
+      "managerId": 35,
+      "level": 3,
+      "salary": 76800,
+      "currency": "EUR",
+      "hireDate": "2019-07-29",
+      "office": "Linz",
+      "remote": false,
+      "skills": [
+        "Accounting",
+        "Tax"
+      ],
+      "active": false
+    },
+    {
+      "id": 37,
+      "firstName": "Tobias",
+      "lastName": "Hofer",
+      "email": "tobias.hofer@acme.example",
+      "title": "Accountant",
+      "departmentId": "FIN",
+      "managerId": 36,
+      "level": 4,
+      "salary": 57000,
+      "currency": "EUR",
+      "hireDate": "2017-03-23",
+      "office": "Munich",
+      "remote": false,
+      "skills": [
+        "Tax"
+      ],
+      "active": false
+    },
+    {
+      "id": 38,
+      "firstName": "Elias",
+      "lastName": "Bauer",
+      "email": "elias.bauer@acme.example",
+      "title": "Accountant",
+      "departmentId": "FIN",
+      "managerId": 36,
+      "level": 4,
+      "salary": 59300,
+      "currency": "EUR",
+      "hireDate": "2014-12-05",
+      "office": "Graz",
+      "remote": true,
+      "skills": [
+        "Accounting",
+        "Excel"
+      ],
+      "active": true
+    },
+    {
+      "id": 39,
+      "firstName": "Ida",
+      "lastName": "Müller",
+      "email": "ida.mueller@acme.example",
+      "title": "Accountant",
+      "departmentId": "FIN",
+      "managerId": 36,
+      "level": 4,
+      "salary": 41700,
+      "currency": "EUR",
+      "hireDate": "2023-02-24",
+      "office": "Vienna",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "active": true
+    },
+    {
+      "id": 40,
+      "firstName": "Zoe",
+      "lastName": "Schneider",
+      "email": "zoe.schneider@acme.example",
+      "title": "Accountant",
+      "departmentId": "FIN",
+      "managerId": 36,
+      "level": 4,
+      "salary": 56900,
+      "currency": "EUR",
+      "hireDate": "2024-03-29",
+      "office": "Vienna",
+      "remote": true,
+      "skills": [
+        "Accounting"
+      ],
+      "active": true
+    },
+    {
+      "id": 41,
+      "firstName": "Vera",
+      "lastName": "Müller",
+      "email": "vera.mueller@acme.example",
+      "title": "Accountant",
+      "departmentId": "FIN",
+      "managerId": 36,
+      "level": 4,
+      "salary": 47000,
+      "currency": "EUR",
+      "hireDate": "2015-03-03",
+      "office": "Vienna",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Tax"
+      ],
+      "active": true
+    },
+    {
+      "id": 42,
+      "firstName": "Paula",
+      "lastName": "Bauer",
+      "email": "paula.bauer@acme.example",
+      "title": "Team Lead Finance",
+      "departmentId": "FIN",
+      "managerId": 35,
+      "level": 3,
+      "salary": 78300,
+      "currency": "EUR",
+      "hireDate": "2026-03-06",
+      "office": "Graz",
+      "remote": false,
+      "skills": [
+        "Accounting",
+        "Excel"
+      ],
+      "active": true
+    },
+    {
+      "id": 43,
+      "firstName": "Lena",
+      "lastName": "Pichler",
+      "email": "lena.pichler@acme.example",
+      "title": "Senior Accountant",
+      "departmentId": "FIN",
+      "managerId": 42,
+      "level": 4,
+      "salary": 79500,
+      "currency": "EUR",
+      "hireDate": "2018-05-13",
+      "office": "Munich",
+      "remote": false,
+      "skills": [
+        "Excel",
+        "Accounting"
+      ],
+      "active": true
+    },
+    {
+      "id": 44,
+      "firstName": "Rosa",
+      "lastName": "Wallner",
+      "email": "rosa.wallner@acme.example",
+      "title": "Senior Accountant",
+      "departmentId": "FIN",
+      "managerId": 42,
+      "level": 4,
+      "salary": 73500,
+      "currency": "EUR",
+      "hireDate": "2017-05-13",
+      "office": "Salzburg",
+      "remote": false,
+      "skills": [
+        "Excel"
+      ],
+      "active": true
+    },
+    {
+      "id": 45,
+      "firstName": "Lea",
+      "lastName": "Pichler",
+      "email": "lea.pichler@acme.example",
+      "title": "Head of Customer Support",
+      "departmentId": "SUP",
+      "managerId": 1,
+      "level": 2,
+      "salary": 129700,
+      "currency": "EUR",
+      "hireDate": "2019-10-20",
+      "office": "Munich",
+      "remote": false,
+      "skills": [
+        "Ticketing",
+        "Troubleshooting"
+      ],
+      "active": true
+    },
+    {
+      "id": 46,
+      "firstName": "Marie",
+      "lastName": "Schmidt",
+      "email": "marie.schmidt@acme.example",
+      "title": "Team Lead Customer Support",
+      "departmentId": "SUP",
+      "managerId": 45,
+      "level": 3,
+      "salary": 91600,
+      "currency": "EUR",
+      "hireDate": "2016-12-01",
+      "office": "Innsbruck",
+      "remote": false,
+      "skills": [
+        "Ticketing",
+        "Communication"
+      ],
+      "active": true
+    },
+    {
+      "id": 47,
+      "firstName": "Julia",
+      "lastName": "Binder",
+      "email": "julia.binder@acme.example",
+      "title": "Senior Support Agent",
+      "departmentId": "SUP",
+      "managerId": 46,
+      "level": 4,
+      "salary": 65800,
+      "currency": "EUR",
+      "hireDate": "2015-08-01",
+      "office": "Salzburg",
+      "remote": false,
+      "skills": [
+        "Communication",
+        "Troubleshooting",
+        "Ticketing"
+      ],
+      "active": false
+    },
+    {
+      "id": 48,
+      "firstName": "Vera",
+      "lastName": "Auer",
+      "email": "vera.auer@acme.example",
+      "title": "Support Agent",
+      "departmentId": "SUP",
+      "managerId": 46,
+      "level": 4,
+      "salary": 41400,
+      "currency": "EUR",
+      "hireDate": "2013-03-05",
+      "office": "Vienna",
+      "remote": false,
+      "skills": [
+        "Communication"
+      ],
+      "active": true
+    }
+  ]
+}

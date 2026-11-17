@@ -1,0 +1,1921 @@
+{
+  "city": "Fictional demo city",
+  "stops": [
+    {
+      "id": "S01",
+      "name": "Central Station",
+      "location": {
+        "lat": 48.15211,
+        "lon": 16.28604
+      },
+      "zone": 100,
+      "wheelchairAccessible": true,
+      "facilities": []
+    },
+    {
+      "id": "S02",
+      "name": "Old Town",
+      "location": {
+        "lat": 48.16937,
+        "lon": 16.28796
+      },
+      "zone": 300,
+      "wheelchairAccessible": true,
+      "facilities": [
+        "ticket_machine"
+      ]
+    },
+    {
+      "id": "S03",
+      "name": "City Hall",
+      "location": {
+        "lat": 48.15682,
+        "lon": 16.45883
+      },
+      "zone": 300,
+      "wheelchairAccessible": true,
+      "facilities": [
+        "toilet",
+        "kiosk"
+      ]
+    },
+    {
+      "id": "S04",
+      "name": "University",
+      "location": {
+        "lat": 48.2327,
+        "lon": 16.42731
+      },
+      "zone": 200,
+      "wheelchairAccessible": true,
+      "facilities": [
+        "kiosk"
+      ]
+    },
+    {
+      "id": "S05",
+      "name": "Riverside",
+      "location": {
+        "lat": 48.20255,
+        "lon": 16.35444
+      },
+      "zone": 100,
+      "wheelchairAccessible": true,
+      "facilities": [
+        "kiosk"
+      ]
+    },
+    {
+      "id": "S06",
+      "name": "Market Square",
+      "location": {
+        "lat": 48.22145,
+        "lon": 16.38005
+      },
+      "zone": 100,
+      "wheelchairAccessible": true,
+      "facilities": [
+        "kiosk",
+        "elevator"
+      ]
+    },
+    {
+      "id": "S07",
+      "name": "Opera",
+      "location": {
+        "lat": 48.2343,
+        "lon": 16.33737
+      },
+      "zone": 200,
+      "wheelchairAccessible": true,
+      "facilities": [
+        "bike_parking"
+      ]
+    },
+    {
+      "id": "S08",
+      "name": "North Park",
+      "location": {
+        "lat": 48.18518,
+        "lon": 16.41579
+      },
+      "zone": 100,
+      "wheelchairAccessible": true,
+      "facilities": [
+        "bike_parking"
+      ]
+    },
+    {
+      "id": "S09",
+      "name": "Hospital",
+      "location": {
+        "lat": 48.2429,
+        "lon": 16.30598
+      },
+      "zone": 300,
+      "wheelchairAccessible": true,
+      "facilities": []
+    },
+    {
+      "id": "S10",
+      "name": "Airport",
+      "location": {
+        "lat": 48.20749,
+        "lon": 16.4542
+      },
+      "zone": 300,
+      "wheelchairAccessible": true,
+      "facilities": [
+        "elevator"
+      ]
+    },
+    {
+      "id": "S11",
+      "name": "Harbour",
+      "location": {
+        "lat": 48.16914,
+        "lon": 16.3166
+      },
+      "zone": 200,
+      "wheelchairAccessible": true,
+      "facilities": [
+        "bike_parking",
+        "ticket_machine",
+        "shelter"
+      ]
+    },
+    {
+      "id": "S12",
+      "name": "Stadium",
+      "location": {
+        "lat": 48.14618,
+        "lon": 16.34789
+      },
+      "zone": 300,
+      "wheelchairAccessible": true,
+      "facilities": []
+    },
+    {
+      "id": "S13",
+      "name": "Zoo",
+      "location": {
+        "lat": 48.24483,
+        "lon": 16.31387
+      },
+      "zone": 300,
+      "wheelchairAccessible": true,
+      "facilities": [
+        "elevator"
+      ]
+    },
+    {
+      "id": "S14",
+      "name": "Westgate",
+      "location": {
+        "lat": 48.16507,
+        "lon": 16.44327
+      },
+      "zone": 300,
+      "wheelchairAccessible": true,
+      "facilities": []
+    },
+    {
+      "id": "S15",
+      "name": "Eastgate",
+      "location": {
+        "lat": 48.16542,
+        "lon": 16.3142
+      },
+      "zone": 200,
+      "wheelchairAccessible": true,
+      "facilities": [
+        "shelter",
+        "toilet",
+        "kiosk"
+      ]
+    },
+    {
+      "id": "S16",
+      "name": "Museum Quarter",
+      "location": {
+        "lat": 48.1876,
+        "lon": 16.32308
+      },
+      "zone": 100,
+      "wheelchairAccessible": true,
+      "facilities": [
+        "elevator",
+        "kiosk"
+      ]
+    },
+    {
+      "id": "S17",
+      "name": "Tech Campus",
+      "location": {
+        "lat": 48.20404,
+        "lon": 16.34467
+      },
+      "zone": 100,
+      "wheelchairAccessible": true,
+      "facilities": [
+        "elevator",
+        "ticket_machine",
+        "kiosk"
+      ]
+    },
+    {
+      "id": "S18",
+      "name": "Lakeside",
+      "location": {
+        "lat": 48.2314,
+        "lon": 16.33764
+      },
+      "zone": 200,
+      "wheelchairAccessible": true,
+      "facilities": [
+        "elevator",
+        "ticket_machine"
+      ]
+    },
+    {
+      "id": "S19",
+      "name": "Cathedral",
+      "location": {
+        "lat": 48.2075,
+        "lon": 16.31983
+      },
+      "zone": 100,
+      "wheelchairAccessible": true,
+      "facilities": [
+        "toilet",
+        "kiosk"
+      ]
+    },
+    {
+      "id": "S20",
+      "name": "Exhibition Centre",
+      "location": {
+        "lat": 48.2095,
+        "lon": 16.35516
+      },
+      "zone": 100,
+      "wheelchairAccessible": true,
+      "facilities": [
+        "shelter",
+        "elevator"
+      ]
+    },
+    {
+      "id": "S21",
+      "name": "Mill Lane",
+      "location": {
+        "lat": 48.20837,
+        "lon": 16.32423
+      },
+      "zone": 100,
+      "wheelchairAccessible": true,
+      "facilities": [
+        "bike_parking",
+        "elevator"
+      ]
+    },
+    {
+      "id": "S22",
+      "name": "Hillcrest",
+      "location": {
+        "lat": 48.25598,
+        "lon": 16.39551
+      },
+      "zone": 300,
+      "wheelchairAccessible": true,
+      "facilities": [
+        "kiosk"
+      ]
+    },
+    {
+      "id": "S23",
+      "name": "South Terminal",
+      "location": {
+        "lat": 48.2354,
+        "lon": 16.31047
+      },
+      "zone": 200,
+      "wheelchairAccessible": true,
+      "facilities": [
+        "shelter",
+        "toilet",
+        "ticket_machine"
+      ]
+    },
+    {
+      "id": "S24",
+      "name": "Botanical Garden",
+      "location": {
+        "lat": 48.20287,
+        "lon": 16.43103
+      },
+      "zone": 200,
+      "wheelchairAccessible": true,
+      "facilities": []
+    },
+    {
+      "id": "S25",
+      "name": "Library",
+      "location": {
+        "lat": 48.23172,
+        "lon": 16.35423
+      },
+      "zone": 100,
+      "wheelchairAccessible": false,
+      "facilities": [
+        "ticket_machine"
+      ]
+    },
+    {
+      "id": "S26",
+      "name": "Castle Hill",
+      "location": {
+        "lat": 48.22486,
+        "lon": 16.28165
+      },
+      "zone": 300,
+      "wheelchairAccessible": true,
+      "facilities": [
+        "ticket_machine",
+        "toilet"
+      ]
+    }
+  ],
+  "lines": [
+    {
+      "id": "U1",
+      "mode": "subway",
+      "color": "#E3000F",
+      "name": "U1: Airport – North Park",
+      "stops": [
+        {
+          "stopId": "S10",
+          "minutesFromStart": 0
+        },
+        {
+          "stopId": "S20",
+          "minutesFromStart": 4
+        },
+        {
+          "stopId": "S01",
+          "minutesFromStart": 8
+        },
+        {
+          "stopId": "S03",
+          "minutesFromStart": 12
+        },
+        {
+          "stopId": "S02",
+          "minutesFromStart": 15
+        },
+        {
+          "stopId": "S07",
+          "minutesFromStart": 19
+        },
+        {
+          "stopId": "S04",
+          "minutesFromStart": 22
+        },
+        {
+          "stopId": "S08",
+          "minutesFromStart": 24
+        }
+      ],
+      "service": {
+        "firstDeparture": "05:00",
+        "lastDeparture": "23:30",
+        "headwayMinutes": 5,
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ]
+      }
+    },
+    {
+      "id": "U2",
+      "mode": "subway",
+      "color": "#A762A3",
+      "name": "U2: Westgate – Eastgate",
+      "stops": [
+        {
+          "stopId": "S14",
+          "minutesFromStart": 0
+        },
+        {
+          "stopId": "S16",
+          "minutesFromStart": 3
+        },
+        {
+          "stopId": "S07",
+          "minutesFromStart": 7
+        },
+        {
+          "stopId": "S06",
+          "minutesFromStart": 11
+        },
+        {
+          "stopId": "S05",
+          "minutesFromStart": 14
+        },
+        {
+          "stopId": "S12",
+          "minutesFromStart": 17
+        },
+        {
+          "stopId": "S15",
+          "minutesFromStart": 21
+        }
+      ],
+      "service": {
+        "firstDeparture": "05:00",
+        "lastDeparture": "23:30",
+        "headwayMinutes": 5,
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ]
+      }
+    },
+    {
+      "id": "T5",
+      "mode": "tram",
+      "color": "#009540",
+      "name": "T5: Central Station – Hillcrest",
+      "stops": [
+        {
+          "stopId": "S01",
+          "minutesFromStart": 0
+        },
+        {
+          "stopId": "S25",
+          "minutesFromStart": 4
+        },
+        {
+          "stopId": "S19",
+          "minutesFromStart": 8
+        },
+        {
+          "stopId": "S02",
+          "minutesFromStart": 12
+        },
+        {
+          "stopId": "S26",
+          "minutesFromStart": 15
+        },
+        {
+          "stopId": "S22",
+          "minutesFromStart": 19
+        }
+      ],
+      "service": {
+        "firstDeparture": "05:00",
+        "lastDeparture": "23:30",
+        "headwayMinutes": 10,
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ]
+      }
+    },
+    {
+      "id": "T9",
+      "mode": "tram",
+      "color": "#F7A600",
+      "name": "T9: Harbour – Tech Campus",
+      "stops": [
+        {
+          "stopId": "S11",
+          "minutesFromStart": 0
+        },
+        {
+          "stopId": "S05",
+          "minutesFromStart": 3
+        },
+        {
+          "stopId": "S06",
+          "minutesFromStart": 7
+        },
+        {
+          "stopId": "S03",
+          "minutesFromStart": 12
+        },
+        {
+          "stopId": "S09",
+          "minutesFromStart": 15
+        },
+        {
+          "stopId": "S17",
+          "minutesFromStart": 20
+        }
+      ],
+      "service": {
+        "firstDeparture": "05:00",
+        "lastDeparture": "23:30",
+        "headwayMinutes": 10,
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ]
+      }
+    },
+    {
+      "id": "B12",
+      "mode": "bus",
+      "color": "#0072BC",
+      "name": "B12: South Terminal – Lakeside",
+      "stops": [
+        {
+          "stopId": "S23",
+          "minutesFromStart": 0
+        },
+        {
+          "stopId": "S21",
+          "minutesFromStart": 3
+        },
+        {
+          "stopId": "S24",
+          "minutesFromStart": 8
+        },
+        {
+          "stopId": "S13",
+          "minutesFromStart": 12
+        },
+        {
+          "stopId": "S04",
+          "minutesFromStart": 16
+        },
+        {
+          "stopId": "S17",
+          "minutesFromStart": 20
+        },
+        {
+          "stopId": "S18",
+          "minutesFromStart": 23
+        }
+      ],
+      "service": {
+        "firstDeparture": "05:00",
+        "lastDeparture": "23:30",
+        "headwayMinutes": 15,
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ]
+      }
+    },
+    {
+      "id": "B48A",
+      "mode": "bus",
+      "color": "#0072BC",
+      "name": "B48A: Lakeside – South Terminal",
+      "stops": [
+        {
+          "stopId": "S18",
+          "minutesFromStart": 0
+        },
+        {
+          "stopId": "S08",
+          "minutesFromStart": 3
+        },
+        {
+          "stopId": "S09",
+          "minutesFromStart": 7
+        },
+        {
+          "stopId": "S01",
+          "minutesFromStart": 11
+        },
+        {
+          "stopId": "S23",
+          "minutesFromStart": 14
+        }
+      ],
+      "service": {
+        "firstDeparture": "05:00",
+        "lastDeparture": "23:30",
+        "headwayMinutes": 15,
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat",
+          "Sun"
+        ]
+      }
+    },
+    {
+      "id": "N25",
+      "mode": "night_bus",
+      "color": "#1D1D1B",
+      "name": "N25: Central Station – Airport",
+      "stops": [
+        {
+          "stopId": "S01",
+          "minutesFromStart": 0
+        },
+        {
+          "stopId": "S02",
+          "minutesFromStart": 4
+        },
+        {
+          "stopId": "S05",
+          "minutesFromStart": 9
+        },
+        {
+          "stopId": "S11",
+          "minutesFromStart": 14
+        },
+        {
+          "stopId": "S10",
+          "minutesFromStart": 20
+        }
+      ],
+      "service": {
+        "firstDeparture": "00:30",
+        "lastDeparture": "04:30",
+        "headwayMinutes": 30,
+        "days": [
+          "Fri",
+          "Sat"
+        ]
+      }
+    }
+  ],
+  "tickets": [
+    {
+      "id": "single",
+      "name": "Single Ticket",
+      "price": 2.4,
+      "validMinutes": 90,
+      "zones": [
+        100
+      ]
+    },
+    {
+      "id": "single_all",
+      "name": "Single Ticket (all zones)",
+      "price": 3.9,
+      "validMinutes": 120,
+      "zones": [
+        100,
+        200,
+        300
+      ]
+    },
+    {
+      "id": "day",
+      "name": "24h Ticket",
+      "price": 8.0,
+      "validMinutes": 1440,
+      "zones": [
+        100,
+        200,
+        300
+      ]
+    },
+    {
+      "id": "week",
+      "name": "Weekly Pass",
+      "price": 17.1,
+      "validMinutes": 10080,
+      "zones": [
+        100,
+        200,
+        300
+      ]
+    },
+    {
+      "id": "year",
+      "name": "Annual Pass",
+      "price": 365.0,
+      "validMinutes": 525600,
+      "zones": [
+        100,
+        200,
+        300
+      ]
+    }
+  ],
+  "trips": [
+    {
+      "tripId": "U1-20261117-001",
+      "lineId": "U1",
+      "direction": "North Park",
+      "scheduledDeparture": "2026-11-17T07:00",
+      "delayMinutes": 1,
+      "cancelled": true,
+      "vehicle": {
+        "id": "S642",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U1-20261117-002",
+      "lineId": "U1",
+      "direction": "North Park",
+      "scheduledDeparture": "2026-11-17T07:05",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S393",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U1-20261117-003",
+      "lineId": "U1",
+      "direction": "North Park",
+      "scheduledDeparture": "2026-11-17T07:10",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S814",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U1-20261117-004",
+      "lineId": "U1",
+      "direction": "North Park",
+      "scheduledDeparture": "2026-11-17T07:15",
+      "delayMinutes": 1,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S283",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U1-20261117-005",
+      "lineId": "U1",
+      "direction": "North Park",
+      "scheduledDeparture": "2026-11-17T07:20",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S636",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U1-20261117-006",
+      "lineId": "U1",
+      "direction": "North Park",
+      "scheduledDeparture": "2026-11-17T07:25",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S734",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U1-20261117-007",
+      "lineId": "U1",
+      "direction": "North Park",
+      "scheduledDeparture": "2026-11-17T07:30",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S373",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U1-20261117-008",
+      "lineId": "U1",
+      "direction": "North Park",
+      "scheduledDeparture": "2026-11-17T07:35",
+      "delayMinutes": 1,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S515",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U1-20261117-009",
+      "lineId": "U1",
+      "direction": "North Park",
+      "scheduledDeparture": "2026-11-17T07:40",
+      "delayMinutes": 1,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S813",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U1-20261117-010",
+      "lineId": "U1",
+      "direction": "North Park",
+      "scheduledDeparture": "2026-11-17T07:45",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S947",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U1-20261117-011",
+      "lineId": "U1",
+      "direction": "North Park",
+      "scheduledDeparture": "2026-11-17T07:50",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S978",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U1-20261117-012",
+      "lineId": "U1",
+      "direction": "North Park",
+      "scheduledDeparture": "2026-11-17T07:55",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S488",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U1-20261117-013",
+      "lineId": "U1",
+      "direction": "North Park",
+      "scheduledDeparture": "2026-11-17T08:00",
+      "delayMinutes": 1,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S157",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U1-20261117-014",
+      "lineId": "U1",
+      "direction": "North Park",
+      "scheduledDeparture": "2026-11-17T08:05",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S184",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U1-20261117-015",
+      "lineId": "U1",
+      "direction": "North Park",
+      "scheduledDeparture": "2026-11-17T08:10",
+      "delayMinutes": 1,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S760",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U1-20261117-016",
+      "lineId": "U1",
+      "direction": "North Park",
+      "scheduledDeparture": "2026-11-17T08:15",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S978",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U1-20261117-017",
+      "lineId": "U1",
+      "direction": "North Park",
+      "scheduledDeparture": "2026-11-17T08:20",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S143",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U1-20261117-018",
+      "lineId": "U1",
+      "direction": "North Park",
+      "scheduledDeparture": "2026-11-17T08:25",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S988",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U1-20261117-019",
+      "lineId": "U1",
+      "direction": "North Park",
+      "scheduledDeparture": "2026-11-17T08:30",
+      "delayMinutes": 1,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S176",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U1-20261117-020",
+      "lineId": "U1",
+      "direction": "North Park",
+      "scheduledDeparture": "2026-11-17T08:35",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S677",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U1-20261117-021",
+      "lineId": "U1",
+      "direction": "North Park",
+      "scheduledDeparture": "2026-11-17T08:40",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S970",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U1-20261117-022",
+      "lineId": "U1",
+      "direction": "North Park",
+      "scheduledDeparture": "2026-11-17T08:45",
+      "delayMinutes": 0,
+      "cancelled": true,
+      "vehicle": {
+        "id": "S312",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U1-20261117-023",
+      "lineId": "U1",
+      "direction": "North Park",
+      "scheduledDeparture": "2026-11-17T08:50",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S829",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U1-20261117-024",
+      "lineId": "U1",
+      "direction": "North Park",
+      "scheduledDeparture": "2026-11-17T08:55",
+      "delayMinutes": 1,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S406",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U1-20261117-025",
+      "lineId": "U1",
+      "direction": "North Park",
+      "scheduledDeparture": "2026-11-17T09:00",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S680",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U2-20261117-001",
+      "lineId": "U2",
+      "direction": "Eastgate",
+      "scheduledDeparture": "2026-11-17T07:00",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S454",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U2-20261117-002",
+      "lineId": "U2",
+      "direction": "Eastgate",
+      "scheduledDeparture": "2026-11-17T07:05",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S337",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U2-20261117-003",
+      "lineId": "U2",
+      "direction": "Eastgate",
+      "scheduledDeparture": "2026-11-17T07:10",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S887",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U2-20261117-004",
+      "lineId": "U2",
+      "direction": "Eastgate",
+      "scheduledDeparture": "2026-11-17T07:15",
+      "delayMinutes": 1,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S434",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U2-20261117-005",
+      "lineId": "U2",
+      "direction": "Eastgate",
+      "scheduledDeparture": "2026-11-17T07:20",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S902",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U2-20261117-006",
+      "lineId": "U2",
+      "direction": "Eastgate",
+      "scheduledDeparture": "2026-11-17T07:25",
+      "delayMinutes": 1,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S464",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U2-20261117-007",
+      "lineId": "U2",
+      "direction": "Eastgate",
+      "scheduledDeparture": "2026-11-17T07:30",
+      "delayMinutes": 1,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S796",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U2-20261117-008",
+      "lineId": "U2",
+      "direction": "Eastgate",
+      "scheduledDeparture": "2026-11-17T07:35",
+      "delayMinutes": 1,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S733",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U2-20261117-009",
+      "lineId": "U2",
+      "direction": "Eastgate",
+      "scheduledDeparture": "2026-11-17T07:40",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S830",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U2-20261117-010",
+      "lineId": "U2",
+      "direction": "Eastgate",
+      "scheduledDeparture": "2026-11-17T07:45",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S257",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U2-20261117-011",
+      "lineId": "U2",
+      "direction": "Eastgate",
+      "scheduledDeparture": "2026-11-17T07:50",
+      "delayMinutes": 1,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S749",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U2-20261117-012",
+      "lineId": "U2",
+      "direction": "Eastgate",
+      "scheduledDeparture": "2026-11-17T07:55",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S424",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U2-20261117-013",
+      "lineId": "U2",
+      "direction": "Eastgate",
+      "scheduledDeparture": "2026-11-17T08:00",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S105",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U2-20261117-014",
+      "lineId": "U2",
+      "direction": "Eastgate",
+      "scheduledDeparture": "2026-11-17T08:05",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S879",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U2-20261117-015",
+      "lineId": "U2",
+      "direction": "Eastgate",
+      "scheduledDeparture": "2026-11-17T08:10",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S189",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U2-20261117-016",
+      "lineId": "U2",
+      "direction": "Eastgate",
+      "scheduledDeparture": "2026-11-17T08:15",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S670",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U2-20261117-017",
+      "lineId": "U2",
+      "direction": "Eastgate",
+      "scheduledDeparture": "2026-11-17T08:20",
+      "delayMinutes": 1,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S191",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U2-20261117-018",
+      "lineId": "U2",
+      "direction": "Eastgate",
+      "scheduledDeparture": "2026-11-17T08:25",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S711",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U2-20261117-019",
+      "lineId": "U2",
+      "direction": "Eastgate",
+      "scheduledDeparture": "2026-11-17T08:30",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S112",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U2-20261117-020",
+      "lineId": "U2",
+      "direction": "Eastgate",
+      "scheduledDeparture": "2026-11-17T08:35",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S897",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U2-20261117-021",
+      "lineId": "U2",
+      "direction": "Eastgate",
+      "scheduledDeparture": "2026-11-17T08:40",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S672",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U2-20261117-022",
+      "lineId": "U2",
+      "direction": "Eastgate",
+      "scheduledDeparture": "2026-11-17T08:45",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S273",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U2-20261117-023",
+      "lineId": "U2",
+      "direction": "Eastgate",
+      "scheduledDeparture": "2026-11-17T08:50",
+      "delayMinutes": 1,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S375",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U2-20261117-024",
+      "lineId": "U2",
+      "direction": "Eastgate",
+      "scheduledDeparture": "2026-11-17T08:55",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S249",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "U2-20261117-025",
+      "lineId": "U2",
+      "direction": "Eastgate",
+      "scheduledDeparture": "2026-11-17T09:00",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "S382",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "T5-20261117-001",
+      "lineId": "T5",
+      "direction": "Hillcrest",
+      "scheduledDeparture": "2026-11-17T07:00",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "T607",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "T5-20261117-002",
+      "lineId": "T5",
+      "direction": "Hillcrest",
+      "scheduledDeparture": "2026-11-17T07:10",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "T238",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "T5-20261117-003",
+      "lineId": "T5",
+      "direction": "Hillcrest",
+      "scheduledDeparture": "2026-11-17T07:20",
+      "delayMinutes": 3,
+      "cancelled": false,
+      "vehicle": {
+        "id": "T735",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "T5-20261117-004",
+      "lineId": "T5",
+      "direction": "Hillcrest",
+      "scheduledDeparture": "2026-11-17T07:30",
+      "delayMinutes": 2,
+      "cancelled": false,
+      "vehicle": {
+        "id": "T540",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "T5-20261117-005",
+      "lineId": "T5",
+      "direction": "Hillcrest",
+      "scheduledDeparture": "2026-11-17T07:40",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "T717",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "T5-20261117-006",
+      "lineId": "T5",
+      "direction": "Hillcrest",
+      "scheduledDeparture": "2026-11-17T07:50",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "T281",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "T5-20261117-007",
+      "lineId": "T5",
+      "direction": "Hillcrest",
+      "scheduledDeparture": "2026-11-17T08:00",
+      "delayMinutes": 2,
+      "cancelled": false,
+      "vehicle": {
+        "id": "T811",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "T5-20261117-008",
+      "lineId": "T5",
+      "direction": "Hillcrest",
+      "scheduledDeparture": "2026-11-17T08:10",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "T387",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "T5-20261117-009",
+      "lineId": "T5",
+      "direction": "Hillcrest",
+      "scheduledDeparture": "2026-11-17T08:20",
+      "delayMinutes": 3,
+      "cancelled": false,
+      "vehicle": {
+        "id": "T677",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "T5-20261117-010",
+      "lineId": "T5",
+      "direction": "Hillcrest",
+      "scheduledDeparture": "2026-11-17T08:30",
+      "delayMinutes": 8,
+      "cancelled": false,
+      "vehicle": {
+        "id": "T886",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "T5-20261117-011",
+      "lineId": "T5",
+      "direction": "Hillcrest",
+      "scheduledDeparture": "2026-11-17T08:40",
+      "delayMinutes": 5,
+      "cancelled": false,
+      "vehicle": {
+        "id": "T314",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "T5-20261117-012",
+      "lineId": "T5",
+      "direction": "Hillcrest",
+      "scheduledDeparture": "2026-11-17T08:50",
+      "delayMinutes": 1,
+      "cancelled": false,
+      "vehicle": {
+        "id": "T170",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "T5-20261117-013",
+      "lineId": "T5",
+      "direction": "Hillcrest",
+      "scheduledDeparture": "2026-11-17T09:00",
+      "delayMinutes": 3,
+      "cancelled": false,
+      "vehicle": {
+        "id": "T242",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "T9-20261117-001",
+      "lineId": "T9",
+      "direction": "Tech Campus",
+      "scheduledDeparture": "2026-11-17T07:00",
+      "delayMinutes": 3,
+      "cancelled": false,
+      "vehicle": {
+        "id": "T712",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "T9-20261117-002",
+      "lineId": "T9",
+      "direction": "Tech Campus",
+      "scheduledDeparture": "2026-11-17T07:10",
+      "delayMinutes": 3,
+      "cancelled": false,
+      "vehicle": {
+        "id": "T990",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "T9-20261117-003",
+      "lineId": "T9",
+      "direction": "Tech Campus",
+      "scheduledDeparture": "2026-11-17T07:20",
+      "delayMinutes": 8,
+      "cancelled": false,
+      "vehicle": {
+        "id": "T468",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "T9-20261117-004",
+      "lineId": "T9",
+      "direction": "Tech Campus",
+      "scheduledDeparture": "2026-11-17T07:30",
+      "delayMinutes": 8,
+      "cancelled": false,
+      "vehicle": {
+        "id": "T187",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "T9-20261117-005",
+      "lineId": "T9",
+      "direction": "Tech Campus",
+      "scheduledDeparture": "2026-11-17T07:40",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "T463",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "T9-20261117-006",
+      "lineId": "T9",
+      "direction": "Tech Campus",
+      "scheduledDeparture": "2026-11-17T07:50",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "T760",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "T9-20261117-007",
+      "lineId": "T9",
+      "direction": "Tech Campus",
+      "scheduledDeparture": "2026-11-17T08:00",
+      "delayMinutes": 3,
+      "cancelled": false,
+      "vehicle": {
+        "id": "T439",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "T9-20261117-008",
+      "lineId": "T9",
+      "direction": "Tech Campus",
+      "scheduledDeparture": "2026-11-17T08:10",
+      "delayMinutes": 3,
+      "cancelled": false,
+      "vehicle": {
+        "id": "T200",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "T9-20261117-009",
+      "lineId": "T9",
+      "direction": "Tech Campus",
+      "scheduledDeparture": "2026-11-17T08:20",
+      "delayMinutes": 8,
+      "cancelled": false,
+      "vehicle": {
+        "id": "T671",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "T9-20261117-010",
+      "lineId": "T9",
+      "direction": "Tech Campus",
+      "scheduledDeparture": "2026-11-17T08:30",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "T500",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "T9-20261117-011",
+      "lineId": "T9",
+      "direction": "Tech Campus",
+      "scheduledDeparture": "2026-11-17T08:40",
+      "delayMinutes": 8,
+      "cancelled": false,
+      "vehicle": {
+        "id": "T125",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "T9-20261117-012",
+      "lineId": "T9",
+      "direction": "Tech Campus",
+      "scheduledDeparture": "2026-11-17T08:50",
+      "delayMinutes": 1,
+      "cancelled": false,
+      "vehicle": {
+        "id": "T187",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "T9-20261117-013",
+      "lineId": "T9",
+      "direction": "Tech Campus",
+      "scheduledDeparture": "2026-11-17T09:00",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "T451",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "B12-20261117-001",
+      "lineId": "B12",
+      "direction": "Lakeside",
+      "scheduledDeparture": "2026-11-17T07:00",
+      "delayMinutes": 5,
+      "cancelled": false,
+      "vehicle": {
+        "id": "B407",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "B12-20261117-002",
+      "lineId": "B12",
+      "direction": "Lakeside",
+      "scheduledDeparture": "2026-11-17T07:15",
+      "delayMinutes": 0,
+      "cancelled": true,
+      "vehicle": {
+        "id": "B451",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "B12-20261117-003",
+      "lineId": "B12",
+      "direction": "Lakeside",
+      "scheduledDeparture": "2026-11-17T07:30",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "B858",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "B12-20261117-004",
+      "lineId": "B12",
+      "direction": "Lakeside",
+      "scheduledDeparture": "2026-11-17T07:45",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "B438",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "B12-20261117-005",
+      "lineId": "B12",
+      "direction": "Lakeside",
+      "scheduledDeparture": "2026-11-17T08:00",
+      "delayMinutes": 5,
+      "cancelled": false,
+      "vehicle": {
+        "id": "B514",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "B12-20261117-006",
+      "lineId": "B12",
+      "direction": "Lakeside",
+      "scheduledDeparture": "2026-11-17T08:15",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "B542",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "B12-20261117-007",
+      "lineId": "B12",
+      "direction": "Lakeside",
+      "scheduledDeparture": "2026-11-17T08:30",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "B539",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "B12-20261117-008",
+      "lineId": "B12",
+      "direction": "Lakeside",
+      "scheduledDeparture": "2026-11-17T08:45",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "B870",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "B12-20261117-009",
+      "lineId": "B12",
+      "direction": "Lakeside",
+      "scheduledDeparture": "2026-11-17T09:00",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "B918",
+        "lowFloor": false
+      }
+    },
+    {
+      "tripId": "B48A-20261117-001",
+      "lineId": "B48A",
+      "direction": "South Terminal",
+      "scheduledDeparture": "2026-11-17T07:00",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "B983",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "B48A-20261117-002",
+      "lineId": "B48A",
+      "direction": "South Terminal",
+      "scheduledDeparture": "2026-11-17T07:15",
+      "delayMinutes": 2,
+      "cancelled": false,
+      "vehicle": {
+        "id": "B725",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "B48A-20261117-003",
+      "lineId": "B48A",
+      "direction": "South Terminal",
+      "scheduledDeparture": "2026-11-17T07:30",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "B965",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "B48A-20261117-004",
+      "lineId": "B48A",
+      "direction": "South Terminal",
+      "scheduledDeparture": "2026-11-17T07:45",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "B822",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "B48A-20261117-005",
+      "lineId": "B48A",
+      "direction": "South Terminal",
+      "scheduledDeparture": "2026-11-17T08:00",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "B420",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "B48A-20261117-006",
+      "lineId": "B48A",
+      "direction": "South Terminal",
+      "scheduledDeparture": "2026-11-17T08:15",
+      "delayMinutes": 1,
+      "cancelled": false,
+      "vehicle": {
+        "id": "B482",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "B48A-20261117-007",
+      "lineId": "B48A",
+      "direction": "South Terminal",
+      "scheduledDeparture": "2026-11-17T08:30",
+      "delayMinutes": 8,
+      "cancelled": false,
+      "vehicle": {
+        "id": "B710",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "B48A-20261117-008",
+      "lineId": "B48A",
+      "direction": "South Terminal",
+      "scheduledDeparture": "2026-11-17T08:45",
+      "delayMinutes": 3,
+      "cancelled": false,
+      "vehicle": {
+        "id": "B598",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "B48A-20261117-009",
+      "lineId": "B48A",
+      "direction": "South Terminal",
+      "scheduledDeparture": "2026-11-17T09:00",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "B601",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "N25-20261120-001",
+      "lineId": "N25",
+      "direction": "Airport",
+      "scheduledDeparture": "2026-11-20T00:30",
+      "delayMinutes": 2,
+      "cancelled": false,
+      "vehicle": {
+        "id": "N596",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "N25-20261120-002",
+      "lineId": "N25",
+      "direction": "Airport",
+      "scheduledDeparture": "2026-11-20T01:00",
+      "delayMinutes": 3,
+      "cancelled": false,
+      "vehicle": {
+        "id": "N617",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "N25-20261120-003",
+      "lineId": "N25",
+      "direction": "Airport",
+      "scheduledDeparture": "2026-11-20T01:30",
+      "delayMinutes": 3,
+      "cancelled": false,
+      "vehicle": {
+        "id": "N525",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "N25-20261120-004",
+      "lineId": "N25",
+      "direction": "Airport",
+      "scheduledDeparture": "2026-11-20T02:00",
+      "delayMinutes": 5,
+      "cancelled": false,
+      "vehicle": {
+        "id": "N184",
+        "lowFloor": true
+      }
+    },
+    {
+      "tripId": "N25-20261120-005",
+      "lineId": "N25",
+      "direction": "Airport",
+      "scheduledDeparture": "2026-11-20T02:30",
+      "delayMinutes": 0,
+      "cancelled": false,
+      "vehicle": {
+        "id": "N381",
+        "lowFloor": true
+      }
+    }
+  ]
+}

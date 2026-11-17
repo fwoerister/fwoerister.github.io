@@ -1,0 +1,1120 @@
+{
+  "referenceDate": "2026-11-17",
+  "lateFeePerDay": 0.2,
+  "books": [
+    {
+      "id": "B001",
+      "title": "1984",
+      "author": "George Orwell",
+      "firstPublished": 1949,
+      "genre": "Dystopian",
+      "copies": 3,
+      "pages": 464,
+      "shelf": "D-8"
+    },
+    {
+      "id": "B002",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "firstPublished": 1960,
+      "genre": "Classic",
+      "copies": 4,
+      "pages": 1166,
+      "shelf": "C-2"
+    },
+    {
+      "id": "B003",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "firstPublished": 1813,
+      "genre": "Romance",
+      "copies": 1,
+      "pages": 668,
+      "shelf": "R-9"
+    },
+    {
+      "id": "B004",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "firstPublished": 1937,
+      "genre": "Fantasy",
+      "copies": 3,
+      "pages": 205,
+      "shelf": "F-8"
+    },
+    {
+      "id": "B005",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "firstPublished": 1932,
+      "genre": "Dystopian",
+      "copies": 2,
+      "pages": 990,
+      "shelf": "D-2"
+    },
+    {
+      "id": "B006",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "firstPublished": 1925,
+      "genre": "Classic",
+      "copies": 2,
+      "pages": 729,
+      "shelf": "C-1"
+    },
+    {
+      "id": "B007",
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "firstPublished": 1851,
+      "genre": "Adventure",
+      "copies": 4,
+      "pages": 658,
+      "shelf": "A-6"
+    },
+    {
+      "id": "B008",
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "firstPublished": 1965,
+      "genre": "Science Fiction",
+      "copies": 1,
+      "pages": 1019,
+      "shelf": "S-2"
+    },
+    {
+      "id": "B009",
+      "title": "The Metamorphosis",
+      "author": "Franz Kafka",
+      "firstPublished": 1915,
+      "genre": "Classic",
+      "copies": 2,
+      "pages": 549,
+      "shelf": "C-6"
+    },
+    {
+      "id": "B010",
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "firstPublished": 1866,
+      "genre": "Classic",
+      "copies": 4,
+      "pages": 459,
+      "shelf": "C-3"
+    },
+    {
+      "id": "B011",
+      "title": "Foundation",
+      "author": "Isaac Asimov",
+      "firstPublished": 1951,
+      "genre": "Science Fiction",
+      "copies": 2,
+      "pages": 543,
+      "shelf": "S-1"
+    },
+    {
+      "id": "B012",
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "firstPublished": 1818,
+      "genre": "Horror",
+      "copies": 3,
+      "pages": 695,
+      "shelf": "H-9"
+    },
+    {
+      "id": "B013",
+      "title": "The Name of the Rose",
+      "author": "Umberto Eco",
+      "firstPublished": 1980,
+      "genre": "Mystery",
+      "copies": 2,
+      "pages": 782,
+      "shelf": "M-5"
+    },
+    {
+      "id": "B014",
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "firstPublished": 1967,
+      "genre": "Magical Realism",
+      "copies": 3,
+      "pages": 667,
+      "shelf": "M-9"
+    },
+    {
+      "id": "B015",
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "firstPublished": 1979,
+      "genre": "Science Fiction",
+      "copies": 1,
+      "pages": 397,
+      "shelf": "S-7"
+    },
+    {
+      "id": "B016",
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "firstPublished": 1945,
+      "genre": "Satire",
+      "copies": 1,
+      "pages": 687,
+      "shelf": "S-3"
+    },
+    {
+      "id": "B017",
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "firstPublished": 1953,
+      "genre": "Dystopian",
+      "copies": 2,
+      "pages": 631,
+      "shelf": "D-3"
+    },
+    {
+      "id": "B018",
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "firstPublished": 1847,
+      "genre": "Romance",
+      "copies": 3,
+      "pages": 626,
+      "shelf": "R-7"
+    },
+    {
+      "id": "B019",
+      "title": "The Trial",
+      "author": "Franz Kafka",
+      "firstPublished": 1925,
+      "genre": "Classic",
+      "copies": 4,
+      "pages": 411,
+      "shelf": "C-5"
+    },
+    {
+      "id": "B020",
+      "title": "Murder on the Orient Express",
+      "author": "Agatha Christie",
+      "firstPublished": 1934,
+      "genre": "Mystery",
+      "copies": 4,
+      "pages": 888,
+      "shelf": "M-8"
+    },
+    {
+      "id": "B021",
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "firstPublished": 1954,
+      "genre": "Fantasy",
+      "copies": 1,
+      "pages": 310,
+      "shelf": "F-7"
+    },
+    {
+      "id": "B022",
+      "title": "Siddhartha",
+      "author": "Hermann Hesse",
+      "firstPublished": 1922,
+      "genre": "Philosophical",
+      "copies": 3,
+      "pages": 875,
+      "shelf": "P-8"
+    },
+    {
+      "id": "B023",
+      "title": "The Left Hand of Darkness",
+      "author": "Ursula K. Le Guin",
+      "firstPublished": 1969,
+      "genre": "Science Fiction",
+      "copies": 4,
+      "pages": 790,
+      "shelf": "S-1"
+    },
+    {
+      "id": "B024",
+      "title": "Emma",
+      "author": "Jane Austen",
+      "firstPublished": 1815,
+      "genre": "Romance",
+      "copies": 1,
+      "pages": 1058,
+      "shelf": "R-6"
+    },
+    {
+      "id": "B025",
+      "title": "Neuromancer",
+      "author": "William Gibson",
+      "firstPublished": 1984,
+      "genre": "Science Fiction",
+      "copies": 1,
+      "pages": 934,
+      "shelf": "S-4"
+    }
+  ],
+  "members": [
+    {
+      "id": "M001",
+      "name": "Mia Eder",
+      "email": "mia.eder@mail.example",
+      "membership": "senior",
+      "joined": "2018-01-04"
+    },
+    {
+      "id": "M002",
+      "name": "Ulrich Schwarz",
+      "email": "ulrich.schwarz@mail.example",
+      "membership": "student",
+      "joined": "2021-02-19"
+    },
+    {
+      "id": "M003",
+      "name": "Matteo Mayer",
+      "email": "matteo.mayer@mail.example",
+      "membership": "premium",
+      "joined": "2024-07-23"
+    },
+    {
+      "id": "M004",
+      "name": "Lea Reiter",
+      "email": "lea.reiter@mail.example",
+      "membership": "standard",
+      "joined": "2015-07-08"
+    },
+    {
+      "id": "M005",
+      "name": "Greta Auer",
+      "email": "greta.auer@mail.example",
+      "membership": "standard",
+      "joined": "2016-05-23"
+    },
+    {
+      "id": "M006",
+      "name": "Karl Baumgartner",
+      "email": "karl.baumgartner@mail.example",
+      "membership": "senior",
+      "joined": "2015-01-03"
+    },
+    {
+      "id": "M007",
+      "name": "Mia Fuchs",
+      "email": "mia.fuchs@mail.example",
+      "membership": "standard",
+      "joined": "2024-11-22"
+    },
+    {
+      "id": "M008",
+      "name": "Tara Leitner",
+      "email": "tara.leitner@mail.example",
+      "membership": "student",
+      "joined": "2016-01-18"
+    },
+    {
+      "id": "M009",
+      "name": "Xenia Winkler",
+      "email": "xenia.winkler@mail.example",
+      "membership": "standard",
+      "joined": "2019-03-04"
+    },
+    {
+      "id": "M010",
+      "name": "Karl Wagner",
+      "email": "karl.wagner@mail.example",
+      "membership": "senior",
+      "joined": "2022-01-06"
+    },
+    {
+      "id": "M011",
+      "name": "Tara Fischer",
+      "email": "tara.fischer@mail.example",
+      "membership": "senior",
+      "joined": "2022-05-08"
+    },
+    {
+      "id": "M012",
+      "name": "Felix Steiner",
+      "email": "felix.steiner@mail.example",
+      "membership": "standard",
+      "joined": "2017-05-24"
+    },
+    {
+      "id": "M013",
+      "name": "Elias Müller",
+      "email": "elias.mueller@mail.example",
+      "membership": "standard",
+      "joined": "2021-08-28"
+    },
+    {
+      "id": "M014",
+      "name": "Oliver Wallner",
+      "email": "oliver.wallner@mail.example",
+      "membership": "senior",
+      "joined": "2015-02-08"
+    },
+    {
+      "id": "M015",
+      "name": "Anna Reiter",
+      "email": "anna.reiter@mail.example",
+      "membership": "standard",
+      "joined": "2024-08-24"
+    },
+    {
+      "id": "M016",
+      "name": "Mia Mayer",
+      "email": "mia.mayer@mail.example",
+      "membership": "senior",
+      "joined": "2015-10-18"
+    },
+    {
+      "id": "M017",
+      "name": "Oliver Wimmer",
+      "email": "oliver.wimmer@mail.example",
+      "membership": "standard",
+      "joined": "2023-03-13"
+    },
+    {
+      "id": "M018",
+      "name": "Greta Steiner",
+      "email": "greta.steiner@mail.example",
+      "membership": "student",
+      "joined": "2019-02-14"
+    },
+    {
+      "id": "M019",
+      "name": "Tara Mayer",
+      "email": "tara.mayer@mail.example",
+      "membership": "senior",
+      "joined": "2023-09-04"
+    },
+    {
+      "id": "M020",
+      "name": "Ivan Hofer",
+      "email": "ivan.hofer@mail.example",
+      "membership": "standard",
+      "joined": "2020-12-12"
+    }
+  ],
+  "loans": [
+    {
+      "id": 1,
+      "bookId": "B013",
+      "memberId": "M010",
+      "loanDate": "2026-06-01",
+      "dueDate": "2026-06-22",
+      "returnDate": null,
+      "extended": true
+    },
+    {
+      "id": 2,
+      "bookId": "B017",
+      "memberId": "M017",
+      "loanDate": "2026-06-03",
+      "dueDate": "2026-06-24",
+      "returnDate": "2026-06-27",
+      "extended": false
+    },
+    {
+      "id": 3,
+      "bookId": "B012",
+      "memberId": "M013",
+      "loanDate": "2026-06-04",
+      "dueDate": "2026-06-25",
+      "returnDate": "2026-07-06",
+      "extended": false
+    },
+    {
+      "id": 4,
+      "bookId": "B001",
+      "memberId": "M009",
+      "loanDate": "2026-06-07",
+      "dueDate": "2026-06-28",
+      "returnDate": "2026-06-23",
+      "extended": true
+    },
+    {
+      "id": 5,
+      "bookId": "B002",
+      "memberId": "M013",
+      "loanDate": "2026-06-14",
+      "dueDate": "2026-07-05",
+      "returnDate": "2026-07-19",
+      "extended": true
+    },
+    {
+      "id": 6,
+      "bookId": "B013",
+      "memberId": "M017",
+      "loanDate": "2026-06-16",
+      "dueDate": "2026-07-07",
+      "returnDate": null,
+      "extended": false
+    },
+    {
+      "id": 7,
+      "bookId": "B012",
+      "memberId": "M011",
+      "loanDate": "2026-06-19",
+      "dueDate": "2026-07-10",
+      "returnDate": "2026-06-21",
+      "extended": true
+    },
+    {
+      "id": 8,
+      "bookId": "B001",
+      "memberId": "M009",
+      "loanDate": "2026-06-19",
+      "dueDate": "2026-07-10",
+      "returnDate": "2026-06-25",
+      "extended": false
+    },
+    {
+      "id": 9,
+      "bookId": "B007",
+      "memberId": "M015",
+      "loanDate": "2026-06-20",
+      "dueDate": "2026-07-11",
+      "returnDate": "2026-06-26",
+      "extended": false
+    },
+    {
+      "id": 10,
+      "bookId": "B006",
+      "memberId": "M003",
+      "loanDate": "2026-06-20",
+      "dueDate": "2026-07-11",
+      "returnDate": "2026-07-12",
+      "extended": false
+    },
+    {
+      "id": 11,
+      "bookId": "B014",
+      "memberId": "M007",
+      "loanDate": "2026-06-23",
+      "dueDate": "2026-07-14",
+      "returnDate": "2026-07-03",
+      "extended": false
+    },
+    {
+      "id": 12,
+      "bookId": "B011",
+      "memberId": "M004",
+      "loanDate": "2026-06-24",
+      "dueDate": "2026-07-15",
+      "returnDate": null,
+      "extended": true
+    },
+    {
+      "id": 13,
+      "bookId": "B011",
+      "memberId": "M014",
+      "loanDate": "2026-06-28",
+      "dueDate": "2026-07-19",
+      "returnDate": "2026-07-29",
+      "extended": true
+    },
+    {
+      "id": 14,
+      "bookId": "B001",
+      "memberId": "M002",
+      "loanDate": "2026-06-30",
+      "dueDate": "2026-07-21",
+      "returnDate": "2026-08-03",
+      "extended": false
+    },
+    {
+      "id": 15,
+      "bookId": "B001",
+      "memberId": "M011",
+      "loanDate": "2026-07-01",
+      "dueDate": "2026-07-22",
+      "returnDate": null,
+      "extended": false
+    },
+    {
+      "id": 16,
+      "bookId": "B025",
+      "memberId": "M008",
+      "loanDate": "2026-07-06",
+      "dueDate": "2026-07-27",
+      "returnDate": "2026-07-11",
+      "extended": true
+    },
+    {
+      "id": 17,
+      "bookId": "B003",
+      "memberId": "M002",
+      "loanDate": "2026-07-07",
+      "dueDate": "2026-07-28",
+      "returnDate": null,
+      "extended": false
+    },
+    {
+      "id": 18,
+      "bookId": "B025",
+      "memberId": "M004",
+      "loanDate": "2026-07-13",
+      "dueDate": "2026-08-03",
+      "returnDate": "2026-07-31",
+      "extended": false
+    },
+    {
+      "id": 19,
+      "bookId": "B002",
+      "memberId": "M018",
+      "loanDate": "2026-07-16",
+      "dueDate": "2026-08-06",
+      "returnDate": null,
+      "extended": false
+    },
+    {
+      "id": 20,
+      "bookId": "B010",
+      "memberId": "M002",
+      "loanDate": "2026-07-19",
+      "dueDate": "2026-08-09",
+      "returnDate": null,
+      "extended": false
+    },
+    {
+      "id": 21,
+      "bookId": "B005",
+      "memberId": "M004",
+      "loanDate": "2026-07-26",
+      "dueDate": "2026-08-16",
+      "returnDate": "2026-08-03",
+      "extended": false
+    },
+    {
+      "id": 22,
+      "bookId": "B008",
+      "memberId": "M016",
+      "loanDate": "2026-08-01",
+      "dueDate": "2026-08-22",
+      "returnDate": "2026-08-10",
+      "extended": false
+    },
+    {
+      "id": 23,
+      "bookId": "B014",
+      "memberId": "M004",
+      "loanDate": "2026-08-01",
+      "dueDate": "2026-08-22",
+      "returnDate": "2026-08-08",
+      "extended": false
+    },
+    {
+      "id": 24,
+      "bookId": "B025",
+      "memberId": "M008",
+      "loanDate": "2026-08-01",
+      "dueDate": "2026-08-22",
+      "returnDate": "2026-08-06",
+      "extended": false
+    },
+    {
+      "id": 25,
+      "bookId": "B014",
+      "memberId": "M018",
+      "loanDate": "2026-08-02",
+      "dueDate": "2026-08-23",
+      "returnDate": "2026-09-04",
+      "extended": false
+    },
+    {
+      "id": 26,
+      "bookId": "B024",
+      "memberId": "M009",
+      "loanDate": "2026-08-06",
+      "dueDate": "2026-08-27",
+      "returnDate": "2026-08-16",
+      "extended": false
+    },
+    {
+      "id": 27,
+      "bookId": "B003",
+      "memberId": "M006",
+      "loanDate": "2026-08-07",
+      "dueDate": "2026-08-28",
+      "returnDate": null,
+      "extended": false
+    },
+    {
+      "id": 28,
+      "bookId": "B023",
+      "memberId": "M019",
+      "loanDate": "2026-08-09",
+      "dueDate": "2026-08-30",
+      "returnDate": "2026-08-27",
+      "extended": false
+    },
+    {
+      "id": 29,
+      "bookId": "B005",
+      "memberId": "M019",
+      "loanDate": "2026-08-09",
+      "dueDate": "2026-08-30",
+      "returnDate": "2026-08-23",
+      "extended": true
+    },
+    {
+      "id": 30,
+      "bookId": "B002",
+      "memberId": "M020",
+      "loanDate": "2026-08-10",
+      "dueDate": "2026-08-31",
+      "returnDate": "2026-08-21",
+      "extended": false
+    },
+    {
+      "id": 31,
+      "bookId": "B001",
+      "memberId": "M013",
+      "loanDate": "2026-08-16",
+      "dueDate": "2026-09-06",
+      "returnDate": "2026-08-29",
+      "extended": false
+    },
+    {
+      "id": 32,
+      "bookId": "B008",
+      "memberId": "M015",
+      "loanDate": "2026-08-17",
+      "dueDate": "2026-09-07",
+      "returnDate": null,
+      "extended": false
+    },
+    {
+      "id": 33,
+      "bookId": "B023",
+      "memberId": "M020",
+      "loanDate": "2026-08-17",
+      "dueDate": "2026-09-07",
+      "returnDate": null,
+      "extended": true
+    },
+    {
+      "id": 34,
+      "bookId": "B013",
+      "memberId": "M011",
+      "loanDate": "2026-08-20",
+      "dueDate": "2026-09-10",
+      "returnDate": null,
+      "extended": false
+    },
+    {
+      "id": 35,
+      "bookId": "B019",
+      "memberId": "M012",
+      "loanDate": "2026-08-21",
+      "dueDate": "2026-09-11",
+      "returnDate": "2026-08-27",
+      "extended": true
+    },
+    {
+      "id": 36,
+      "bookId": "B012",
+      "memberId": "M013",
+      "loanDate": "2026-08-23",
+      "dueDate": "2026-09-13",
+      "returnDate": "2026-09-09",
+      "extended": false
+    },
+    {
+      "id": 37,
+      "bookId": "B006",
+      "memberId": "M014",
+      "loanDate": "2026-08-26",
+      "dueDate": "2026-09-16",
+      "returnDate": "2026-09-05",
+      "extended": false
+    },
+    {
+      "id": 38,
+      "bookId": "B011",
+      "memberId": "M002",
+      "loanDate": "2026-08-27",
+      "dueDate": "2026-09-17",
+      "returnDate": null,
+      "extended": true
+    },
+    {
+      "id": 39,
+      "bookId": "B007",
+      "memberId": "M015",
+      "loanDate": "2026-08-31",
+      "dueDate": "2026-09-21",
+      "returnDate": null,
+      "extended": false
+    },
+    {
+      "id": 40,
+      "bookId": "B001",
+      "memberId": "M012",
+      "loanDate": "2026-08-31",
+      "dueDate": "2026-09-21",
+      "returnDate": null,
+      "extended": false
+    },
+    {
+      "id": 41,
+      "bookId": "B012",
+      "memberId": "M013",
+      "loanDate": "2026-09-02",
+      "dueDate": "2026-09-23",
+      "returnDate": null,
+      "extended": false
+    },
+    {
+      "id": 42,
+      "bookId": "B005",
+      "memberId": "M006",
+      "loanDate": "2026-09-05",
+      "dueDate": "2026-09-26",
+      "returnDate": "2026-09-25",
+      "extended": false
+    },
+    {
+      "id": 43,
+      "bookId": "B012",
+      "memberId": "M007",
+      "loanDate": "2026-09-06",
+      "dueDate": "2026-09-27",
+      "returnDate": "2026-09-19",
+      "extended": false
+    },
+    {
+      "id": 44,
+      "bookId": "B011",
+      "memberId": "M005",
+      "loanDate": "2026-09-07",
+      "dueDate": "2026-09-28",
+      "returnDate": "2026-10-06",
+      "extended": false
+    },
+    {
+      "id": 45,
+      "bookId": "B006",
+      "memberId": "M008",
+      "loanDate": "2026-09-08",
+      "dueDate": "2026-09-29",
+      "returnDate": "2026-09-21",
+      "extended": false
+    },
+    {
+      "id": 46,
+      "bookId": "B019",
+      "memberId": "M019",
+      "loanDate": "2026-09-11",
+      "dueDate": "2026-10-02",
+      "returnDate": "2026-09-18",
+      "extended": false
+    },
+    {
+      "id": 47,
+      "bookId": "B021",
+      "memberId": "M001",
+      "loanDate": "2026-09-13",
+      "dueDate": "2026-10-04",
+      "returnDate": "2026-10-07",
+      "extended": false
+    },
+    {
+      "id": 48,
+      "bookId": "B008",
+      "memberId": "M010",
+      "loanDate": "2026-09-20",
+      "dueDate": "2026-10-11",
+      "returnDate": "2026-09-30",
+      "extended": false
+    },
+    {
+      "id": 49,
+      "bookId": "B024",
+      "memberId": "M013",
+      "loanDate": "2026-09-27",
+      "dueDate": "2026-10-18",
+      "returnDate": "2026-10-26",
+      "extended": false
+    },
+    {
+      "id": 50,
+      "bookId": "B025",
+      "memberId": "M010",
+      "loanDate": "2026-09-28",
+      "dueDate": "2026-10-19",
+      "returnDate": null,
+      "extended": false
+    },
+    {
+      "id": 51,
+      "bookId": "B006",
+      "memberId": "M004",
+      "loanDate": "2026-09-29",
+      "dueDate": "2026-10-20",
+      "returnDate": "2026-10-15",
+      "extended": false
+    },
+    {
+      "id": 52,
+      "bookId": "B011",
+      "memberId": "M013",
+      "loanDate": "2026-10-03",
+      "dueDate": "2026-10-24",
+      "returnDate": "2026-11-06",
+      "extended": false
+    },
+    {
+      "id": 53,
+      "bookId": "B023",
+      "memberId": "M018",
+      "loanDate": "2026-10-03",
+      "dueDate": "2026-10-24",
+      "returnDate": "2026-10-16",
+      "extended": false
+    },
+    {
+      "id": 54,
+      "bookId": "B008",
+      "memberId": "M020",
+      "loanDate": "2026-10-04",
+      "dueDate": "2026-10-25",
+      "returnDate": "2026-10-09",
+      "extended": false
+    },
+    {
+      "id": 55,
+      "bookId": "B025",
+      "memberId": "M007",
+      "loanDate": "2026-10-05",
+      "dueDate": "2026-10-26",
+      "returnDate": null,
+      "extended": false
+    },
+    {
+      "id": 56,
+      "bookId": "B002",
+      "memberId": "M016",
+      "loanDate": "2026-10-06",
+      "dueDate": "2026-10-27",
+      "returnDate": "2026-10-31",
+      "extended": false
+    },
+    {
+      "id": 57,
+      "bookId": "B014",
+      "memberId": "M013",
+      "loanDate": "2026-10-07",
+      "dueDate": "2026-10-28",
+      "returnDate": null,
+      "extended": true
+    },
+    {
+      "id": 58,
+      "bookId": "B003",
+      "memberId": "M019",
+      "loanDate": "2026-10-08",
+      "dueDate": "2026-10-29",
+      "returnDate": "2026-11-04",
+      "extended": false
+    },
+    {
+      "id": 59,
+      "bookId": "B005",
+      "memberId": "M018",
+      "loanDate": "2026-10-09",
+      "dueDate": "2026-10-30",
+      "returnDate": null,
+      "extended": false
+    },
+    {
+      "id": 60,
+      "bookId": "B015",
+      "memberId": "M003",
+      "loanDate": "2026-10-12",
+      "dueDate": "2026-11-02",
+      "returnDate": "2026-11-06",
+      "extended": false
+    },
+    {
+      "id": 61,
+      "bookId": "B013",
+      "memberId": "M012",
+      "loanDate": "2026-10-13",
+      "dueDate": "2026-11-03",
+      "returnDate": "2026-10-16",
+      "extended": false
+    },
+    {
+      "id": 62,
+      "bookId": "B020",
+      "memberId": "M007",
+      "loanDate": "2026-10-13",
+      "dueDate": "2026-11-03",
+      "returnDate": "2026-11-05",
+      "extended": false
+    },
+    {
+      "id": 63,
+      "bookId": "B014",
+      "memberId": "M016",
+      "loanDate": "2026-10-14",
+      "dueDate": "2026-11-04",
+      "returnDate": null,
+      "extended": false
+    },
+    {
+      "id": 64,
+      "bookId": "B009",
+      "memberId": "M003",
+      "loanDate": "2026-10-16",
+      "dueDate": "2026-11-06",
+      "returnDate": "2026-10-27",
+      "extended": false
+    },
+    {
+      "id": 65,
+      "bookId": "B008",
+      "memberId": "M005",
+      "loanDate": "2026-10-18",
+      "dueDate": "2026-11-08",
+      "returnDate": null,
+      "extended": true
+    },
+    {
+      "id": 66,
+      "bookId": "B007",
+      "memberId": "M010",
+      "loanDate": "2026-10-20",
+      "dueDate": "2026-11-10",
+      "returnDate": "2026-11-14",
+      "extended": false
+    },
+    {
+      "id": 67,
+      "bookId": "B008",
+      "memberId": "M004",
+      "loanDate": "2026-10-21",
+      "dueDate": "2026-11-11",
+      "returnDate": null,
+      "extended": false
+    },
+    {
+      "id": 68,
+      "bookId": "B015",
+      "memberId": "M012",
+      "loanDate": "2026-10-23",
+      "dueDate": "2026-11-13",
+      "returnDate": "2026-11-04",
+      "extended": false
+    },
+    {
+      "id": 69,
+      "bookId": "B016",
+      "memberId": "M018",
+      "loanDate": "2026-10-23",
+      "dueDate": "2026-11-13",
+      "returnDate": "2026-11-06",
+      "extended": false
+    },
+    {
+      "id": 70,
+      "bookId": "B025",
+      "memberId": "M016",
+      "loanDate": "2026-10-24",
+      "dueDate": "2026-11-14",
+      "returnDate": "2026-11-06",
+      "extended": false
+    },
+    {
+      "id": 71,
+      "bookId": "B006",
+      "memberId": "M020",
+      "loanDate": "2026-10-25",
+      "dueDate": "2026-11-15",
+      "returnDate": "2026-10-29",
+      "extended": false
+    },
+    {
+      "id": 72,
+      "bookId": "B010",
+      "memberId": "M014",
+      "loanDate": "2026-10-29",
+      "dueDate": "2026-11-19",
+      "returnDate": "2026-11-04",
+      "extended": false
+    },
+    {
+      "id": 73,
+      "bookId": "B005",
+      "memberId": "M004",
+      "loanDate": "2026-10-29",
+      "dueDate": "2026-11-19",
+      "returnDate": null,
+      "extended": false
+    },
+    {
+      "id": 74,
+      "bookId": "B004",
+      "memberId": "M001",
+      "loanDate": "2026-11-03",
+      "dueDate": "2026-11-24",
+      "returnDate": "2026-11-16",
+      "extended": false
+    },
+    {
+      "id": 75,
+      "bookId": "B016",
+      "memberId": "M005",
+      "loanDate": "2026-11-04",
+      "dueDate": "2026-11-25",
+      "returnDate": "2026-11-12",
+      "extended": false
+    },
+    {
+      "id": 76,
+      "bookId": "B008",
+      "memberId": "M019",
+      "loanDate": "2026-11-05",
+      "dueDate": "2026-11-26",
+      "returnDate": null,
+      "extended": false
+    },
+    {
+      "id": 77,
+      "bookId": "B014",
+      "memberId": "M020",
+      "loanDate": "2026-11-08",
+      "dueDate": "2026-11-29",
+      "returnDate": null,
+      "extended": false
+    },
+    {
+      "id": 78,
+      "bookId": "B025",
+      "memberId": "M001",
+      "loanDate": "2026-11-13",
+      "dueDate": "2026-12-04",
+      "returnDate": null,
+      "extended": false
+    },
+    {
+      "id": 79,
+      "bookId": "B008",
+      "memberId": "M014",
+      "loanDate": "2026-11-15",
+      "dueDate": "2026-12-06",
+      "returnDate": null,
+      "extended": false
+    },
+    {
+      "id": 80,
+      "bookId": "B007",
+      "memberId": "M017",
+      "loanDate": "2026-11-16",
+      "dueDate": "2026-12-07",
+      "returnDate": null,
+      "extended": false
+    }
+  ]
+}
